@@ -14,6 +14,14 @@ Open-Source Admin Dashboard app built coded in Flask
 
 <br />
 
+### [Black Dashboard](https://appseed.us/apps/flask-dashboard/black-dashboard)
+---
+Open-Source Admin Dashboard app built coded in Flask
+
+![Flask Black Dashboard](https://raw.githubusercontent.com/app-generator/static/master/flask-black-dashboard/black-dashboard-coded-in-flask-cover-sm.jpg)
+
+<br />
+
 
 ## Related Resources
  - [Flask](http://flask.pocoo.org/) - the official website
