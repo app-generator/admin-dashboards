@@ -1,8 +1,5 @@
 # Admin Dashboards built with Flask
-Index provided by [AppSeed](https://appseed.us/apps/flask-dashboard)
-
-## Apps
-A curated list of admin apps built with Flask Microframework as backend software. 
+A curated list of admin apps built with Flask Microframework as backend software. Index provided by [AppSeed](https://appseed.us/apps/flask-dashboard).
 
 <br />
 
