@@ -14,6 +14,14 @@ Open-Source Admin Dashboard app built coded in Flask
 
 <br />
 
+### [Light Bootstrap Dashboard](https://appseed.us/apps/flask-dashboard/light-bootstrap-dashboard)
+---
+Open-Source Admin Dashboard app built coded in Flask
+
+![Light Bootstrap Dashboard](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-light-bootstrap/light-dashboard-coded-in-flask-cover-sm.jpg)
+
+<br />
+
 ### [Black Dashboard](https://appseed.us/apps/flask-dashboard/black-dashboard)
 ---
 Open-Source Admin Dashboard app built coded in Flask
