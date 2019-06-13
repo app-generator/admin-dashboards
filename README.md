@@ -1,5 +1,5 @@
-# Admin Dashboards built with Flask
-A curated list of admin apps built with Flask Microframework as backend software. Index provided by [AppSeed](https://appseed.us/apps/flask-dashboard).
+# [Admin Dashboards](https://appseed.us/apps/flask-dashboard) built with [Flask](http://flask.pocoo.org/)
+[Documented](https://docs.appseed.us/apps/flask-dashboard/) Flask admin dashboard supported and maintained by AppSeed. 
 
 <br />
 
@@ -30,7 +30,7 @@ Open-Source Admin Dashboard app built coded in Flask
 
 ## Related Resources
  - [Flask](http://flask.pocoo.org/) - the official website
- - [Documentation](https://docs.appseed.us/apps/flask-dashboard/argon-dashboard) 
+ - [Documentation](https://docs.appseed.us/apps/flask-dashboard) 
  - [Dashboards built with Flask](https://docs.appseed.us/apps/flask-dashboard)
  
  --- 
