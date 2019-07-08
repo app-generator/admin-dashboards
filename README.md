@@ -10,7 +10,7 @@
 
 Read more about [Flask Admin Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black)
 
-![Flask Admin Dashboard Black - App Screen Shot.](https://raw.githubusercontent.com/app-generator/static/master/flask-argon-dashboard/argon-dashboard-coded-in-flask-cover-sm.jpg)
+![Flask Admin Dashboard Black - App Screen Shot.](https://raw.githubusercontent.com/app-generator/static/master/flask-black-dashboard/black-dashboard-coded-in-flask-cover.jpg)
 
 ## Flask Admin Dashboard Light
 
