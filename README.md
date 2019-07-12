@@ -1,6 +1,6 @@
 # [Admin Dashboards](https://appseed.us/admin-dashboards) 
 
-[Documented](https://docs.appseed.us/admin-dashboards/) open-sourcce **Admin Dashboards** supported and maintained by AppSeed. 
+Open-source **Admin Dashboards** supported and maintained by **AppSeed** 
 
 <br />
 
