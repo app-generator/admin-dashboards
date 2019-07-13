@@ -40,5 +40,4 @@ Read more about [Flask Admin Dashboard Black](https://appseed.us/admin-dashboard
 <br />
 
 --- 
-Index provided by [AppSeed](https://appseed.us/admin-dashboards)
- 
+[Admin Dashboards](https://appseed.us/admin-dashboards) provided by **AppSeed**
