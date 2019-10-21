@@ -15,6 +15,16 @@ All apps share a common set of features: Database, ORM, Authentication flow (log
 
 <br />
 
+## [Flask Dashboard Now UI PRO](https://appseed.us/admin-dashboards/flask-dashboard-now-ui-pro)
+
+[Flask Dashboard Now UI PRO](https://appseed.us/admin-dashboards/flask-dashboard-now-ui-pro) use the latest state-of-the-art design provided by Creative-Tim. This **commercial product** includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
+
+### Flask Now UI Dashboard Links: [demo](https://flask-dashboard-now-ui-pro.appseed.us/), [product info](https://appseed.us/admin-dashboards/flask-dashboard-now-ui-pro)
+
+![Flask Dashboard Now UI PRO - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-now-ui-pro-intro.gif)
+
+<br />
+
 ## [Flask Dashboard Light PRO](https://appseed.us/admin-dashboards/flask-dashboard-light-pro)
 
 [Flask Dashboard Light PRO](https://appseed.us/admin-dashboards/flask-dashboard-light-pro) use the latest state-of-the-art design provided by Creative-Tim. This **commercial product** includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
