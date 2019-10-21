@@ -15,6 +15,16 @@ All apps share a common set of features: Database, ORM, Authentication flow (log
 
 <br />
 
+## [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)
+
+[Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) use the latest state-of-the-art design provided by Creative-Tim. This **commercial product** includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
+
+### Flask Black Dashboard Links: [demo](https://flask-dashboard-black-pro.appseed.us/), [product info](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)
+
+![Flask Dashboard Black PRO - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-pro-intro.gif)
+
+<br />
+
 ## [Flask Dashboard Paper PRO](https://appseed.us/admin-dashboards/flask-dashboard-paper-pro)
 
 [Flask Dashboard Paper PRO](https://appseed.us/admin-dashboards/flask-dashboard-paper-pro) use the latest state-of-the-art design provided by Creative-Tim. This **commercial product** includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
