@@ -27,7 +27,7 @@ All apps share a common set of features: Database, ORM, Authentication flow (log
 
 ## [Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)
 
-[Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) use the latest state-of-the-art design provided by Creative-Tim. This **commercial product** includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
+[Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro) use the latest state-of-the-art design provided by Creative-Tim. This **commercial product** includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
 
 ### Flask Argon Dashboard Links: [demo](https://flask-dashboard-argon-pro.appseed.us/), [product info](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)
 
