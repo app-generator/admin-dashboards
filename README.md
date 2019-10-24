@@ -25,6 +25,15 @@ All apps share a common set of features: Database, ORM, Authentication flow (log
 
 <br />
 
+## [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-dashboard-argon)
+
+[Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-dashboard-argon) is built on top of a fully responsive, pixel-perfect design, crafted by Creative-Tim. This admin panel, released as an open-source project includes an SQLite database, SQLAlchemy ORM, and is fully integrated into Jinja2 templating system. Your project requires authentication? No worries, Flask Argon Dashboard includes authentication by default. Other features: FTP deploy script, static export via Frozen-Flask.
+
+### Dashboard Links: [demo](https://flask-argon-dashboard.appseed.us/), [sources](https://github.com/app-generator/flask-argon-dashboard)
+![Flask Dashboard Argon - GIF animated intro.](https://github.com/app-generator/static/blob/master/products/flask-argon-dashboard-intro.gif?raw=true)
+
+<br />
+
 ## [Flask Dashboard Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)
 
 [Flask Dashboard Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) use the latest state-of-the-art design provided by Creative-Tim. This **commercial product** includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
