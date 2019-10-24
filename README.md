@@ -5,6 +5,26 @@ All apps share a common set of features: Database, ORM, Authentication flow (log
 
 <br />
 
+## [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black)
+
+[Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) use the latest state-of-the-art design provided by Creative-Tim. This app, released as an open-source project includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
+
+### Dashboard Links: [demo](https://flask-black-dashboard.appseed.us/), [sources](https://github.com/app-generator/flask-black-dashboard)
+
+![Flask Admin Dashboard Black - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-black-dashboard-intro.gif)
+
+<br />
+
+## [Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design)
+
+[Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) use the latest state-of-the-art design provided by Creative-Tim. This app, released as an open-source project includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
+
+### Dashboard Links: [demo](https://flask-now-ui-dashboard.appseed.us/), [sources](https://github.com/app-generator/flask-now-ui-dashboard)
+
+![Flask Dashboard Now UI - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-nowui-intro.gif)
+
+<br />
+
 ## [Flask Dashboard Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)
 
 [Flask Dashboard Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) use the latest state-of-the-art design provided by Creative-Tim. This **commercial product** includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
@@ -72,26 +92,6 @@ All apps share a common set of features: Database, ORM, Authentication flow (log
 ### Dashboard Links: [demo](https://flask-material-dashboard.appseed.us/), [sources](https://github.com/app-generator/flask-material-dashboard)
 
 ![Flask Dashboard Material Kit - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-kit-intro.gif)
-
-<br />
-
-## [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black)
-
-[Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) use the latest state-of-the-art design provided by Creative-Tim. This app, released as an open-source project includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
-
-### Dashboard Links: [demo](https://flask-black-dashboard.appseed.us/), [sources](https://github.com/app-generator/flask-black-dashboard)
-
-![Flask Admin Dashboard Black - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-black-dashboard-intro.gif)
-
-<br />
-
-## [Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design)
-
-[Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) use the latest state-of-the-art design provided by Creative-Tim. This app, released as an open-source project includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
-
-### Dashboard Links: [demo](https://flask-now-ui-dashboard.appseed.us/), [sources](https://github.com/app-generator/flask-now-ui-dashboard)
-
-![Flask Dashboard Now UI - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-nowui-intro.gif)
 
 <br />
 
