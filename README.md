@@ -21,7 +21,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 ### Dashboard Links: [demo](https://flask-black-staradmin.appseed.us/), [sources](https://github.com/app-generator/flask-black-staradmin)
 
-![Flask Dashboard Star Admin - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-staradmin-intro.gif)
+![Flask Dashboard Star Admin - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-staradmin-screen.png)
 
 <br />
 
@@ -31,7 +31,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 ### Dashboard Links: [demo](https://flask-now-ui-dashboard.appseed.us/), [sources](https://github.com/app-generator/flask-now-ui-dashboard)
 
-![Flask Dashboard Now UI - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-nowui-intro.gif)
+![Flask Dashboard Now UI - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-nowui-design-intro.gif)
 
 <br />
 
@@ -42,7 +42,7 @@ Other features: Authentication (Register, Login), static export via Frozen-Flask
 
 ### Dashboard Links: [demo](https://flask-black-adminator.appseed.us/), [sources](https://github.com/app-generator/flask-black-adminator)
 
-![Flask Dashboard Adminator - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-adminator -intro.gif)
+![Flask Dashboard Adminator - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-adminator-intro.gif)
 
 <br />
 
