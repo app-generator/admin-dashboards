@@ -85,6 +85,26 @@ Other features: Authentication (Register, Login), static export via Frozen-Flask
 
 <br />
 
+## [Flask Dashboard Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark) - Free
+
+Open-Source Admin Dashboard with Material Dark Design coded in Flask.
+
+### Dashboard Links: [demo](https://flask-dashboard-material-dark.appseed.us/), [sources](https://github.com/app-generator/flask-dashboard-material-dark)
+
+![Flask Dashboard Material Dark - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-dark-intro.gif)
+
+<br />
+
+## [Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - Free
+
+Open-Source Admin Dashboard with AdminLTE Design coded in Flask.
+
+### Dashboard Links: [demo](https://flask-dashboard-adminlte.appseed.us/), [sources](https://github.com/app-generator/flask-dashboard-adminlte)
+
+![Flask Dashboard AdminLTE - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-adminlte-intro.gif)
+
+<br />
+
 ## [Flask Dashboard Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)
 
 [Flask Dashboard Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) use the latest state-of-the-art design provided by Creative-Tim. This **commercial product** includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
