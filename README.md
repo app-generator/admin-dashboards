@@ -65,17 +65,6 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 <br />
 
-## [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) - @WIP 
-
-[Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - this dashboard, released as an open-source project includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. 
-Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
-
-### Dashboard Links: [demo](https://flask-dashboard-adminator.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-adminator)
-
-![Flask Dashboard Adminator - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-adminator-intro.gif)
-
-<br />
-
 ## [Flask Dashboard ModularAdmin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) - @WIP
 
 Open-Source Admin Dashboard with ModularAdmin Design coded in Flask.
@@ -163,6 +152,17 @@ Open-Source Admin Dashboard with Atlantis Dark Design coded in Flask.
 ### Dashboard Links: [demo](https://flask-dashboard-atlantis-dark.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark)
 
 ![Flask Dashboard Atlantis Dark - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-atlantis-dark-intro.gif)
+
+<br />
+
+## [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) - @WIP 
+
+[Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - this dashboard, released as an open-source project includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. 
+Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
+
+### Dashboard Links: [demo](https://flask-dashboard-adminator.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-adminator)
+
+![Flask Dashboard Adminator - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-adminator-intro.gif)
 
 <br />
 
