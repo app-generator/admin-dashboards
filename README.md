@@ -29,7 +29,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 [Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) use the latest state-of-the-art design provided by Bootstrapdash. This app, released as an open-source project includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
 
-### Dashboard Links: [demo](https://flask-black-staradmin.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-staradmin)
+### Dashboard Links: [demo](https://flask-dashboard-staradmin.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-staradmin)
 
 ![Flask Dashboard Star Admin - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-staradmin-screen.png)
 
