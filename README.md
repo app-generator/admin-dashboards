@@ -25,16 +25,6 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 <br />
 
-## [Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - Free
-
-[Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) use the latest state-of-the-art design provided by Bootstrapdash. This app, released as an open-source project includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
-
-### Dashboard Links: [demo](https://flask-dashboard-staradmin.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-staradmin)
-
-![Flask Dashboard Star Admin - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-staradmin-screen.png)
-
-<br />
-
 ## [Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) - Free 
 
 [Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) use the latest state-of-the-art design provided by Creative-Tim. This app, released as an open-source project includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
@@ -42,17 +32,6 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 ### Dashboard Links: [demo](https://flask-now-ui-dashboard.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design)
 
 ![Flask Dashboard Now UI - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-nowui-design-intro.gif)
-
-<br />
-
-## [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) - Free
-
-[Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - this dashboard, released as an open-source project includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. 
-Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
-
-### Dashboard Links: [demo](https://flask-dashboard-adminator.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-adminator)
-
-![Flask Dashboard Adminator - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-adminator-intro.gif)
 
 <br />
 
@@ -86,37 +65,28 @@ Other features: Authentication (Register, Login), static export via Frozen-Flask
 
 <br />
 
-## [Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin) - Free
+## [Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - @WIP
 
-[Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) use the latest state-of-the-art design provided by Bootstrapdash. This app, released as an open-source project includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
+[Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) use the latest state-of-the-art design provided by Bootstrapdash. This app, released as an open-source project includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
 
-### Dashboard Links: [demo](https://flask-dashboard-purpleadmin.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin)
+### Dashboard Links: [demo](https://flask-dashboard-staradmin.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-staradmin)
 
-![Flask Dashboard Purple Admin - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-purpleadmin-intro.gif)
-
-<br />
-
-## [Flask Dashboard Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark) - Free
-
-Open-Source Admin Dashboard with Material Dark Design coded in Flask.
-
-### Dashboard Links: [demo](https://flask-dashboard-material-dark.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-material-dark)
-
-![Flask Dashboard Material Dark - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-dark-intro.gif)
+![Flask Dashboard Star Admin - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-staradmin-screen.png)
 
 <br />
 
-## [Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - Free
+## [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) - @WIP 
 
-Open-Source Admin Dashboard with AdminLTE Design coded in Flask.
+[Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - this dashboard, released as an open-source project includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. 
+Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
 
-### Dashboard Links: [demo](https://flask-dashboard-adminlte.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-adminlte)
+### Dashboard Links: [demo](https://flask-dashboard-adminator.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-adminator)
 
-![Flask Dashboard AdminLTE - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-adminlte-intro.gif)
+![Flask Dashboard Adminator - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-adminator-intro.gif)
 
 <br />
 
-## [Flask Dashboard ModularAdmin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Free
+## [Flask Dashboard ModularAdmin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) - @WIP
 
 Open-Source Admin Dashboard with ModularAdmin Design coded in Flask.
 
@@ -126,7 +96,27 @@ Open-Source Admin Dashboard with ModularAdmin Design coded in Flask.
 
 <br />
 
-## [Flask Dashboard SRTDash](https://appseed.us/admin-dashboards/flask-dashboard-srtdash) - Free
+## [Flask Dashboard Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark) - @WIP
+
+Open-Source Admin Dashboard with Material Dark Design coded in Flask.
+
+### Dashboard Links: [demo](https://flask-dashboard-material-dark.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-material-dark)
+
+![Flask Dashboard Material Dark - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-dark-intro.gif)
+
+<br />
+
+## [Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - @WIP
+
+Open-Source Admin Dashboard with AdminLTE Design coded in Flask.
+
+### Dashboard Links: [demo](https://flask-dashboard-adminlte.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-adminlte)
+
+![Flask Dashboard AdminLTE - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-adminlte-intro.gif)
+
+<br />
+
+## [Flask Dashboard SRTDash](https://appseed.us/admin-dashboards/flask-dashboard-srtdash) - @WIP
 
 Open-Source Admin Dashboard with SRTDash Design coded in Flask.
 
@@ -136,7 +126,7 @@ Open-Source Admin Dashboard with SRTDash Design coded in Flask.
 
 <br />
 
-## [Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis) - Free
+## [Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis) - @WIP
 
 Open-Source Admin Dashboard with Atlantis Design coded in Flask.
 
@@ -146,7 +136,17 @@ Open-Source Admin Dashboard with Atlantis Design coded in Flask.
 
 <br />
 
-## [Flask Dashboard Shards](https://appseed.us/admin-dashboards/flask-dashboard-shards) - Free
+## [Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin) - @WIP
+
+[Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) use the latest state-of-the-art design provided by Bootstrapdash. This app, released as an open-source project includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
+
+### Dashboard Links: [demo](https://flask-dashboard-purpleadmin.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin)
+
+![Flask Dashboard Purple Admin - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-purpleadmin-intro.gif)
+
+<br />
+
+## [Flask Dashboard Shards](https://appseed.us/admin-dashboards/flask-dashboard-shards) - @WIP
 
 Open-Source Admin Dashboard with Shards Design coded in Flask.
 
@@ -156,7 +156,7 @@ Open-Source Admin Dashboard with Shards Design coded in Flask.
 
 <br />
 
-## [Flask Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) - Free
+## [Flask Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) - @WIP
 
 Open-Source Admin Dashboard with Atlantis Dark Design coded in Flask.
 
