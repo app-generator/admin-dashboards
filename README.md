@@ -65,16 +65,6 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 <br />
 
-## [Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - @WIP
-
-[Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) use the latest state-of-the-art design provided by Bootstrapdash. This app, released as an open-source project includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
-
-### Dashboard Links: [demo](https://flask-dashboard-staradmin.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-staradmin)
-
-![Flask Dashboard Star Admin - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-staradmin-screen.png)
-
-<br />
-
 ## [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) - @WIP 
 
 [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - this dashboard, released as an open-source project includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. 
@@ -93,6 +83,16 @@ Open-Source Admin Dashboard with ModularAdmin Design coded in Flask.
 ### Dashboard Links: [demo](https://flask-dashboard-modular-admin.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin)
 
 ![Flask Dashboard ModularAdmin - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-modular-admin-intro.gif)
+
+<br />
+
+## [Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - @WIP
+
+[Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) use the latest state-of-the-art design provided by Bootstrapdash. This app, released as an open-source project includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
+
+### Dashboard Links: [demo](https://flask-dashboard-staradmin.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-staradmin)
+
+![Flask Dashboard Star Admin - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-staradmin-screen.png)
 
 <br />
 
