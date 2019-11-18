@@ -65,7 +65,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 <br />
 
-## [Flask Dashboard ModularAdmin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) - @WIP
+## [Flask Dashboard ModularAdmin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin)
 
 Open-Source Admin Dashboard with ModularAdmin Design coded in Flask.
 
@@ -75,7 +75,7 @@ Open-Source Admin Dashboard with ModularAdmin Design coded in Flask.
 
 <br />
 
-## [Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - @WIP
+## [Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin)
 
 [Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) use the latest state-of-the-art design provided by Bootstrapdash. This app, released as an open-source project includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
 
