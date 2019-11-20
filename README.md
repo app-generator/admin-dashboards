@@ -55,6 +55,16 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 <br />
 
+## [Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis) - Free
+
+Open-Source Admin Dashboard with Atlantis Design coded in Flask.
+
+### Dashboard Links: [demo](https://flask-dashboard-atlantis.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-atlantis)
+
+![Flask Dashboard Atlantis - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-atlantis-intro.gif)
+
+<br />
+
 ## [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-dashboard-argon) - Free 
 
 [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-dashboard-argon) is built on top of a fully responsive, pixel-perfect design, crafted by Creative-Tim. This admin panel, released as an open-source project includes an SQLite database, SQLAlchemy ORM, and is fully integrated into Jinja2 templating system. Your project requires authentication? No worries, Flask Argon Dashboard includes authentication by default. Other features: FTP deploy script, static export via Frozen-Flask.
@@ -83,6 +93,16 @@ Other features: Authentication (Register, Login), static export via Frozen-Flask
 ### Dashboard Links: [demo](https://flask-dashboard-adminator.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-adminator)
 
 ![Flask Dashboard Adminator - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-adminator-intro.gif)
+
+<br />
+
+## [Flask Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) - Free
+
+Open-Source Admin Dashboard with Atlantis Dark Design coded in Flask.
+
+### Dashboard Links: [demo](https://flask-dashboard-atlantis-dark.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark)
+
+![Flask Dashboard Atlantis Dark - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-atlantis-dark-intro.gif)
 
 <br />
 
@@ -126,16 +146,6 @@ Open-Source Admin Dashboard with SRTDash Design coded in Flask.
 
 <br />
 
-## [Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis) - @WIP
-
-Open-Source Admin Dashboard with Atlantis Design coded in Flask.
-
-### Dashboard Links: [demo](https://flask-dashboard-atlantis.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-atlantis)
-
-![Flask Dashboard Atlantis - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-atlantis-intro.gif)
-
-<br />
-
 ## [Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin) - @WIP
 
 [Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) use the latest state-of-the-art design provided by Bootstrapdash. This app, released as an open-source project includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
@@ -153,16 +163,6 @@ Open-Source Admin Dashboard with Shards Design coded in Flask.
 ### Dashboard Links: [demo](https://flask-dashboard-shards.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-shards)
 
 ![Flask Dashboard Shards - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-shards-intro.gif)
-
-<br />
-
-## [Flask Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) - @WIP
-
-Open-Source Admin Dashboard with Atlantis Dark Design coded in Flask.
-
-### Dashboard Links: [demo](https://flask-dashboard-atlantis-dark.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark)
-
-![Flask Dashboard Atlantis Dark - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-atlantis-dark-intro.gif)
 
 <br />
 
