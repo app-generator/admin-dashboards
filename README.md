@@ -116,16 +116,6 @@ Open-Source Admin Dashboard with Atlantis Dark Design coded in Flask.
 
 <br />
 
-## [Flask Dashboard Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark) - @WIP
-
-Open-Source Admin Dashboard with Material Dark Design coded in Flask.
-
-### Dashboard Links: [demo](https://flask-dashboard-material-dark.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-material-dark)
-
-![Flask Dashboard Material Dark - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-dark-intro.gif)
-
-<br />
-
 ## [Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - @WIP
 
 Open-Source Admin Dashboard with AdminLTE Design coded in Flask.
@@ -133,6 +123,16 @@ Open-Source Admin Dashboard with AdminLTE Design coded in Flask.
 ### Dashboard Links: [demo](https://flask-dashboard-adminlte.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-adminlte)
 
 ![Flask Dashboard AdminLTE - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-adminlte-intro.gif)
+
+<br />
+
+## [Flask Dashboard Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark) - @WIP
+
+Open-Source Admin Dashboard with Material Dark Design coded in Flask.
+
+### Dashboard Links: [demo](https://flask-dashboard-material-dark.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-material-dark)
+
+![Flask Dashboard Material Dark - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-dark-intro.gif)
 
 <br />
 
