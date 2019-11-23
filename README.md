@@ -113,7 +113,7 @@ Open-Source Admin Dashboard with Atlantis Design coded in Flask.
 
 <br />
 
-## [Flask Dashboard ModularAdmin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Free 
+## [Flask Dashboard Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Free 
 
 Open-Source Admin Dashboard with ModularAdmin Design coded in Flask.
 
