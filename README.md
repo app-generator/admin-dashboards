@@ -17,7 +17,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 - Deployment scripts: Docker, Gunicorn
 - **License MIT**
 
-### Dashboard Links: [product page](https://appseed.us/admin-dashboards/flask-dashboard-adminlte), [video presentation](https://www.youtube.com/watch?v=kS2rLOF5has)
+### Dashboard Links: [product page](https://appseed.us/admin-dashboards/flask-dashboard-coreui), [video presentation](https://www.youtube.com/watch?v=kS2rLOF5has)
 
 ![Flask Dashboard CoreUI - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-coreui-intro.gif)
 
