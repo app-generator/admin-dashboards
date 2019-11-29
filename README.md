@@ -23,6 +23,24 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 <br />
 
+## [Flask Dashboard Sleek](https://github.com/app-generator/flask-dashboard-sleek) - Free
+
+**[Open-Source Admin Dashboard](https://github.com/app-generator/flask-dashboard-sleek)** coded in **Flask Framework** on top of **Sleek Dashboard** design. **Features**:
+
+- SQLite, PostgreSQL
+- SQLAlchemy ORM, Alembic (for db schema migration)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**)
+- Forms validation
+- Deployment scripts: Docker, Gunicorn
+- **License MIT**
+
+### Dashboard Links: [source code](https://github.com/app-generator/flask-dashboard-sleek), [video presentation](https://www.youtube.com/watch?v=JKSNcLhkMrI)
+
+![Flask Dashboard Sleek - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-sleek-intro.gif)
+
+<br />
+
 ## [Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - Free
 
 **[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-adminlte)** coded in **Flask Framework** on top of **AdminLTE** design. **Features**:
