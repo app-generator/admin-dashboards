@@ -206,43 +206,13 @@ Other features: Authentication (Register, Login), static export via Frozen-Flask
 
 <br />
 
-## [Flask Dashboard Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark) - @WIP
+## [Flask Dashboard Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark)
 
 Open-Source Admin Dashboard with Material Dark Design coded in Flask.
 
 ### Dashboard Links: [demo](https://flask-dashboard-material-dark.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-material-dark)
 
 ![Flask Dashboard Material Dark - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-dark-intro.gif)
-
-<br />
-
-## [Flask Dashboard SRTDash](https://appseed.us/admin-dashboards/flask-dashboard-srtdash) - @WIP
-
-Open-Source Admin Dashboard with SRTDash Design coded in Flask.
-
-### Dashboard Links: [demo](https://flask-dashboard-srtdash.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-srtdash)
-
-![Flask Dashboard SRTDash - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-srtdash-intro.gif)
-
-<br />
-
-## [Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin) - @WIP
-
-[Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) use the latest state-of-the-art design provided by Bootstrapdash. This app, released as an open-source project includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
-
-### Dashboard Links: [demo](https://flask-dashboard-purpleadmin.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin)
-
-![Flask Dashboard Purple Admin - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-purpleadmin-intro.gif)
-
-<br />
-
-## [Flask Dashboard Shards](https://appseed.us/admin-dashboards/flask-dashboard-shards) - @WIP
-
-Open-Source Admin Dashboard with Shards Design coded in Flask.
-
-### Dashboard Links: [demo](https://flask-dashboard-shards.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-shards)
-
-![Flask Dashboard Shards - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-shards-intro.gif)
 
 <br />
 
@@ -303,6 +273,36 @@ Open-Source Admin Dashboard with Shards Design coded in Flask.
 ### Flask Light Dashboard Links: [demo](https://flask-dashboard-light-pro.appseed.us/), [product info](https://appseed.us/admin-dashboards/flask-dashboard-light-pro)
 
 ![Flask Dashboard Light PRO - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-light-pro-intro.gif)
+
+<br />
+
+## [Flask Dashboard SRTDash](https://appseed.us/admin-dashboards/flask-dashboard-srtdash) - @WIP
+
+Open-Source Admin Dashboard with SRTDash Design coded in Flask.
+
+### Dashboard Links: [demo](https://flask-dashboard-srtdash.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-srtdash)
+
+![Flask Dashboard SRTDash - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-srtdash-intro.gif)
+
+<br />
+
+## [Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin) - @WIP
+
+[Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) use the latest state-of-the-art design provided by Bootstrapdash. This app, released as an open-source project includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
+
+### Dashboard Links: [demo](https://flask-dashboard-purpleadmin.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin)
+
+![Flask Dashboard Purple Admin - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-purpleadmin-intro.gif)
+
+<br />
+
+## [Flask Dashboard Shards](https://appseed.us/admin-dashboards/flask-dashboard-shards) - @WIP
+
+Open-Source Admin Dashboard with Shards Design coded in Flask.
+
+### Dashboard Links: [demo](https://flask-dashboard-shards.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-shards)
+
+![Flask Dashboard Shards - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-shards-intro.gif)
 
 <br />
 
