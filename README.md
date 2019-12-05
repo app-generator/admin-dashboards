@@ -226,6 +226,16 @@ Open-Source Admin Dashboard with Material Dark Design coded in Flask.
 
 <br />
 
+## [Flask Dashboard Shards](https://appseed.us/admin-dashboards/flask-dashboard-shards) - Free
+
+Open-Source Admin Dashboard with Shards Design coded in Flask.
+
+### Dashboard Links: [demo](https://flask-dashboard-shards.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-shards)
+
+![Flask Dashboard Shards - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-shards-intro.gif)
+
+<br />
+
 ## [Flask Dashboard Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)
 
 [Flask Dashboard Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) use the latest state-of-the-art design provided by Creative-Tim. This **commercial product** includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
@@ -293,16 +303,6 @@ Open-Source Admin Dashboard with SRTDash Design coded in Flask.
 ### Dashboard Links: [demo](https://flask-dashboard-srtdash.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-srtdash)
 
 ![Flask Dashboard SRTDash - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-srtdash-intro.gif)
-
-<br />
-
-## [Flask Dashboard Shards](https://appseed.us/admin-dashboards/flask-dashboard-shards) - @WIP
-
-Open-Source Admin Dashboard with Shards Design coded in Flask.
-
-### Dashboard Links: [demo](https://flask-dashboard-shards.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-shards)
-
-![Flask Dashboard Shards - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-shards-intro.gif)
 
 <br />
 
