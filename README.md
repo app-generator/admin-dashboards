@@ -314,15 +314,5 @@ Open-Source Admin Dashboard with Shards Design coded in Flask.
 
 <br />
 
-## [Flask Dashboard SRTDash](https://appseed.us/admin-dashboards/flask-dashboard-srtdash) - @WIP
-
-Open-Source Admin Dashboard with SRTDash Design coded in Flask.
-
-### Dashboard Links: [demo](https://flask-dashboard-srtdash.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-srtdash)
-
-![Flask Dashboard SRTDash - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-srtdash-intro.gif)
-
-<br />
-
 --- 
 [Admin Dashboards](https://appseed.us/admin-dashboards) provided by **AppSeed**
