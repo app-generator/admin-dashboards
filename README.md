@@ -226,6 +226,24 @@ Open-Source Admin Dashboard with Material Dark Design coded in Flask.
 
 <br />
 
+## [Flask Dashboard SRTdash](https://github.com/app-generator/flask-dashboard-srtdash) - Free
+
+**[Open-Source Admin Dashboard](https://github.com/app-generator/flask-dashboard-srtdash)** coded in **Flask Framework** on top of **SRTdash** design. **Features**:
+
+- SQLite, PostgreSQL
+- SQLAlchemy ORM, Alembic (for db schema migration)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**)
+- Forms validation
+- Deployment scripts: Docker, Gunicorn
+- **License MIT**
+
+### Dashboard Links: [product page](https://appseed.us/admin-dashboards/flask-dashboard-srtdash), [video presentation](https://www.youtube.com/watch?v=K-20s8QTz3Y)
+
+![Flask Dashboard SRTdash - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-srtdash-intro.gif)
+
+<br />
+
 ## [Flask Dashboard Shards](https://appseed.us/admin-dashboards/flask-dashboard-shards) - Free
 
 Open-Source Admin Dashboard with Shards Design coded in Flask.
