@@ -9,7 +9,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 [Flask Boilerplate Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) a modern Flask boilerplate that uses blueprints, Alembic migrations and deployment scripts via Docker and Nginx. Design credit: Argon Dashboard - Creative-Tim. 
 
-### Dashboard Links: [demo](https://www.youtube.com/watch?v=bnCuQzDE3Ks&t=4s/), [dashboard page](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon)
+### Dashboard Links: [demo](https://www.youtube.com/watch?v=bnCuQzDE3Ks), [dashboard page](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon)
 
 ![Flask Boilerplate Dashboard Argon - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-boilerplate-dashboard-argon-intro.gif)
 
