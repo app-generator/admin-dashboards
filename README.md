@@ -5,6 +5,26 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 <br />
 
+## [Flask Boilerplate Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - Free
+
+[Flask Boilerplate Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) a modern Flask boilerplate that uses blueprints, Alembic migrations and deployment scripts via Docker and Nginx. Design credit: Argon Dashboard - Creative-Tim. 
+
+### Dashboard Links: [demo](https://www.youtube.com/watch?v=bnCuQzDE3Ks&t=4s/), [dashboard page](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon)
+
+![Flask Boilerplate Dashboard Argon - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-boilerplate-dashboard-argon-intro.gif)
+
+<br />
+
+## [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - Free
+
+[Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) use the latest state-of-the-art design provided by Creative-Tim. This app, released as an open-source project includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
+
+### Dashboard Links: [demo](https://flask-black-dashboard.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-black)
+
+![Flask Admin Dashboard Black - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-black-dashboard-intro.gif)
+
+<br />
+
 ## [Flask Dashboard Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue) - Free
 
 **[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-light-blue)** coded in **Flask Framework** on top of **Light Blue Dashboard** design. **Features**:
@@ -56,6 +76,24 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 ### Dashboard Links: [product page](https://appseed.us/admin-dashboards/flask-dashboard-coreui), [video presentation](https://www.youtube.com/watch?v=kS2rLOF5has)
 
 ![Flask Dashboard CoreUI - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-coreui-intro.gif)
+
+<br />
+
+## [Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler) - Free
+
+**[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-tabler)** coded in **Flask Framework** on top of **Tabler** design. **Features**:
+
+- SQLite, PostgreSQL
+- SQLAlchemy ORM, Alembic (for db schema migration)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**)
+- Forms validation
+- Deployment scripts: Docker, Gunicorn
+- **License MIT**
+
+### Dashboard Links: [product page](https://appseed.us/admin-dashboards/flask-dashboard-tabler), [video presentation](https://www.youtube.com/watch?v=yQ6RIlpUkeA)
+
+![Flask Dashboard Tabler - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-tabler-intro.gif)
 
 <br />
 
@@ -112,26 +150,6 @@ Open-Source Admin Dashboard with Atlantis Dark Design coded in Flask.
 ### Dashboard Links: [demo](https://flask-dashboard-staradmin.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-staradmin)
 
 ![Flask Dashboard Star Admin - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-staradmin-screen.png)
-
-<br />
-
-## [Flask Boilerplate Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - Free
-
-[Flask Boilerplate Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) a modern Flask boilerplate that uses blueprints, Alembic migrations and deployment scripts via Docker and Nginx. Design credit: Argon Dashboard - Creative-Tim. 
-
-### Dashboard Links: [demo](https://www.youtube.com/watch?v=bnCuQzDE3Ks&t=4s/), [dashboard page](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon)
-
-![Flask Boilerplate Dashboard Argon - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-boilerplate-dashboard-argon-intro.gif)
-
-<br />
-
-## [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - Free
-
-[Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) use the latest state-of-the-art design provided by Creative-Tim. This app, released as an open-source project includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
-
-### Dashboard Links: [demo](https://flask-black-dashboard.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-black)
-
-![Flask Admin Dashboard Black - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-black-dashboard-intro.gif)
 
 <br />
 
