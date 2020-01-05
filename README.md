@@ -25,6 +25,42 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 <br />
 
+## [Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler) - Free
+
+**[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-tabler)** coded in **Flask Framework** on top of **Tabler** design. **Features**:
+
+- SQLite, PostgreSQL
+- SQLAlchemy ORM, Alembic (for db schema migration)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**)
+- Forms validation
+- Deployment scripts: Docker, Gunicorn
+- **License MIT**
+
+### Dashboard Links: [product page](https://appseed.us/admin-dashboards/flask-dashboard-tabler), [video presentation](https://www.youtube.com/watch?v=yQ6RIlpUkeA)
+
+![Flask Dashboard Tabler - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-tabler-intro.gif)
+
+<br />
+
+## [Flask Dashboard Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek) - Free
+
+**[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-sleek)** coded in **Flask Framework** on top of **Sleek Dashboard** design. **Features**:
+
+- SQLite, PostgreSQL
+- SQLAlchemy ORM, Alembic (for db schema migration)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**)
+- Forms validation
+- Deployment scripts: Docker, Gunicorn
+- **License MIT**
+
+### Dashboard Links: [source code](https://github.com/app-generator/flask-dashboard-sleek), [video presentation](https://www.youtube.com/watch?v=JKSNcLhkMrI)
+
+![Flask Dashboard Sleek - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-sleek-intro.gif)
+
+<br />
+
 ## [Django Dashboard Black](https://github.com/app-generator/django-dashboard-black) - Free
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Black Dashboard** design. **Features**:
@@ -140,42 +176,6 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 ### Dashboard Links: [product page](https://appseed.us/admin-dashboards/flask-dashboard-coreui), [video presentation](https://www.youtube.com/watch?v=kS2rLOF5has)
 
 ![Flask Dashboard CoreUI - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-coreui-intro.gif)
-
-<br />
-
-## [Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler) - Free
-
-**[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-tabler)** coded in **Flask Framework** on top of **Tabler** design. **Features**:
-
-- SQLite, PostgreSQL
-- SQLAlchemy ORM, Alembic (for db schema migration)
-- Modular design with **Blueprints**
-- Session-Based authentication (via **flask_login**)
-- Forms validation
-- Deployment scripts: Docker, Gunicorn
-- **License MIT**
-
-### Dashboard Links: [product page](https://appseed.us/admin-dashboards/flask-dashboard-tabler), [video presentation](https://www.youtube.com/watch?v=yQ6RIlpUkeA)
-
-![Flask Dashboard Tabler - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-tabler-intro.gif)
-
-<br />
-
-## [Flask Dashboard Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek) - Free
-
-**[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-sleek)** coded in **Flask Framework** on top of **Sleek Dashboard** design. **Features**:
-
-- SQLite, PostgreSQL
-- SQLAlchemy ORM, Alembic (for db schema migration)
-- Modular design with **Blueprints**
-- Session-Based authentication (via **flask_login**)
-- Forms validation
-- Deployment scripts: Docker, Gunicorn
-- **License MIT**
-
-### Dashboard Links: [source code](https://github.com/app-generator/flask-dashboard-sleek), [video presentation](https://www.youtube.com/watch?v=JKSNcLhkMrI)
-
-![Flask Dashboard Sleek - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-sleek-intro.gif)
 
 <br />
 
