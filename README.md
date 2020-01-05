@@ -179,7 +179,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 <br />
 
-# [Django Dashboard Light](https://www.youtube.com/watch?v=4b60fIglgTw)
+## [Django Dashboard Light](https://www.youtube.com/watch?v=4b60fIglgTw)
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Light Dashboard** design. **Features**:
 
