@@ -25,6 +25,70 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 <br />
 
+## [Django Dashboard Black](https://github.com/app-generator/django-dashboard-black) - Free
+
+**Open-Source Admin Panel** coded in **Django Framework** on top of **Black Dashboard** design. **Features**:
+
+- SQLite, Django native ORM
+- Modular design
+- Session-Based Authentication (login, register)
+- Forms validation
+- UI Kit: **Black Dashboard** provided by **Creative-Tim**
+
+<br />
+
+![Django Dashboard Black - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-intro.gif)
+
+<br />
+
+## [Django Dashboard Argon](https://github.com/app-generator/django-dashboard-argon) - Free
+
+**Open-Source Admin Panel** coded in **Django Framework** on top of **Argon Dashboard** design. **Features**:
+
+- SQLite, Django native ORM
+- Modular design
+- Session-Based Authentication (login, register)
+- Forms validation
+- UI Kit: **Argon Dashboard** provided by **Creative-Tim**
+
+<br />
+
+![Django Dashboard Argon - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-intro.gif)
+
+<br />
+
+## [Django Dashboard Material](https://github.com/app-generator/django-dashboard-material) - Free
+
+**Open-Source Admin Panel** coded in **Django Framework** on top of **Material Dashboard** design. **Features**:
+
+- SQLite, Django native ORM
+- Modular design
+- Session-Based Authentication (login, register)
+- Forms validation
+- UI Kit: **Material Dashboard** provided by **Creative-Tim**
+
+<br />
+
+![Django Dashboard Material - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-material-intro.gif)
+
+<br />
+
+## [Django Dashboard NowUI](https://github.com/app-generator/django-dashboard-nowui) - Free
+
+**Open-Source Admin Panel** coded in **Django Framework** on top of **NowUI Dashboard** design. **Features**:
+
+- SQLite, Django native ORM
+- Modular design
+- Session-Based authentication (login, register)
+- Forms validation
+- UI Kit: **NowUI Dashboard** provided by **Creative-Tim**
+
+<br />
+
+![Django Dashboard NowUI - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-nowui-intro.gif)
+
+<br />
+
 ## [Flask Dashboard Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue) - Free
 
 **[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-light-blue)** coded in **Flask Framework** on top of **Light Blue Dashboard** design. **Features**:
@@ -112,6 +176,22 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 ### Dashboard Links: [source code](https://github.com/app-generator/flask-dashboard-sleek), [video presentation](https://www.youtube.com/watch?v=JKSNcLhkMrI)
 
 ![Flask Dashboard Sleek - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-sleek-intro.gif)
+
+<br />
+
+# [Django Dashboard Light](https://www.youtube.com/watch?v=4b60fIglgTw)
+
+**Open-Source Admin Panel** coded in **Django Framework** on top of **Light Dashboard** design. **Features**:
+
+- SQLite, Django native ORM
+- Modular design
+- Session-Based authentication (login, register)
+- Forms validation
+- UI Kit: **Light Dashboard** provided by **Creative-Tim**
+
+<br />
+
+![Django Dashboard Light - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-light-intro.gif)
 
 <br />
 
