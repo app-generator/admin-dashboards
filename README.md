@@ -21,7 +21,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 ### Dashboard Links: [demo](https://flask-black-dashboard.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-black)
 
-![Flask Admin Dashboard Black - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-black-dashboard-screen.png)
+![Flask Admin Dashboard Black - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-screen.png)
 
 <br />
 
@@ -249,7 +249,7 @@ Open-Source Admin Dashboard with Atlantis Dark Design coded in Flask.
 
 ### Dashboard Links: [demo](https://flask-material-dashboard.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-material-design)
 
-![Flask Dashboard Material Kit - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-kit-screen.png)
+![Flask Dashboard Material Design - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-design-screen.png)
 
 <br />
 
