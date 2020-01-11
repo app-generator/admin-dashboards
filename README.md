@@ -11,7 +11,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 ### Dashboard Links: [demo](https://www.youtube.com/watch?v=bnCuQzDE3Ks), [dashboard page](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon)
 
-![Flask Boilerplate Dashboard Argon - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-boilerplate-dashboard-argon-intro.gif)
+![Flask Boilerplate Dashboard Argon - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-boilerplate-dashboard-argon-screen.png)
 
 <br />
 
@@ -21,7 +21,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 ### Dashboard Links: [demo](https://flask-black-dashboard.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-black)
 
-![Flask Admin Dashboard Black - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-black-dashboard-intro.gif)
+![Flask Admin Dashboard Black - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-black-dashboard-screen.png)
 
 <br />
 
@@ -39,7 +39,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 ### Dashboard Links: [product page](https://appseed.us/admin-dashboards/flask-dashboard-tabler), [video presentation](https://www.youtube.com/watch?v=yQ6RIlpUkeA)
 
-![Flask Dashboard Tabler - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-tabler-intro.gif)
+![Flask Dashboard Tabler - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-tabler-screen.png)
 
 <br />
 
@@ -57,7 +57,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 ### Dashboard Links: [source code](https://github.com/app-generator/flask-dashboard-sleek), [video presentation](https://www.youtube.com/watch?v=JKSNcLhkMrI)
 
-![Flask Dashboard Sleek - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-sleek-intro.gif)
+![Flask Dashboard Sleek - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-sleek-screen.png)
 
 <br />
 
@@ -73,7 +73,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 <br />
 
-![Django Dashboard Black - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-intro.gif)
+![Django Dashboard Black - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-screen.png)
 
 <br />
 
@@ -89,7 +89,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 <br />
 
-![Django Dashboard Argon - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-intro.gif)
+![Django Dashboard Argon - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-screen.png)
 
 <br />
 
@@ -105,7 +105,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 <br />
 
-![Django Dashboard Material - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-material-intro.gif)
+![Django Dashboard Material - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-material-screen.png)
 
 <br />
 
@@ -121,7 +121,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 <br />
 
-![Django Dashboard NowUI - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-nowui-intro.gif)
+![Django Dashboard NowUI - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-nowui-screen.png)
 
 <br />
 
@@ -139,7 +139,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 ### Dashboard Links: [product page](https://appseed.us/admin-dashboards/flask-dashboard-light-blue), [video presentation](https://www.youtube.com/watch?v=Vq5iY5SIZlw)
 
-![Flask Dashboard Light Blue - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-light-blue-intro.gif)
+![Flask Dashboard Light Blue - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-light-blue-screen.png)
 
 <br />
 
@@ -157,7 +157,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 ### Dashboard Links: [product page](https://appseed.us/admin-dashboards/flask-dashboard-material-admin), [video presentation](https://www.youtube.com/watch?v=NCuMK4l2KhA)
 
-![Flask Dashboard Material Admin - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-admin-intro.gif)
+![Flask Dashboard Material Admin - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-admin-screen.png)
 
 <br />
 
@@ -175,7 +175,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 ### Dashboard Links: [product page](https://appseed.us/admin-dashboards/flask-dashboard-coreui), [video presentation](https://www.youtube.com/watch?v=kS2rLOF5has)
 
-![Flask Dashboard CoreUI - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-coreui-intro.gif)
+![Flask Dashboard CoreUI - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-coreui-screen.png)
 
 <br />
 
@@ -191,7 +191,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 <br />
 
-![Django Dashboard Light - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-light-intro.gif)
+![Django Dashboard Light - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-light-screen.png)
 
 <br />
 
@@ -209,7 +209,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 ### Dashboard Links: [demo](https://flask-dashboard-adminlte.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-adminlte)
 
-![Flask Dashboard AdminLTE - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-adminlte-intro.gif)
+![Flask Dashboard AdminLTE - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-adminlte-screen.png)
 
 <br />
 
@@ -219,7 +219,7 @@ Open-Source Admin Dashboard with Atlantis Dark Design coded in Flask.
 
 ### Dashboard Links: [demo](https://flask-dashboard-atlantis-dark.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark)
 
-![Flask Dashboard Atlantis Dark - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-atlantis-dark-intro.gif)
+![Flask Dashboard Atlantis Dark - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-atlantis-dark-screen.png)
 
 <br />
 
@@ -239,7 +239,7 @@ Open-Source Admin Dashboard with Atlantis Dark Design coded in Flask.
 
 ### Dashboard Links: [demo](https://flask-now-ui-dashboard.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design)
 
-![Flask Dashboard Now UI - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-nowui-design-intro.gif)
+![Flask Dashboard Now UI - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-nowui-design-screen.png)
 
 <br />
 
@@ -249,7 +249,7 @@ Open-Source Admin Dashboard with Atlantis Dark Design coded in Flask.
 
 ### Dashboard Links: [demo](https://flask-material-dashboard.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-material-design)
 
-![Flask Dashboard Material Kit - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-kit-intro.gif)
+![Flask Dashboard Material Kit - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-kit-screen.png)
 
 <br />
 
@@ -259,7 +259,7 @@ Open-Source Admin Dashboard with Atlantis Dark Design coded in Flask.
 
 ### Dashboard Links: [demo](https://flask-dashboard-light-bootstrap.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-light-bootstrap)
 
-![Flask Dashboard Light - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-light-bootstrap-intro.gif)
+![Flask Dashboard Light - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-light-bootstrap-screen.png)
 
 <br />
 
@@ -269,7 +269,7 @@ Open-Source Admin Dashboard with Atlantis Design coded in Flask.
 
 ### Dashboard Links: [demo](https://flask-dashboard-atlantis.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-atlantis)
 
-![Flask Dashboard Atlantis - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-atlantis-intro.gif)
+![Flask Dashboard Atlantis - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-atlantis-screen.png)
 
 <br />
 
@@ -279,7 +279,7 @@ Open-Source Admin Dashboard with Atlantis Design coded in Flask.
 
 ### Dashboard Links: [demo](https://flask-argon-dashboard.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-argon)
 
-![Flask Dashboard Argon - Open-Source Admin Dashboard.](https://github.com/app-generator/static/blob/master/products/flask-argon-dashboard-intro.gif?raw=true)
+![Flask Dashboard Argon - Open-Source Admin Dashboard.](https://github.com/app-generator/static/blob/master/products/flask-argon-dashboard-screen.png?raw=true)
 
 <br />
 
@@ -289,7 +289,7 @@ Open-Source Admin Dashboard with ModularAdmin Design coded in Flask.
 
 ### Dashboard Links: [demo](https://flask-dashboard-modular-admin.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin)
 
-![Flask Dashboard ModularAdmin - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-modular-admin-intro.gif)
+![Flask Dashboard ModularAdmin - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-modular-admin-screen.png)
 
 <br />
 
@@ -300,7 +300,7 @@ Other features: Authentication (Register, Login), static export via Frozen-Flask
 
 ### Dashboard Links: [demo](https://flask-dashboard-adminator.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-adminator)
 
-![Flask Dashboard Adminator - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-adminator-intro.gif)
+![Flask Dashboard Adminator - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-adminator-screen.png)
 
 <br />
 
@@ -310,7 +310,7 @@ Open-Source Admin Dashboard with Material Dark Design coded in Flask.
 
 ### Dashboard Links: [demo](https://flask-dashboard-material-dark.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-material-dark)
 
-![Flask Dashboard Material Dark - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-dark-intro.gif)
+![Flask Dashboard Material Dark - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-dark-screen.png)
 
 <br />
 
@@ -320,7 +320,7 @@ Open-Source Admin Dashboard with Material Dark Design coded in Flask.
 
 ### Dashboard Links: [demo](https://flask-dashboard-purpleadmin.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin)
 
-![Flask Dashboard Purple Admin - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-purpleadmin-intro.gif)
+![Flask Dashboard Purple Admin - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-purpleadmin-screen.png)
 
 <br />
 
@@ -338,7 +338,7 @@ Open-Source Admin Dashboard with Material Dark Design coded in Flask.
 
 ### Dashboard Links: [product page](https://appseed.us/admin-dashboards/flask-dashboard-srtdash), [video presentation](https://www.youtube.com/watch?v=K-20s8QTz3Y)
 
-![Flask Dashboard SRTdash - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-srtdash-intro.gif)
+![Flask Dashboard SRTdash - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-srtdash-screen.png)
 
 <br />
 
@@ -348,7 +348,7 @@ Open-Source Admin Dashboard with Shards Design coded in Flask.
 
 ### Dashboard Links: [demo](https://flask-dashboard-shards.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-shards)
 
-![Flask Dashboard Shards - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-shards-intro.gif)
+![Flask Dashboard Shards - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-shards-screen.png)
 
 <br />
 
@@ -358,7 +358,7 @@ Open-Source Admin Dashboard with Shards Design coded in Flask.
 
 ### Flask Material Dashboard Links: [demo](https://flask-dashboard-material-pro.appseed.us/), [product info](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)
 
-![Flask Dashboard Material PRO - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-pro-intro.gif)
+![Flask Dashboard Material PRO - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-pro-screen.png)
 
 <br />
 
@@ -368,7 +368,7 @@ Open-Source Admin Dashboard with Shards Design coded in Flask.
 
 ### Flask Black Dashboard Links: [demo](https://flask-dashboard-black-pro.appseed.us/), [product info](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)
 
-![Flask Dashboard Black PRO - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-pro-intro.gif)
+![Flask Dashboard Black PRO - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-pro-screen.png)
 
 <br />
 
@@ -378,7 +378,7 @@ Open-Source Admin Dashboard with Shards Design coded in Flask.
 
 ### Flask Argon Dashboard Links: [demo](https://flask-dashboard-argon-pro.appseed.us/), [product info](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)
 
-![Flask Dashboard Argon PRO - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-argon-pro-intro.gif)
+![Flask Dashboard Argon PRO - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-argon-pro-screen.png)
 
 <br />
 
@@ -388,7 +388,7 @@ Open-Source Admin Dashboard with Shards Design coded in Flask.
 
 ### Flask Paper Dashboard Links: [demo](https://flask-dashboard-paper-pro.appseed.us/), [product info](https://appseed.us/admin-dashboards/flask-dashboard-paper-pro)
 
-![Flask Dashboard Paper PRO - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-paper-pro-intro.gif)
+![Flask Dashboard Paper PRO - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-paper-pro-screen.png)
 
 <br />
 
@@ -398,7 +398,7 @@ Open-Source Admin Dashboard with Shards Design coded in Flask.
 
 ### Flask Now UI Dashboard Links: [demo](https://flask-dashboard-now-ui-pro.appseed.us/), [product info](https://appseed.us/admin-dashboards/flask-dashboard-now-ui-pro)
 
-![Flask Dashboard Now UI PRO - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-now-ui-pro-intro.gif)
+![Flask Dashboard Now UI PRO - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-now-ui-pro-screen.png)
 
 <br />
 
@@ -408,7 +408,7 @@ Open-Source Admin Dashboard with Shards Design coded in Flask.
 
 ### Flask Light Dashboard Links: [demo](https://flask-dashboard-light-pro.appseed.us/), [product info](https://appseed.us/admin-dashboards/flask-dashboard-light-pro)
 
-![Flask Dashboard Light PRO - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-light-pro-intro.gif)
+![Flask Dashboard Light PRO - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-light-pro-screen.png)
 
 <br />
 
