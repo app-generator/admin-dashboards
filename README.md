@@ -61,7 +61,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 <br />
 
-## [Django Dashboard Black](https://github.com/app-generator/django-dashboard-black) - Free
+## [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - Free
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Black Dashboard** design. **Features**:
 
@@ -77,7 +77,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 <br />
 
-## [Django Dashboard Argon](https://github.com/app-generator/django-dashboard-argon) - Free
+## [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon) - Free
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Argon Dashboard** design. **Features**:
 
@@ -93,7 +93,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 <br />
 
-## [Django Dashboard Material](https://github.com/app-generator/django-dashboard-material) - Free
+## [Django Dashboard Material](https://appseed.us/admin-dashboards/django-dashboard-material) - Free
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Material Dashboard** design. **Features**:
 
@@ -109,7 +109,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 <br />
 
-## [Django Dashboard NowUI](https://github.com/app-generator/django-dashboard-nowui) - Free
+## [Django Dashboard NowUI](https://appseed.us/admin-dashboards/django-dashboard-nowui) - Free
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **NowUI Dashboard** design. **Features**:
 
@@ -179,7 +179,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 <br />
 
-## [Django Dashboard Light](https://www.youtube.com/watch?v=4b60fIglgTw)
+## [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light)  - Free
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Light Dashboard** design. **Features**:
 
