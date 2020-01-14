@@ -5,7 +5,7 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 
 <br />
 
-## [Flask Boilerplate Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - Free
+## [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - Free
 
 [Flask Boilerplate Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) a modern Flask boilerplate that uses blueprints, Alembic migrations and deployment scripts via Docker and Nginx. Design credit: Argon Dashboard - Creative-Tim. 
 
@@ -22,6 +22,22 @@ All dashboards share a common set of features: Database, ORM, Authentication flo
 ### Dashboard Links: [demo](https://flask-black-dashboard.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-black)
 
 ![Flask Admin Dashboard Black - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-screen.png)
+
+<br />
+
+## [Django Dashboard Light Blue](https://www.youtube.com/watch?v=vsR9GPxEcNQ)
+
+**Open-Source Admin Panel** coded in **Django Framework** on top of **Light Blue Dashboard** design. **Features**:
+
+- SQLite, Django native ORM
+- Modular design
+- Session-Based authentication (login, register)
+- Forms validation
+- UI Kit: **Light Blue Dashboard** provided by **FlatLogic**
+
+<br />
+
+![Django Dashboard Light Blue - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-light-blue-screen.png)
 
 <br />
 
