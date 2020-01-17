@@ -15,6 +15,34 @@
 
 <br />
 
+## [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - Free
+
+[Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) use the latest state-of-the-art design provided by Creative-Tim. This app, released as an open-source admin panel, includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login).
+
+### Dashboard Links: [demo](https://flask-black-dashboard.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-black)
+
+![Flask Admin Dashboard Black - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-screen.png)
+
+<br />
+
+## [Django Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark)
+
+**Open-Source Admin Panel** coded in **Django Framework** on top of **Atlantis Dark Dashboard** design. **Features**:
+
+- SQLite, Django native ORM
+- Modular design
+- Session-Based authentication (login, register)
+- Forms validation
+- UI Kit: **Atlantis Dark Dashboard** provided by **ThemeKita**
+- [Django Dashboard Atlantis Dark](https://github.com/app-generator/django-dashboard-atlantis-dark) - source code
+- [Django Dashboard Atlantis Dark](https://www.youtube.com/watch?v=wqyAVW_m6lk) - yTube presentation
+
+<br />
+
+![Django Dashboard Atlantis Dark - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-atlantis-dark-screen.png)
+
+<br />
+
 ## [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - Free
 
 [Flask Boilerplate Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) a modern Flask boilerplate that uses blueprints, Alembic migrations and deployment scripts via Docker and Nginx. Design credit: Argon Dashboard - Creative-Tim. 
@@ -25,17 +53,7 @@
 
 <br />
 
-## [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - Free
-
-[Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) use the latest state-of-the-art design provided by Creative-Tim. This app, released as an open-source project includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
-
-### Dashboard Links: [demo](https://flask-black-dashboard.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-black)
-
-![Flask Admin Dashboard Black - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-screen.png)
-
-<br />
-
-## [Django Dashboard Light Blue](https://www.youtube.com/watch?v=vsR9GPxEcNQ)
+## [Django Dashboard Light Blue](https://appseed.us/admin-dashboards/django-dashboard-light-blue)
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Light Blue Dashboard** design. **Features**:
 
@@ -44,28 +62,12 @@
 - Session-Based authentication (login, register)
 - Forms validation
 - UI Kit: **Light Blue Dashboard** provided by **FlatLogic**
+- [Django Dashboard Light Blue](https://github.com/app-generator/django-dashboard-light-blue) - source code
+- [Django Dashboard Light Blue](https://www.youtube.com/watch?v=vsR9GPxEcNQ) - yTube presentation
 
 <br />
 
 ![Django Dashboard Light Blue - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-light-blue-screen.png)
-
-<br />
-
-## [Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler) - Free
-
-**[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-tabler)** coded in **Flask Framework** on top of **Tabler** design. **Features**:
-
-- SQLite, PostgreSQL
-- SQLAlchemy ORM, Alembic (for db schema migration)
-- Modular design with **Blueprints**
-- Session-Based authentication (via **flask_login**)
-- Forms validation
-- Deployment scripts: Docker, Gunicorn
-- **License MIT**
-
-### Dashboard Links: [product page](https://appseed.us/admin-dashboards/flask-dashboard-tabler), [video presentation](https://www.youtube.com/watch?v=yQ6RIlpUkeA)
-
-![Flask Dashboard Tabler - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-tabler-screen.png)
 
 <br />
 
@@ -96,58 +98,12 @@
 - Session-Based Authentication (login, register)
 - Forms validation
 - UI Kit: **Black Dashboard** provided by **Creative-Tim**
+- [Django Dashboard Black](https://github.com/app-generator/django-dashboard-black) - source code
+- [Django Dashboard Black](https://www.youtube.com/watch?v=czv4Ww6rjMU) - yTube presentation
 
 <br />
 
 ![Django Dashboard Black - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-screen.png)
-
-<br />
-
-## [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon) - Free
-
-**Open-Source Admin Panel** coded in **Django Framework** on top of **Argon Dashboard** design. **Features**:
-
-- SQLite, Django native ORM
-- Modular design
-- Session-Based Authentication (login, register)
-- Forms validation
-- UI Kit: **Argon Dashboard** provided by **Creative-Tim**
-
-<br />
-
-![Django Dashboard Argon - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-screen.png)
-
-<br />
-
-## [Django Dashboard Material](https://appseed.us/admin-dashboards/django-dashboard-material) - Free
-
-**Open-Source Admin Panel** coded in **Django Framework** on top of **Material Dashboard** design. **Features**:
-
-- SQLite, Django native ORM
-- Modular design
-- Session-Based Authentication (login, register)
-- Forms validation
-- UI Kit: **Material Dashboard** provided by **Creative-Tim**
-
-<br />
-
-![Django Dashboard Material - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-material-screen.png)
-
-<br />
-
-## [Django Dashboard NowUI](https://appseed.us/admin-dashboards/django-dashboard-nowui) - Free
-
-**Open-Source Admin Panel** coded in **Django Framework** on top of **NowUI Dashboard** design. **Features**:
-
-- SQLite, Django native ORM
-- Modular design
-- Session-Based authentication (login, register)
-- Forms validation
-- UI Kit: **NowUI Dashboard** provided by **Creative-Tim**
-
-<br />
-
-![Django Dashboard NowUI - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-nowui-screen.png)
 
 <br />
 
@@ -169,6 +125,24 @@
 
 <br />
 
+## [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon) - Free
+
+**Open-Source Admin Panel** coded in **Django Framework** on top of **Argon Dashboard** design. **Features**:
+
+- SQLite, Django native ORM
+- Modular design
+- Session-Based Authentication (login, register)
+- Forms validation
+- UI Kit: **Argon Dashboard** provided by **Creative-Tim**
+- [Django Dashboard Argon](https://github.com/app-generator/django-dashboard-argon) - source code
+- [Django Dashboard Argon](https://www.youtube.com/watch?v=bGGDGltRT_g) - yTube presentation
+
+<br />
+
+![Django Dashboard Argon - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-screen.png)
+
+<br />
+
 ## [Flask Dashboard Material Admin](https://appseed.us/admin-dashboards/flask-dashboard-material-admin) - Free
 
 **[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-material-admin)** coded in **Flask Framework** on top of **Material Admin** design. **Features**:
@@ -184,6 +158,20 @@
 ### Dashboard Links: [product page](https://appseed.us/admin-dashboards/flask-dashboard-material-admin), [video presentation](https://www.youtube.com/watch?v=NCuMK4l2KhA)
 
 ![Flask Dashboard Material Admin - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-admin-screen.png)
+
+<br />
+
+## [Django Dashboard Material](https://appseed.us/admin-dashboards/django-dashboard-material) - Free
+
+**Open-Source Admin Panel** coded in **Django Framework** on top of **Material Dashboard** design. **Features**:
+
+- SQLite, Django native ORM
+- Modular design
+- Session-Based Authentication (login, register)
+- Forms validation
+- UI Kit: **Material Dashboard** provided by **Creative-Tim**
+- [Django Dashboard Material](https://github.com/app-generator/django-dashboard-material) - source code
+- [Django Dashboard Material](https://www.youtube.com/watch?v=HwloHQlDPBQ) - yTube presentation
 
 <br />
 
@@ -205,19 +193,21 @@
 
 <br />
 
-## [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light)  - Free
+## [Django Dashboard NowUI](https://appseed.us/admin-dashboards/django-dashboard-nowui) - Free
 
-**Open-Source Admin Panel** coded in **Django Framework** on top of **Light Dashboard** design. **Features**:
+**Open-Source Admin Panel** coded in **Django Framework** on top of **NowUI Dashboard** design. **Features**:
 
 - SQLite, Django native ORM
 - Modular design
 - Session-Based authentication (login, register)
 - Forms validation
-- UI Kit: **Light Dashboard** provided by **Creative-Tim**
+- UI Kit: **NowUI Dashboard** provided by **Creative-Tim**
+- [Django Dashboard NowUI](https://github.com/app-generator/django-dashboard-nowui) - source code
+- [Django Dashboard NowUI](https://www.youtube.com/watch?v=XUNiLhk31kY) - yTube presentation
 
 <br />
 
-![Django Dashboard Light - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-light-screen.png)
+![Django Dashboard NowUI - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-nowui-screen.png)
 
 <br />
 
@@ -239,6 +229,58 @@
 
 <br />
 
+## [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light) - Free
+
+**Open-Source Admin Panel** coded in **Django Framework** on top of **Light Dashboard** design. **Features**:
+
+- SQLite, Django native ORM
+- Modular design
+- Session-Based authentication (login, register)
+- Forms validation
+- UI Kit: **Light Dashboard** provided by **Creative-Tim**
+- [Django Dashboard Light](https://github.com/app-generator/django-dashboard-light) - source code
+- [Django Dashboard Light](https://www.youtube.com/watch?v=4b60fIglgTw) - yTube presentation
+
+<br />
+
+![Django Dashboard Light - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-light-screen.png)
+
+<br />
+
+## [Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler) - Free
+
+**[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-tabler)** coded in **Flask Framework** on top of **Tabler** design. **Features**:
+
+- SQLite, PostgreSQL
+- SQLAlchemy ORM, Alembic (for db schema migration)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**)
+- Forms validation
+- Deployment scripts: Docker, Gunicorn
+- **License MIT**
+
+### Dashboard Links: [product page](https://appseed.us/admin-dashboards/flask-dashboard-tabler), [video presentation](https://www.youtube.com/watch?v=yQ6RIlpUkeA)
+
+![Flask Dashboard Tabler - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-tabler-screen.png)
+
+<br />
+
+## [Django Dashboard Shards](https://appseed.us/admin-dashboards/django-dashboard-shards)
+
+**Open-Source Admin Panel** coded in **Django Framework** on top of **Shards Dashboard** design. **Features**:
+
+- SQLite, Django native ORM
+- Modular design
+- Session-Based authentication (login, register)
+- Forms validation
+- UI Kit: **Shards Dashboard** provided by **DesignRevision**
+
+<br />
+
+![Django Dashboard Shards - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-shards-screen.png)
+
+<br />
+
 ## [Flask Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) - Free
 
 Open-Source Admin Dashboard with Atlantis Dark Design coded in Flask.
@@ -256,6 +298,22 @@ Open-Source Admin Dashboard with Atlantis Dark Design coded in Flask.
 ### Dashboard Links: [demo](https://flask-dashboard-staradmin.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-staradmin)
 
 ![Flask Dashboard Star Admin - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-staradmin-screen.png)
+
+<br />
+
+## [Django Dashboard Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler)
+
+**Open-Source Admin Panel** coded in **Django Framework** on top of **Tabler Dashboard** design. **Features**:
+
+- SQLite, Django native ORM
+- Modular design
+- Session-Based authentication (login, register)
+- Forms validation
+- UI Kit: **Tabler Dashboard** provided vy CodeCalm
+
+<br />
+
+![Django Dashboard Tabler - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-tabler-screen.png)
 
 <br />
 
