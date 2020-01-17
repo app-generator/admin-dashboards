@@ -15,6 +15,68 @@
 
 <br />
 
+## Short List
+
+> [Django Admin Dashboards](https://appseed.us/admin-dashboards/django)
+
+- [Django Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) - Free, MIT License
+- [Django Dashboard Light Blue](https://appseed.us/admin-dashboards/django-dashboard-light-blue) - Free, MIT License
+- [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - Free, MIT License
+- [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon) - Free, MIT License
+- [Django Dashboard Material](https://appseed.us/admin-dashboards/django-dashboard-material) - Free, MIT License
+- [Django Dashboard NowUI](https://appseed.us/admin-dashboards/django-dashboard-nowui) - Free, MIT License
+- [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light) - Free, MIT License
+- [Django Dashboard Shards](https://appseed.us/admin-dashboards/django-dashboard-shards) - Free, MIT License
+- [Django Dashboard Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler) - Free, MIT License
+
+> [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask)
+
+- [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - Free, MIT License
+- [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - Free, MIT License
+- [Flask Dashboard Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek) - Free, MIT License
+- [Flask Dashboard Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue) - Free, MIT License
+- [Flask Dashboard Material Admin](https://appseed.us/admin-dashboards/flask-dashboard-material-admin) - Free, MIT License
+- [Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui) - Free, MIT License
+- [Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - Free, MIT License
+- [Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler) - Free, MIT License
+- [Flask Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) - Free, MIT License
+- [Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) - Free, MIT License
+- [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design) - Free, MIT License
+- [Flask Dashboard Light](https://appseed.us/admin-dashboards/flask-dashboard-light-bootstrap) - Free, MIT License
+- [Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis) - Free, MIT License
+- [Flask Dashboard Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Free, MIT License
+- [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) - Free, MIT License
+- [Flask Dashboard Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark) - Free, MIT License
+- [Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin) - Free, MIT License
+- [Flask Dashboard SRTdash](https://github.com/app-generator/flask-dashboard-srtdash) - Free, MIT License
+- [Flask Dashboard Shards](https://appseed.us/admin-dashboards/flask-dashboard-shards) - Free, MIT License
+
+<br />
+
+## Short List PRO Dashboards
+
+> [PRO Django Dashboards](https://appseed.us/bundles/django-admin-dashboards-pro)
+
+- [Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro) 
+- [Django Dashboard Dashkit PRO](https://appseed.us/admin-dashboards/django-dashboard-dashkit-pro)
+- [Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)
+- [Django Dashboard Material PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro)
+- [Django Dashboard NowUI PRO](https://appseed.us/admin-dashboards/django-dashboard-nowui-pro)
+- [Django Dashboard Paper PRO](https://appseed.us/admin-dashboards/django-dashboard-paper-pro)
+- [Django Dashboard Light PRO](https://appseed.us/admin-dashboards/django-dashboard-light-pro) 
+
+> [PRO Flask Dashboards](https://appseed.us/bundles/flask-admin-dashboards-pro)
+
+- [Flask Dashboard Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)
+- [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)
+- [Flask Dashboard Dashkit PRO](https://appseed.us/admin-dashboards/flask-dashboard-dashkit-pro)
+- [Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)
+- [Flask Dashboard Paper PRO](https://appseed.us/admin-dashboards/flask-dashboard-paper-pro)
+- [Flask Dashboard Now UI PRO](https://appseed.us/admin-dashboards/flask-dashboard-now-ui-pro)
+- [Flask Dashboard Light PRO](https://appseed.us/admin-dashboards/flask-dashboard-light-pro)
+
+<br />
+
 ## [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - Free
 
 [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) use the latest state-of-the-art design provided by Creative-Tim. This app, released as an open-source admin panel, includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login).
