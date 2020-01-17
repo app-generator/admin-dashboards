@@ -213,6 +213,10 @@
 
 <br />
 
+![Django Dashboard Material - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-material-screen.png)
+
+<br />
+
 ## [Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui) - Free
 
 **[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-coreui)** coded in **Flask Framework** on top of **CoreUI** design. **Features**:
