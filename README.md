@@ -475,4 +475,4 @@ Open-Source Admin Dashboard with Shards Design coded in Flask.
 <br />
 
 --- 
-[Admin Dashboards](https://appseed.us/admin-dashboards) provided by **AppSeed**
+**[Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source)** provided by **AppSeed**
