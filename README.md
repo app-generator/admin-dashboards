@@ -1,12 +1,12 @@
-# [Admin Dashboards](https://appseed.us/admin-dashboards) 
+# [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) 
 
-[Open-source](https://appseed.us/admin-dashboards/open-source) and paid [admin panels](https://appseed.us/admin-dashboards) coded / generated on top of various frameworks: Flask, Django.  
+[Open-source Admin Panels](https://appseed.us/admin-dashboards/open-source) coded / generated on top of various frameworks: [Flask](https://appseed.us/admin-dashboards/flask), [Django](https://appseed.us/admin-dashboards/django) and released under permissive licenses: MIT, LGPL. 
 
 <br />
 
 ## About this bundle
 
-> All web apps presented on this page (free & paid) are generated with **automation devTools** by the [AppSeed](https://appseed.us/) platform. Curious minds may read more about this new concept by accessing:  
+> All web apps presented on this page are generated with **automation devTools** by the [AppSeed](https://appseed.us/) platform. Curious minds may read more about this new concept by accessing:  
 
 - [How I’ve built 100+ open-source apps with automation tools](https://dev.to/sm0ke/100-open-source-apps-built-with-automation-tools-3jmj)
 - [Admin Dashboards - 20 Open-Source Admin Panels built with automation tools](https://dev.to/sm0ke/admin-dashboards-20-open-source-admin-panels-built-with-automation-tools-ckb)
@@ -15,9 +15,7 @@
 
 <br />
 
-## Short List
-
-> **[Django Admin Dashboards](https://appseed.us/admin-dashboards/django)**
+## [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - Short List
 
 - [Django Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) - Free, MIT License
 - [Django Dashboard Light Blue](https://appseed.us/admin-dashboards/django-dashboard-light-blue) - Free, MIT License
@@ -31,7 +29,7 @@
 
 <br />
 
-> **[Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask)**
+## [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - Short List
 
 - [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - Free, MIT License
 - [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - Free, MIT License
@@ -52,32 +50,6 @@
 - [Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin) - Free, MIT License
 - [Flask Dashboard SRTdash](https://github.com/app-generator/flask-dashboard-srtdash) - Free, MIT License
 - [Flask Dashboard Shards](https://appseed.us/admin-dashboards/flask-dashboard-shards) - Free, MIT License
-
-<br />
-
-## Short List PRO Dashboards
-
-> **[PRO Django Dashboards](https://appseed.us/bundles/django-admin-dashboards-pro)**
-
-- [Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro) 
-- [Django Dashboard Dashkit PRO](https://appseed.us/admin-dashboards/django-dashboard-dashkit-pro)
-- [Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)
-- [Django Dashboard Material PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro)
-- [Django Dashboard NowUI PRO](https://appseed.us/admin-dashboards/django-dashboard-nowui-pro)
-- [Django Dashboard Paper PRO](https://appseed.us/admin-dashboards/django-dashboard-paper-pro)
-- [Django Dashboard Light PRO](https://appseed.us/admin-dashboards/django-dashboard-light-pro) 
-
-<br />
-
-> **[PRO Flask Dashboards](https://appseed.us/bundles/flask-admin-dashboards-pro)**
-
-- [Flask Dashboard Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)
-- [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)
-- [Flask Dashboard Dashkit PRO](https://appseed.us/admin-dashboards/flask-dashboard-dashkit-pro)
-- [Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)
-- [Flask Dashboard Paper PRO](https://appseed.us/admin-dashboards/flask-dashboard-paper-pro)
-- [Flask Dashboard Now UI PRO](https://appseed.us/admin-dashboards/flask-dashboard-now-ui-pro)
-- [Flask Dashboard Light PRO](https://appseed.us/admin-dashboards/flask-dashboard-light-pro)
 
 <br />
 
@@ -499,66 +471,6 @@ Open-Source Admin Dashboard with Shards Design coded in Flask.
 ### Dashboard Links: [demo](https://flask-dashboard-shards.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-shards)
 
 ![Flask Dashboard Shards - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-shards-screen.png)
-
-<br />
-
-## [Flask Dashboard Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)
-
-[Flask Dashboard Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) use the latest state-of-the-art design provided by Creative-Tim. This **commercial product** includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
-
-### Flask Material Dashboard Links: [demo](https://flask-dashboard-material-pro.appseed.us/), [product info](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)
-
-![Flask Dashboard Material PRO - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-pro-screen.png)
-
-<br />
-
-## [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)
-
-[Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) use the latest state-of-the-art design provided by Creative-Tim. This **commercial product** includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
-
-### Flask Black Dashboard Links: [demo](https://flask-dashboard-black-pro.appseed.us/), [product info](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)
-
-![Flask Dashboard Black PRO - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-pro-screen.png)
-
-<br />
-
-## [Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)
-
-[Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro) use the latest state-of-the-art design provided by Creative-Tim. This **commercial product** includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
-
-### Flask Argon Dashboard Links: [demo](https://flask-dashboard-argon-pro.appseed.us/), [product info](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)
-
-![Flask Dashboard Argon PRO - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-argon-pro-screen.png)
-
-<br />
-
-## [Flask Dashboard Paper PRO](https://appseed.us/admin-dashboards/flask-dashboard-paper-pro)
-
-[Flask Dashboard Paper PRO](https://appseed.us/admin-dashboards/flask-dashboard-paper-pro) use the latest state-of-the-art design provided by Creative-Tim. This **commercial product** includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
-
-### Flask Paper Dashboard Links: [demo](https://flask-dashboard-paper-pro.appseed.us/), [product info](https://appseed.us/admin-dashboards/flask-dashboard-paper-pro)
-
-![Flask Dashboard Paper PRO - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-paper-pro-screen.png)
-
-<br />
-
-## [Flask Dashboard Now UI PRO](https://appseed.us/admin-dashboards/flask-dashboard-now-ui-pro)
-
-[Flask Dashboard Now UI PRO](https://appseed.us/admin-dashboards/flask-dashboard-now-ui-pro) use the latest state-of-the-art design provided by Creative-Tim. This **commercial product** includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
-
-### Flask Now UI Dashboard Links: [demo](https://flask-dashboard-now-ui-pro.appseed.us/), [product info](https://appseed.us/admin-dashboards/flask-dashboard-now-ui-pro)
-
-![Flask Dashboard Now UI PRO - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-now-ui-pro-screen.png)
-
-<br />
-
-## [Flask Dashboard Light PRO](https://appseed.us/admin-dashboards/flask-dashboard-light-pro)
-
-[Flask Dashboard Light PRO](https://appseed.us/admin-dashboards/flask-dashboard-light-pro) use the latest state-of-the-art design provided by Creative-Tim. This **commercial product** includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
-
-### Flask Light Dashboard Links: [demo](https://flask-dashboard-light-pro.appseed.us/), [product info](https://appseed.us/admin-dashboards/flask-dashboard-light-pro)
-
-![Flask Dashboard Light PRO - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-light-pro-screen.png)
 
 <br />
 
