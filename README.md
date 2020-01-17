@@ -17,7 +17,7 @@
 
 ## Short List
 
-> [Django Admin Dashboards](https://appseed.us/admin-dashboards/django)
+> **[Django Admin Dashboards](https://appseed.us/admin-dashboards/django)**
 
 - [Django Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) - Free, MIT License
 - [Django Dashboard Light Blue](https://appseed.us/admin-dashboards/django-dashboard-light-blue) - Free, MIT License
@@ -29,7 +29,9 @@
 - [Django Dashboard Shards](https://appseed.us/admin-dashboards/django-dashboard-shards) - Free, MIT License
 - [Django Dashboard Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler) - Free, MIT License
 
-> [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask)
+<br />
+
+> **[Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask)**
 
 - [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - Free, MIT License
 - [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - Free, MIT License
@@ -55,7 +57,7 @@
 
 ## Short List PRO Dashboards
 
-> [PRO Django Dashboards](https://appseed.us/bundles/django-admin-dashboards-pro)
+> **[PRO Django Dashboards](https://appseed.us/bundles/django-admin-dashboards-pro)**
 
 - [Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro) 
 - [Django Dashboard Dashkit PRO](https://appseed.us/admin-dashboards/django-dashboard-dashkit-pro)
@@ -65,7 +67,9 @@
 - [Django Dashboard Paper PRO](https://appseed.us/admin-dashboards/django-dashboard-paper-pro)
 - [Django Dashboard Light PRO](https://appseed.us/admin-dashboards/django-dashboard-light-pro) 
 
-> [PRO Flask Dashboards](https://appseed.us/bundles/flask-admin-dashboards-pro)
+<br />
+
+> **[PRO Flask Dashboards](https://appseed.us/bundles/flask-admin-dashboards-pro)**
 
 - [Flask Dashboard Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)
 - [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)
