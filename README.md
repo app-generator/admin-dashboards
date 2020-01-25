@@ -17,15 +17,16 @@
 
 ## [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - Short List
 
+- [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - Free, MIT License
+- [Django Dashboard Material](https://appseed.us/admin-dashboards/django-dashboard-material) - Free, MIT License
 - [Django Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) - Free, MIT License
 - [Django Dashboard Light Blue](https://appseed.us/admin-dashboards/django-dashboard-light-blue) - Free, MIT License
-- [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - Free, MIT License
 - [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon) - Free, MIT License
-- [Django Dashboard Material](https://appseed.us/admin-dashboards/django-dashboard-material) - Free, MIT License
 - [Django Dashboard NowUI](https://appseed.us/admin-dashboards/django-dashboard-nowui) - Free, MIT License
 - [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light) - Free, MIT License
 - [Django Dashboard Shards](https://appseed.us/admin-dashboards/django-dashboard-shards) - Free, MIT License
 - [Django Dashboard Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler) - Free, MIT License
+- [Django Dashboard Adminator](https://appseed.us/admin-dashboards/django-dashboard-adminator) - Free, MIT License
 
 <br />
 
