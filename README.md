@@ -1,6 +1,6 @@
 # [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) 
 
-[Open-source Admin Panels](https://appseed.us/admin-dashboards/open-source) coded / generated on top of various frameworks: [Flask](https://appseed.us/admin-dashboards/flask), [Django](https://appseed.us/admin-dashboards/django) and released under permissive licenses: MIT, LGPL. 
+[Open-source Admin Panels](https://appseed.us/admin-dashboards/open-source) coded / generated on top of various frameworks: [Flask](https://appseed.us/admin-dashboards/flask), [Django](https://appseed.us/admin-dashboards/django) and released under permissive licenses: MIT, LGPL - Provided by **AppSeed - [Web App Generator](https://appseed.us/app-generator)**
 
 <br />
 
@@ -480,4 +480,4 @@ Open-Source Admin Dashboard with Shards Design coded in Flask.
 <br />
 
 --- 
-**[Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source)** provided by **AppSeed**
+**[Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source)** - Provided by **AppSeed - [Web App Generator](https://appseed.us/app-generator)**
