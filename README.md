@@ -36,7 +36,7 @@
 - [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - Free, MIT License
 - [Flask Dashboard Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek) - Free, MIT License
 - [Flask Dashboard Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue) - Free, MIT License
-- [Flask Dashboard Material Admin](https://appseed.us/admin-dashboards/flask-dashboard-material-admin) - Free, MIT License
+- [Flask Dashboard Admin Material](https://appseed.us/admin-dashboards/flask-dashboard-admin-material) - Free, MIT License
 - [Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui) - Free, MIT License
 - [Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - Free, MIT License
 - [Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler) - Free, MIT License
