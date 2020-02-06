@@ -49,7 +49,7 @@
 - [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) - Free, MIT License
 - [Flask Dashboard Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark) - Free, MIT License
 - [Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin) - Free, MIT License
-- [Flask Dashboard SRTdash](https://github.com/app-generator/flask-dashboard-srtdash) - Free, MIT License
+- [Flask Dashboard SRTdash](https://appseed.us/admin-dashboards/flask-dashboard-srtdash) - Free, MIT License
 - [Flask Dashboard Shards](https://appseed.us/admin-dashboards/flask-dashboard-shards) - Free, MIT License
 
 <br />
