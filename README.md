@@ -15,6 +15,30 @@
 
 <br />
 
+## [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - Short List
+
+- [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - Free, MIT License, [demo](https://flask-dashboard-black.herokuapp.com/login)
+- [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - Free, MIT License, [demo](https://flask-dashboard-argon.herokuapp.com/login)
+- [Flask Dashboard Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek) - Free, MIT License, [demo](https://flask-dashboard-sleek.herokuapp.com/login)
+- [Flask Dashboard Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue) - Free, MIT License, [demo](https://flask-dashboard-light-blue.herokuapp.com/login)
+- [Flask Dashboard Admin Material](https://appseed.us/admin-dashboards/flask-dashboard-admin-material) - Free, MIT License, [demo](https://flask-dashboard-material-admin.herokuapp.com/login)
+- [Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui) - Free, MIT License, [demo](https://flask-dashboard-coreui.herokuapp.com/login)
+- [Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - Free, MIT License, [demo](https://flask-dashboard-adminlte.herokuapp.com/login)
+- [Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler) - Free, MIT License, [demo](https://flask-dashboard-tabler.herokuapp.com/login)
+- [Flask Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) - Free, MIT License, [demo](https://flask-dashboard-atln-dark.herokuapp.com/login.html)
+- [Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) - Free, MIT License, [demo](https://flask-now-ui-dashboard.herokuapp.com/login.html)
+- [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design) - Free, MIT License, [demo](https://flask-dashboard-material.herokuapp.com/login)
+- [Flask Dashboard Light](https://appseed.us/admin-dashboards/flask-dashboard-light-bootstrap) - Free, MIT License, [demo](https://flask-dashboard-light.herokuapp.com/login.html)
+- [Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis) - Free, MIT License, [demo](https://flask-dashboard-atlantis.herokuapp.com/login.html)
+- [Flask Dashboard Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Free, MIT License, [demo](https://flask-dashboard-modular-admin.herokuapp.com/login.html)
+- [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) - Free, MIT License, [demo](https://flask-dashboard-adminator.herokuapp.com/login.html)
+- [Flask Dashboard Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark) - Free, MIT License, [demo](https://flask-dashboard-material-dark.herokuapp.com/login)
+- [Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin) - Free, MIT License, [demo](https://flask-dashboard-purpleadmin.herokuapp.com/login)
+- [Flask Dashboard SRTdash](https://appseed.us/admin-dashboards/flask-dashboard-srtdash) - Free, MIT License, [demo](https://flask-dashboard-srtdash.herokuapp.com/login)
+- [Flask Dashboard Shards](https://appseed.us/admin-dashboards/flask-dashboard-shards) - Free, MIT License, [demo](https://flask-dashboard-shards.herokuapp.com/login)
+
+<br />
+
 ## [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - Short List
 
 - [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - Free, MIT License
@@ -30,35 +54,11 @@
 
 <br />
 
-## [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - Short List
-
-- [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - Free, MIT License
-- [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - Free, MIT License
-- [Flask Dashboard Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek) - Free, MIT License
-- [Flask Dashboard Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue) - Free, MIT License
-- [Flask Dashboard Admin Material](https://appseed.us/admin-dashboards/flask-dashboard-admin-material) - Free, MIT License
-- [Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui) - Free, MIT License
-- [Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - Free, MIT License
-- [Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler) - Free, MIT License
-- [Flask Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) - Free, MIT License
-- [Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) - Free, MIT License
-- [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design) - Free, MIT License
-- [Flask Dashboard Light](https://appseed.us/admin-dashboards/flask-dashboard-light-bootstrap) - Free, MIT License
-- [Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis) - Free, MIT License
-- [Flask Dashboard Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Free, MIT License
-- [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) - Free, MIT License
-- [Flask Dashboard Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark) - Free, MIT License
-- [Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin) - Free, MIT License
-- [Flask Dashboard SRTdash](https://appseed.us/admin-dashboards/flask-dashboard-srtdash) - Free, MIT License
-- [Flask Dashboard Shards](https://appseed.us/admin-dashboards/flask-dashboard-shards) - Free, MIT License
-
-<br />
-
 ## [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - Free
 
 [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) use the latest state-of-the-art design provided by Creative-Tim. This app, released as an open-source admin panel, includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login).
 
-### Dashboard Links: [demo](https://flask-black-dashboard.appseed.us/), [dashboard page](https://appseed.us/admin-dashboards/flask-dashboard-black)
+### Dashboard Links: [demo](https://flask-dashboard-black.herokuapp.com/login), [product page](https://appseed.us/admin-dashboards/flask-dashboard-black)
 
 ![Flask Admin Dashboard Black - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-screen.png)
 
@@ -86,7 +86,7 @@
 
 [Flask Boilerplate Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) a modern Flask boilerplate that uses blueprints, Alembic migrations and deployment scripts via Docker and Nginx. Design credit: Argon Dashboard - Creative-Tim. 
 
-### Dashboard Links: [demo](https://www.youtube.com/watch?v=bnCuQzDE3Ks), [dashboard page](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon)
+### Dashboard Links: [demo](https://flask-dashboard-argon.herokuapp.com/login), [product page](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon)
 
 ![Flask Boilerplate Dashboard Argon - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-boilerplate-dashboard-argon-screen.png)
 
