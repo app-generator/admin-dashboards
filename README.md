@@ -29,12 +29,12 @@
 - [Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) - Free, MIT License, [demo](https://flask-now-ui-dashboard.appseed.us/login.html)
 - [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design) - Free, MIT License, [demo](https://flask-dashboard-material.appseed.us/login)
 - [Flask Dashboard Light](https://appseed.us/admin-dashboards/flask-dashboard-light-bootstrap) - Free, MIT License, [demo](https://flask-dashboard-light.appseed.us/login.html)
-- [Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis) - Free, MIT License, [demo](https://flask-dashboard-atlantis.appseed.us/login.html)
+- [Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis) - Free, MIT License, [demo](https://flask-dashboard-atlantis.appseed.us/login)
 - [Flask Dashboard Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Free, MIT License, [demo](https://flask-dashboard-modular-admin.appseed.us/login.html)
 - [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) - Free, MIT License, [demo](https://flask-dashboard-adminator.herokuapp.com/login.html)
 - [Flask Dashboard Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark) - Free, MIT License, [demo](https://flask-dashboard-material-dark.appseed.us/login)
 - [Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin) - Free, MIT License, [demo](https://flask-dashboard-purpleadmin.appseed.us/login)
-- [Flask Dashboard SRTdash](https://appseed.us/admin-dashboards/flask-dashboard-srtdash) - Free, MIT License, [demo](https://flask-dashboard-srtdash.herokuapp.com/login)
+- [Flask Dashboard SRTdash](https://appseed.us/admin-dashboards/flask-dashboard-srtdash) - Free, MIT License, [demo](https://flask-dashboard-srtdash.appseed.us/login)
 - [Flask Dashboard Shards](https://appseed.us/admin-dashboards/flask-dashboard-shards) - Free, MIT License, [demo](https://flask-dashboard-shards.appseed.us/login)
 
 <br />
