@@ -25,7 +25,7 @@
 - [Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui) - Free, MIT License, [demo](https://flask-dashboard-coreui.appseed.us/login)
 - [Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - Free, MIT License, [demo](https://flask-dashboard-adminlte.appseed.us/login)
 - [Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler) - Free, MIT License, [demo](https://flask-dashboard-tabler.appseed.us/login)
-- [Flask Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) - Free, MIT License, [demo](https://flask-dashboard-atln-dark.appseed.us/login.html)
+- [Flask Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) - Free, MIT License, [demo](https://flask-dashboard-atlantis-dark.appseed.us/login.html)
 - [Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) - Free, MIT License, [demo](https://flask-now-ui-dashboard.appseed.us/login.html)
 - [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design) - Free, MIT License, [demo](https://flask-dashboard-material.appseed.us/login)
 - [Flask Dashboard Light](https://appseed.us/admin-dashboards/flask-dashboard-light-bootstrap) - Free, MIT License, [demo](https://flask-dashboard-light.appseed.us/login.html)
