@@ -20,7 +20,7 @@
 - [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - Free, MIT License, [LIVE demo](https://flask-dashboard-black.appseed.us/login), [source code](https://github.com/app-generator/flask-black-dashboard) - **[PRO version](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)** available
 - [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design) - Free, MIT License, [LIVE demo](https://flask-dashboard-material.appseed.us/login), [source code](https://github.com/app-generator/flask-material-dashboard) - **[PRO version](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)** available
 - [Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) - Free, MIT License, [LIVE demo](https://flask-now-ui-dashboard.appseed.us/login.html), [sources](https://github.com/app-generator/flask-now-ui-dashboard) - **[PRO version](https://appseed.us/admin-dashboards/flask-dashboard-now-ui-pro)** available
-- [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - Free, MIT License, [LIVE demo](https://flask-dashboard-argon.appseed.us/login), [source code](https://github.com/app-generator/flask-argon-dashboard) - **[PRO version](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)** available
+- [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - Free, MIT License, [LIVE demo](https://flask-dashboard-argon.appseed.us/login), [source code](https://github.com/app-generator/flask-boilerplate-dashboard-argon) - **[PRO version](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)** available
 - [Flask Dashboard Light](https://appseed.us/admin-dashboards/flask-dashboard-light-bootstrap) - Free, MIT License, [LIVE demo](https://flask-dashboard-light.appseed.us/login.html), [source code](https://github.com/app-generator/flask-dashboard-light-bootstrap) - **[PRO version](https://appseed.us/admin-dashboards/flask-dashboard-light-pro)** available
 - [Flask Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) - Free, MIT License, [LIVE demo](https://flask-dashboard-atlantis-dark.appseed.us/login.html), [sources](https://github.com/app-generator/flask-dashboard-atlantis-dark) - **[PRO version](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark-pro)** available
 - [Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis) - Free, MIT License, [LIVE demo](https://flask-dashboard-atlantis.appseed.us/), [sources](https://github.com/app-generator/flask-dashboard-atlantis) - **[PRO version](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-pro)** available
@@ -59,9 +59,15 @@
 
 ## [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - Free
 
-[Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) use the latest state-of-the-art design provided by Creative-Tim. This app, released as an open-source admin panel, includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login).
+**Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)**. **Features**: 
 
-### Dashboard Links: [demo](https://flask-dashboard-black.herokuapp.com/login), [product page](https://appseed.us/admin-dashboards/flask-dashboard-black)
+- SQLite, PostgreSQL, SQLAlchemy ORM
+- Alembic (DB schema migrations)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**)
+- Forms validation
+- Deployment scripts: Docker, Gunicorn
+- UI Kit: **Black Dashboard** (Free Version) provided by **Creative-Tim**
 
 ![Flask Admin Dashboard Black - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-screen.png)
 
@@ -76,8 +82,6 @@
 - Session-Based authentication (login, register)
 - Forms validation
 - UI Kit: **Atlantis Dark Dashboard** provided by **ThemeKita**
-- [Django Dashboard Atlantis Dark](https://github.com/app-generator/django-dashboard-atlantis-dark) - source code
-- [Django Dashboard Atlantis Dark](https://www.youtube.com/watch?v=wqyAVW_m6lk) - yTube presentation
 
 <br />
 
@@ -87,9 +91,15 @@
 
 ## [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - Free
 
-[Flask Boilerplate Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) a modern Flask boilerplate that uses blueprints, Alembic migrations and deployment scripts via Docker and Nginx. Design credit: Argon Dashboard - Creative-Tim. 
+**Open-Source Admin Panel** coded in **Flask Framework** on top of **Argon Dashboard** design. **Features**:
 
-### Dashboard Links: [demo](https://flask-dashboard-argon.herokuapp.com/login), [product page](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon)
+- SQLite, PostgreSQL, SQLAlchemy ORM
+- Alembic (for DB schema migrations)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**)
+- Forms validation
+- Deployment scripts: Docker, Gunicorn
+- UI Kit: **Argon Dashboard** (Free Version) by **Creative-Tim**
 
 ![Flask Boilerplate Dashboard Argon - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-boilerplate-dashboard-argon-screen.png)
 
