@@ -118,8 +118,6 @@
 - Session-Based authentication (login, register)
 - Forms validation
 - UI Kit: **Light Blue Dashboard** provided by **FlatLogic**
-- [Django Dashboard Light Blue](https://github.com/app-generator/django-dashboard-light-blue) - source code
-- [Django Dashboard Light Blue](https://www.youtube.com/watch?v=vsR9GPxEcNQ) - yTube presentation
 
 <br />
 
@@ -154,8 +152,6 @@
 - Session-Based Authentication (login, register)
 - Forms validation
 - UI Kit: **Black Dashboard** provided by **Creative-Tim**
-- [Django Dashboard Black](https://github.com/app-generator/django-dashboard-black) - source code
-- [Django Dashboard Black](https://www.youtube.com/watch?v=czv4Ww6rjMU) - yTube presentation
 
 <br />
 
@@ -190,8 +186,6 @@
 - Session-Based Authentication (login, register)
 - Forms validation
 - UI Kit: **Argon Dashboard** provided by **Creative-Tim**
-- [Django Dashboard Argon](https://github.com/app-generator/django-dashboard-argon) - source code
-- [Django Dashboard Argon](https://www.youtube.com/watch?v=bGGDGltRT_g) - yTube presentation
 
 <br />
 
@@ -226,8 +220,6 @@
 - Session-Based Authentication (login, register)
 - Forms validation
 - UI Kit: **Material Dashboard** provided by **Creative-Tim**
-- [Django Dashboard Material](https://github.com/app-generator/django-dashboard-material) - source code
-- [Django Dashboard Material](https://www.youtube.com/watch?v=HwloHQlDPBQ) - yTube presentation
 
 <br />
 
@@ -245,7 +237,6 @@
 - Session-Based authentication (via **flask_login**)
 - Forms validation
 - Deployment scripts: Docker, Gunicorn
-- **License MIT**
 
 <br />
 
@@ -262,8 +253,6 @@
 - Session-Based authentication (login, register)
 - Forms validation
 - UI Kit: **NowUI Dashboard** provided by **Creative-Tim**
-- [Django Dashboard NowUI](https://github.com/app-generator/django-dashboard-nowui) - source code
-- [Django Dashboard NowUI](https://www.youtube.com/watch?v=XUNiLhk31kY) - yTube presentation
 
 <br />
 
@@ -281,7 +270,6 @@
 - Session-Based authentication (via **flask_login**)
 - Forms validation
 - Deployment scripts: Docker, Gunicorn
-- **License MIT**
 
 <br />
 
@@ -298,8 +286,6 @@
 - Session-Based authentication (login, register)
 - Forms validation
 - UI Kit: **Light Dashboard** provided by **Creative-Tim**
-- [Django Dashboard Light](https://github.com/app-generator/django-dashboard-light) - source code
-- [Django Dashboard Light](https://www.youtube.com/watch?v=4b60fIglgTw) - yTube presentation
 
 <br />
 
@@ -317,7 +303,6 @@
 - Session-Based authentication (via **flask_login**)
 - Forms validation
 - Deployment scripts: Docker, Gunicorn
-- **License MIT**
 
 <br />
 
