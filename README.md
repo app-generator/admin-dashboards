@@ -31,7 +31,6 @@
 - [Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui) - Free, MIT License, [LIVE demo](https://flask-dashboard-coreui.appseed.us/login), [dashboard sources](https://github.com/app-generator/flask-dashboard-coreui)
 - [Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - Free, MIT License, [LIVE demo](https://flask-dashboard-adminlte.appseed.us/login), [sources](https://github.com/app-generator/flask-dashboard-adminlte)
 - [Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler) - Free, MIT License, [LIVE demo](https://flask-dashboard-tabler.appseed.us/login), [source code](https://github.com/app-generator/flask-dashboard-tabler)
-
 - [Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis) - Free, MIT License, [LIVE demo](https://flask-dashboard-atlantis.appseed.us/login), [sources](https://github.com/app-generator/flask-dashboard-atlantis)
 - [Flask Dashboard Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Free, MIT License, [LIVE demo](https://flask-dashboard-modular-admin.appseed.us/login.html), [dashboard sources](https://github.com/app-generator/flask-dashboard-modular-admin)
 - [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) - Free, MIT License, [LIVE demo](https://flask-dashboard-adminator.appseed.us/login.html), [sources](https://github.com/app-generator/flask-dashboard-adminator)
