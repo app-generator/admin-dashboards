@@ -17,7 +17,7 @@
 
 ## [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - Short List
 
-- [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - Free, MIT License, [LIVE demo](https://flask-dashboard-black.appseed.us/login), [source code](https://github.com/app-generator/flask-black-dashboard) - **[Flask Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)** version
+- [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - Free, MIT License, [LIVE demo](https://flask-dashboard-black.appseed.us/login), [source code](https://github.com/app-generator/flask-black-dashboard) - **[Flask Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)** (Premium UI Kit, LIVE support)
 - [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - Free, MIT License, [LIVE demo](https://flask-dashboard-argon.appseed.us/login), [source code](https://github.com/app-generator/flask-argon-dashboard)
 - [Flask Dashboard Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek) - Free, MIT License, [LIVE demo](https://flask-dashboard-sleek.appseed.us/login), [source code](https://github.com/app-generator/flask-dashboard-sleek)
 - [Flask Dashboard Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue) - Free, MIT License, [LIVE demo](https://flask-dashboard-light-blue.appseed.us/login), [source code](https://github.com/app-generator/flask-dashboard-light-blue)
