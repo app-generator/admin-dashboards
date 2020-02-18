@@ -57,7 +57,7 @@
 
 <br />
 
-## [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black)
+## [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - [LIVE Demo](https://flask-dashboard-black.appseed.us/login)
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)**. **Features**: 
 
@@ -75,7 +75,7 @@
 
 <br />
 
-## [Django Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark)
+## [Django Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) - [LIVE Demo](https://flask-dashboard-atlantis-dark.appseed.us/login.html)
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Atlantis Dark Dashboard** design. **Features**:
 
@@ -91,7 +91,7 @@
 
 <br />
 
-## [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon)
+## [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - [LIVE Demo](https://flask-dashboard-argon.appseed.us/login)
 
 **Open-Source Admin Panel** coded in **Flask Framework** on top of **Argon Dashboard** design. **Features**:
 
@@ -109,7 +109,7 @@
 
 <br />
 
-## [Django Dashboard Light Blue](https://appseed.us/admin-dashboards/django-dashboard-light-blue)
+## [Django Dashboard Light Blue](https://appseed.us/admin-dashboards/django-dashboard-light-blue) - [LIVE Demo](https://django-dashboard-light-blue.appseed.us/login/)
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Light Blue Dashboard** design. **Features**:
 
@@ -125,7 +125,7 @@
 
 <br />
 
-## [Flask Dashboard Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek)
+## [Flask Dashboard Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek) - [LIVE Demo](https://flask-dashboard-sleek.appseed.us/login)
 
 **[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-sleek)** coded in **Flask Framework** on top of **Sleek Dashboard** design. **Features**:
 
@@ -143,7 +143,7 @@
 
 <br />
 
-## [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black)
+## [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - [LIVE Demo](https://django-dashboard-black.appseed.us/login/)
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Black Dashboard** design. **Features**:
 
@@ -159,7 +159,7 @@
 
 <br />
 
-## [Flask Dashboard Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue)
+## [Flask Dashboard Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue) - [LIVE Demo](https://flask-dashboard-light-blue.appseed.us/login)
 
 **[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-light-blue)** coded in **Flask Framework** on top of **Light Blue Dashboard** design. **Features**:
 
@@ -177,7 +177,7 @@
 
 <br />
 
-## [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon)
+## [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon) - [LIVE Demo](https://django-dashboard-argon.appseed.us/login/)
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Argon Dashboard** design. **Features**:
 
@@ -193,7 +193,7 @@
 
 <br />
 
-## [Flask Dashboard Material Admin](https://appseed.us/admin-dashboards/flask-dashboard-material-admin)
+## [Flask Dashboard Material Admin](https://appseed.us/admin-dashboards/flask-dashboard-material-admin) - [LIVE Demo](https://flask-dashboard-material-admin.appseed.us/login)
 
 **[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-material-admin)** coded in **Flask Framework** on top of **Material Admin** design. **Features**:
 
@@ -211,7 +211,7 @@
 
 <br />
 
-## [Django Dashboard Material](https://appseed.us/admin-dashboards/django-dashboard-material)
+## [Django Dashboard Material](https://appseed.us/admin-dashboards/django-dashboard-material) - [LIVE Demo](https://flask-dashboard-material.appseed.us/login)
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Material Dashboard** design. **Features**:
 
@@ -227,7 +227,7 @@
 
 <br />
 
-## [Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui)
+## [Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui) - [LIVE Demo](https://flask-dashboard-coreui.appseed.us/login)
 
 **[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-coreui)** coded in **Flask Framework** on top of **CoreUI** design. **Features**:
 
@@ -244,7 +244,7 @@
 
 <br />
 
-## [Django Dashboard NowUI](https://appseed.us/admin-dashboards/django-dashboard-nowui)
+## [Django Dashboard NowUI](https://appseed.us/admin-dashboards/django-dashboard-nowui) - [LIVE Demo](https://django-dashboard-nowui.appseed.us/login/)
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **NowUI Dashboard** design. **Features**:
 
@@ -260,7 +260,7 @@
 
 <br />
 
-## [Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte)
+## [Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - [LIVE Demo](https://flask-dashboard-adminlte.appseed.us/login)
 
 **[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-adminlte)** coded in **Flask Framework** on top of **AdminLTE** design. **Features**:
 
@@ -277,7 +277,7 @@
 
 <br />
 
-## [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light)
+## [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light) - [LIVE Demo](https://django-dashboard-light.appseed.us/login/)
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Light Dashboard** design. **Features**:
 
@@ -293,7 +293,7 @@
 
 <br />
 
-## [Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler)
+## [Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler) - [LIVE Demo](https://flask-dashboard-tabler.appseed.us/login)
 
 **[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-tabler)** coded in **Flask Framework** on top of **Tabler** design. **Features**:
 
@@ -310,7 +310,7 @@
 
 <br />
 
-## [Django Dashboard Shards](https://appseed.us/admin-dashboards/django-dashboard-shards)
+## [Django Dashboard Shards](https://appseed.us/admin-dashboards/django-dashboard-shards) - [LIVE Demo](https://django-dashboard-shards.appseed.us/login/)
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Shards Dashboard** design. **Features**:
 
@@ -326,7 +326,7 @@
 
 <br />
 
-## [Flask Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark)
+## [Flask Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) - [LIVE Demo](https://flask-dashboard-atlantis-dark.appseed.us/login.html)
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)**. Features:
 
@@ -342,7 +342,7 @@
 
 <br />
 
-## [Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) 
+## [Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - [LIVE Demo](https://flask-dashboard-staradmin.appseed.us/login.html)
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)**. Features:
 
@@ -357,7 +357,7 @@
 
 <br />
 
-## [Django Dashboard Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler)
+## [Django Dashboard Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler) - [LIVE Demo](https://django-dashboard-tabler.appseed.us/login/)
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Tabler Dashboard** design. **Features**:
 
@@ -373,7 +373,7 @@
 
 <br />
 
-## [Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) 
+## [Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) - [LIVE Demo](https://flask-now-ui-dashboard.appseed.us/login.html) 
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)**. Features:
 
@@ -388,7 +388,7 @@
 
 <br />
 
-## [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design)
+## [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design) - [LIVE Demo](https://flask-dashboard-material.appseed.us/login)
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)**. Features:
 
@@ -406,7 +406,7 @@
 
 <br />
 
-## [Flask Dashboard Light](https://appseed.us/admin-dashboards/flask-dashboard-light-bootstrap) 
+## [Flask Dashboard Light](https://appseed.us/admin-dashboards/flask-dashboard-light-bootstrap) - [LIVE Demo](https://flask-dashboard-light.appseed.us/login.html) 
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)**. Features:
 
@@ -421,7 +421,7 @@
 
 <br />
 
-## [Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis)
+## [Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis) - [LIVE Demo](https://flask-dashboard-atlantis.appseed.us/) 
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)**. Features:
 
@@ -436,7 +436,7 @@
 
 <br />
 
-## [Flask Dashboard Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin)
+## [Flask Dashboard Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) - [LIVE Demo](https://flask-dashboard-modular-admin.appseed.us/login.html) 
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)**. Features:
 
@@ -451,7 +451,7 @@
 
 <br />
 
-## [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) 
+## [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) - [LIVE Demo](https://flask-dashboard-adminator.appseed.us/login.html)  
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)**. Features:
 
@@ -466,7 +466,7 @@
 
 <br />
 
-## [Flask Dashboard Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark)
+## [Flask Dashboard Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark) - [LIVE Demo](https://flask-dashboard-material-dark.appseed.us/login)  
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)**. Features:
 
@@ -484,7 +484,7 @@
 
 <br />
 
-## [Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin)
+## [Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin) - [LIVE Demo](https://flask-dashboard-purpleadmin.appseed.us/login)  
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)**. Features:
 
@@ -502,7 +502,7 @@
 
 <br />
 
-## [Flask Dashboard SRTdash](https://github.com/app-generator/flask-dashboard-srtdash)
+## [Flask Dashboard SRTdash](https://github.com/app-generator/flask-dashboard-srtdash) - [LIVE Demo](https://flask-dashboard-srtdash.appseed.us/login)  
 
 **[Open-Source Admin Dashboard](https://github.com/app-generator/flask-dashboard-srtdash)** coded in **Flask Framework** on top of **SRTdash** design. **Features**:
 
@@ -520,7 +520,7 @@
 
 <br />
 
-## [Flask Dashboard Shards](https://appseed.us/admin-dashboards/flask-dashboard-shards)
+## [Flask Dashboard Shards](https://appseed.us/admin-dashboards/flask-dashboard-shards) - [LIVE Demo](https://flask-dashboard-shards.appseed.us/login)  
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)**. Features:
 
@@ -535,6 +535,29 @@
 <br />
 
 ![Flask Dashboard Shards - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-shards-screen.png)
+
+<br />
+
+### Credits & Links
+---
+
+<br />
+
+**[What is dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))**
+
+In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))** is a user interface that, somewhat resembling an automobile's dashboard, organizes and presents information in a way that is easy to read. However, a computer dashboard is more likely to be interactive than an automobile dashboard (unless it is also computer-based). To some extent, most graphical user interfaces (GUIs) resemble a dashboard - by [Techtarget](https://searchcio.techtarget.com/definition/dashboard) 
+
+<br />
+
+**What is [Django](https://www.djangoproject.com/)**
+
+**[Django](https://www.djangoproject.com/)** is a Python-based free and open-source web framework, which follows the model-template-view architectural pattern. It is maintained by the Django Software Foundation, an independent organization established as a 501 non-profit. Django's primary goal is to ease the creation of complex, database-driven websites.
+
+<br />
+
+**What is [Flask](https://www.palletsprojects.com/p/flask/)**
+
+[Flask](https://www.palletsprojects.com/p/flask/) is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
 
 <br />
 
