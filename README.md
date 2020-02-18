@@ -69,6 +69,8 @@
 - Deployment scripts: Docker, Gunicorn
 - UI Kit: **Black Dashboard** (Free Version) provided by **Creative-Tim**
 
+<br />
+
 ![Flask Admin Dashboard Black - Open-Source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-screen.png)
 
 <br />
