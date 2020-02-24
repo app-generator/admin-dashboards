@@ -45,7 +45,7 @@
 
 | Item | Design | License | - | - | - |
 | --- | --- | --- | --- | --- | --- |
-[Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) | Creative-Tim | MIT | [LIVE demo](https://django-dashboard-black.appseed.us/login/), [source code](https://github.com/app-generator/django-dashboard-black) | **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-black-pro)** 
+[Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) | Creative-Tim | MIT | [LIVE demo](https://django-dashboard-black.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-black) | **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-black-pro)** 
 [Django Dashboard Material](https://appseed.us/admin-dashboards/django-dashboard-material) | Creative-Tim | MIT | [LIVE demo](https://django-dashboard-material.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-material) | **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-material-pro)**
 [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon) | Creative-Tim | MIT | [LIVE demo](https://django-dashboard-argon.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-argon) | **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)**
 [Django Dashboard NowUI](https://appseed.us/admin-dashboards/django-dashboard-nowui) | Creative-Tim | MIT | [LIVE demo](https://django-dashboard-nowui.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-nowui) | **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-nowui-pro)**
