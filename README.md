@@ -18,9 +18,8 @@
 ## [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - Short List
 
 | Item | Design | License | LIVE Demo | Sources | PRO Version |
-[Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) | Creative-Tim | MIT | [demo](https://flask-dashboard-black.appseed.us/login) | [sources](https://github.com/app-generator/flask-black-dashboard) | **[PRO version](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)** |
-
-
+| --- | --- | --- | --- | --- | --- |
+[Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) | Creative-Tim | MIT | [demo](https://flask-dashboard-black.appseed.us/login) | [sources](https://github.com/app-generator/flask-black-dashboard) | **[PRO version](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)** 
 
 
 - [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design) - Free, MIT License, [LIVE demo](https://flask-dashboard-material.appseed.us/login), [source code](https://github.com/app-generator/flask-material-dashboard) - **[PRO version](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)** available
