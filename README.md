@@ -2,8 +2,6 @@
 
 [Open-source Admin Panels](https://appseed.us/admin-dashboards/open-source) coded / generated on top of various frameworks: [Flask](https://appseed.us/admin-dashboards/flask), [Django](https://appseed.us/admin-dashboards/django) and released under permissive licenses: MIT, LGPL - Provided by **AppSeed - [Web App Generator](https://appseed.us/app-generator)**
 
-<br />
-
 ## About this bundle
 
 > All web apps presented on this page are generated with **automation devTools** by the [AppSeed](https://appseed.us/) platform. Curious minds may read more about this new concept by accessing:  
@@ -39,6 +37,8 @@
 [Flask Dashboard Admin Material](https://appseed.us/admin-dashboards/flask-dashboard-admin-material) | BootsrapDash | MIT | [LIVE demo](https://flask-dashboard-material-admin.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-material-admin) | - 
 [Flask Dashboard Shards](https://appseed.us/admin-dashboards/flask-dashboard-shards) | DesignRevision | MIT | [LIVE demo](https://flask-dashboard-shards.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-shards)| - 
 
+> Note: your preferred **open-source** design is not on this list? Feel free to [suggest one](./issues/new) or contact directly [AppSeed](https://appseed.us)  support on [Discord](https://discord.gg/fZC6hup).  
+
 <br />
 
 ### [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - Short List
@@ -55,6 +55,8 @@
 [Django Dashboard Shards](https://appseed.us/admin-dashboards/django-dashboard-shards) | DesignRevision | MIT | [LIVE demo](https://django-dashboard-shards.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-shards) | -
 [Django Dashboard Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler) | CodeCalm | MIT | [LIVE demo](https://django-dashboard-tabler.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-tabler) | -
 [Django Dashboard Adminator](https://appseed.us/admin-dashboards/django-dashboard-adminator) | ColorLib | MIT | [LIVE demo](https://django-dashboard-adminator.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-adminator) | -
+
+> Note: your preferred **open-source** design is not on this list? Feel free to [suggest one](./issues/new) or contact directly [AppSeed](https://appseed.us)  support on [Discord](https://discord.gg/fZC6hup).
 
 <br />
 
