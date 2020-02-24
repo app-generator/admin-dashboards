@@ -37,7 +37,7 @@
 [Flask Dashboard Admin Material](https://appseed.us/admin-dashboards/flask-dashboard-admin-material) | BootsrapDash | MIT | [LIVE demo](https://flask-dashboard-material-admin.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-material-admin) | - 
 [Flask Dashboard Shards](https://appseed.us/admin-dashboards/flask-dashboard-shards) | DesignRevision | MIT | [LIVE demo](https://flask-dashboard-shards.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-shards)| - 
 
-> **Note**: Your preferred **open-source** design is not on this list? Feel free to [submit your proposal](https://github.com/app-generator/admin-dashboards/issues/new) using Github (open a new issue) or contact us directly on [Discord](https://discord.gg/fZC6hup) - AppSeed LIVE support channel.
+> **Note**: Your preferred **open-source** design is not on this list? Feel free to **[submit your proposal](https://github.com/app-generator/admin-dashboards/issues/new)** using Github (open a new issue) or contact us directly on [Discord](https://discord.gg/fZC6hup) - AppSeed LIVE support channel.
 
 <br />
 
@@ -56,7 +56,7 @@
 [Django Dashboard Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler) | CodeCalm | MIT | [LIVE demo](https://django-dashboard-tabler.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-tabler) | -
 [Django Dashboard Adminator](https://appseed.us/admin-dashboards/django-dashboard-adminator) | ColorLib | MIT | [LIVE demo](https://django-dashboard-adminator.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-adminator) | -
 
-> **Note**: Your preferred **open-source** design is not on this list? Feel free to [submit your proposal](https://github.com/app-generator/admin-dashboards/issues/new) using Github (open a new issue) or contact us directly on [Discord](https://discord.gg/fZC6hup) - AppSeed LIVE support channel.
+> **Note**: Your preferred **open-source** design is not on this list? Feel free to **[submit your proposal](https://github.com/app-generator/admin-dashboards/issues/new)** using Github (open a new issue) or contact us directly on [Discord](https://discord.gg/fZC6hup) - AppSeed LIVE support channel.
 
 <br />
 
