@@ -15,14 +15,13 @@
 
 <br />
 
-## [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - Short List
+### [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - Short List
 
 | Item | Design | License | LIVE Demo | Sources | PRO Version |
 | --- | --- | --- | --- | --- | --- |
-[Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) | Creative-Tim | MIT | [demo](https://flask-dashboard-black.appseed.us/login) | [sources](https://github.com/app-generator/flask-black-dashboard) | **[PRO version](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)** 
+[Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) | Creative-Tim | MIT | [demo](https://flask-dashboard-black.appseed.us/login) | [source code](https://github.com/app-generator/flask-black-dashboard) | **[PRO version](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)** 
+[Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design) | Creative-Tim | MIT | [demo](https://flask-dashboard-material.appseed.us/login), [source code](https://github.com/app-generator/flask-material-dashboard) - **[PRO version](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)**
 
-
-- [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design) - Free, MIT License, [LIVE demo](https://flask-dashboard-material.appseed.us/login), [source code](https://github.com/app-generator/flask-material-dashboard) - **[PRO version](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)** available
 - [Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) - Free, MIT License, [LIVE demo](https://flask-now-ui-dashboard.appseed.us/login.html), [sources](https://github.com/app-generator/flask-now-ui-dashboard) - **[PRO version](https://appseed.us/admin-dashboards/flask-dashboard-now-ui-pro)** available
 - [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - Free, MIT License, [LIVE demo](https://flask-dashboard-argon.appseed.us/login), [source code](https://github.com/app-generator/flask-boilerplate-dashboard-argon) - **[PRO version](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)** available
 - [Flask Dashboard Light](https://appseed.us/admin-dashboards/flask-dashboard-light-bootstrap) - Free, MIT License, [LIVE demo](https://flask-dashboard-light.appseed.us/login.html), [source code](https://github.com/app-generator/flask-dashboard-light-bootstrap) - **[PRO version](https://appseed.us/admin-dashboards/flask-dashboard-light-pro)** available
