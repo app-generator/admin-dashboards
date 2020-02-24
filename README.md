@@ -41,19 +41,20 @@
 
 <br />
 
-## [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - Short List
+### [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - Short List
 
-- [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - Free, MIT License, [LIVE demo](https://django-dashboard-black.appseed.us/login/), [source code](https://github.com/app-generator/django-dashboard-black) - **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-black-pro)** available
-- [Django Dashboard Material](https://appseed.us/admin-dashboards/django-dashboard-material) - Free, MIT License, [LIVE demo](https://django-dashboard-material.appseed.us/login/), [source code](https://github.com/app-generator/django-dashboard-material) - **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-material-pro)** available
-- [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon) - Free, MIT License, [LIVE demo](https://django-dashboard-argon.appseed.us/login/), [source code](https://github.com/app-generator/django-dashboard-argon) - **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)** available
-- [Django Dashboard NowUI](https://appseed.us/admin-dashboards/django-dashboard-nowui) - Free, MIT License, [LIVE demo](https://django-dashboard-nowui.appseed.us/login/), [sources](https://github.com/app-generator/django-dashboard-nowui)  - **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-nowui-pro)** available
-- [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light) - Free, MIT License, [LIVE demo](https://django-dashboard-light.appseed.us/login/), [sources](https://github.com/app-generator/django-dashboard-light) - **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-light-pro)** available
----
-- [Django Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) - Free, MIT License, [LIVE demo](https://django-dashboard-atlantis-dark.appseed.us/login/), [source code](https://github.com/app-generator/django-dashboard-atlantis-dark)
-- [Django Dashboard Light Blue](https://appseed.us/admin-dashboards/django-dashboard-light-blue) - Free, MIT License, [LIVE demo](https://django-dashboard-light-blue.appseed.us/login/), [sources](https://github.com/app-generator/django-dashboard-light-blue)
-- [Django Dashboard Shards](https://appseed.us/admin-dashboards/django-dashboard-shards) - Free, MIT License, [LIVE demo](https://django-dashboard-shards.appseed.us/), [source code](https://github.com/app-generator/django-dashboard-shards)
-- [Django Dashboard Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler) - Free, MIT License, [LIVE demo](https://django-dashboard-tabler.appseed.us/login/), [source code](https://github.com/app-generator/django-dashboard-tabler)
-- [Django Dashboard Adminator](https://appseed.us/admin-dashboards/django-dashboard-adminator) - Free, MIT License, [LIVE demo](https://django-dashboard-adminator.appseed.us/login/), [sources](https://github.com/app-generator/django-dashboard-adminator)
+| Item | Design | License | - | - | - |
+| --- | --- | --- | --- | --- | --- |
+[Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) | Creative-Tim | MIT | [LIVE demo](https://django-dashboard-black.appseed.us/login/), [source code](https://github.com/app-generator/django-dashboard-black) - **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-black-pro)** 
+[Django Dashboard Material](https://appseed.us/admin-dashboards/django-dashboard-material) | Creative-Tim | MIT | [LIVE demo](https://django-dashboard-material.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-material) - **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-material-pro)**
+[Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon) | Creative-Tim | MIT | [LIVE demo](https://django-dashboard-argon.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-argon) - **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)**
+[Django Dashboard NowUI](https://appseed.us/admin-dashboards/django-dashboard-nowui) | Creative-Tim | MIT | [LIVE demo](https://django-dashboard-nowui.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-nowui)  - **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-nowui-pro)**
+[Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light) | Creative-Tim | MIT | [LIVE demo](https://django-dashboard-light.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-light) - **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-light-pro)**
+[Django Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) | ThemeKita | MIT | [LIVE demo]https://django-dashboard-atlantis-dark.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-atlantis-dark) | -
+[Django Dashboard Light Blue](https://appseed.us/admin-dashboards/django-dashboard-light-blue) | FlatLogic | MIT | [LIVE demo]https://django-dashboard-light-blue.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-light-blue) | -
+[Django Dashboard Shards](https://appseed.us/admin-dashboards/django-dashboard-shards) | DesignRevision | MIT | [LIVE demo](https://django-dashboard-shards.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-shards) | -
+[Django Dashboard Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler) | CodeCalm | MIT | [LIVE demo](https://django-dashboard-tabler.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-tabler) | -
+[Django Dashboard Adminator](https://appseed.us/admin-dashboards/django-dashboard-adminator) | ColorLib | MIT | [LIVE demo](https://django-dashboard-adminator.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-adminator) | -
 
 <br />
 
