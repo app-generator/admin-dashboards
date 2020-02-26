@@ -544,24 +544,23 @@
 
 <br />
 
-### Credits & Links
----
+## Credits & Links
 
 <br />
 
-**[What is dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))**
+### [What is a dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
 
-In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))** is a user interface that, somewhat resembling an automobile's dashboard, organizes and presents information in a way that is easy to read. However, a computer dashboard is more likely to be interactive than an automobile dashboard (unless it is also computer-based). To some extent, most graphical user interfaces (GUIs) resemble a dashboard - by [Techtarget](https://searchcio.techtarget.com/definition/dashboard) 
+A dashboard is a set of pages that are easy to read and offer information to the user in real-time regarding his business. A dashboard usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides - *definition provided by [Creative-Tim - Free Dashboard Templates](https://www.creative-tim.com/blog/web-design/free-dashboard-templates/?ref=appseed)*.
 
 <br />
 
-**What is [Django](https://www.djangoproject.com/)**
+### What is [Django](https://www.djangoproject.com/)
 
 **[Django](https://www.djangoproject.com/)** is a Python-based free and open-source web framework, which follows the model-template-view architectural pattern. It is maintained by the Django Software Foundation, an independent organization established as a 501 non-profit. Django's primary goal is to ease the creation of complex, database-driven websites.
 
 <br />
 
-**What is [Flask](https://www.palletsprojects.com/p/flask/)**
+### What is [Flask](https://www.palletsprojects.com/p/flask/)
 
 [Flask](https://www.palletsprojects.com/p/flask/) is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
 
