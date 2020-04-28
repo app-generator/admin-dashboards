@@ -23,6 +23,7 @@
 
 | Item | Design | License | - | - | - |
 | --- | --- | --- | --- | --- | --- |
+[Flask Dashboard DattaAble](https://appseed.us/admin-dashboards/flask-dashboard-dattaable) | CodedThemes | MIT | [LIVE demo](https://flask-dashboard-dattaable.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-dattaable) | **[PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-dark-pro)** 
 [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) | Creative-Tim | MIT | [LIVE demo](https://flask-dashboard-black.appseed.us/login) | [source code](https://github.com/app-generator/flask-black-dashboard) | **[PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)** 
 [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design) | Creative-Tim | MIT | [LIVE demo](https://flask-dashboard-material.appseed.us/login) | [source code](https://github.com/app-generator/flask-material-dashboard) | **[PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)**
 [Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) | Creative-Tim | MIT | [LIVE demo](https://flask-now-ui-dashboard.appseed.us/login.html) | [source code](https://github.com/app-generator/flask-now-ui-dashboard) | **[PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-now-ui-pro)**
@@ -68,6 +69,25 @@
 [Django Dashboard CoreUI](https://appseed.us/admin-dashboards/django-dashboard-coreui) | CoreUI | MIT | [LIVE demo](https://django-dashboard-coreui.appseed.us/login) | [source code](https://github.com/app-generator/django-dashboard-coreui) | - 
 
 > **Note**: Your preferred **open-source** design is not on this list? Feel free to **[submit your proposal](https://github.com/app-generator/admin-dashboards/issues/new)** using Github (open a new issue) or contact us directly on [Discord](https://discord.gg/fZC6hup) - AppSeed LIVE support channel.
+
+<br />
+
+## [Flask Dashboard DattaAble](https://appseed.us/admin-dashboards/flask-dashboard-dattaable) - [LIVE Demo](https://flask-dashboard-dattaable.appseed.us/login)
+
+**Open-Source Admin Dashboard** coded in **Flask Framework** on top of **Datta Able** design (free version) - features: 
+
+- SQLite, PostgreSQL, SQLAlchemy ORM
+- Alembic (DB schema migrations)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**)
+- Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx
+- PRO Version Dark: [Flask DattaAble Dark PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-dark-pro)
+- PRO Version Light: [Flask DattaAble PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-dark)
+
+<br />
+
+![Flask Dashboard Datta Able - Open-Source Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-dattaable/flask-dashboard-dattaable-screen.png)
 
 <br />
 
