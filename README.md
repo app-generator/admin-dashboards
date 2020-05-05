@@ -23,6 +23,7 @@
 
 | Item | Design | License | - | - | - |
 | --- | --- | --- | --- | --- | --- |
+[Flask iDashboard Free](https://appseed.us/admin-dashboards/flask-idashboard-free) | YooKits | MIT | [LIVE demo](https://flask-idashboard-free.appseed.us/login) | [source code](https://github.com/app-generator/flask-idashboard-free) | 
 [Flask Dashboard DattaAble](https://appseed.us/admin-dashboards/flask-dashboard-dattaable) | CodedThemes | MIT | [LIVE demo](https://flask-dashboard-dattaable.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-dattaable) | **[PRO Dark](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-dark-pro)** 
 [Flask Dashboard DattaAble](https://appseed.us/admin-dashboards/flask-dashboard-dattaable) | CodedThemes | MIT | [LIVE demo](https://flask-dashboard-dattaable.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-dattaable) | **[PRO Light](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro)** 
 [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) | Creative-Tim | MIT | [LIVE demo](https://flask-dashboard-black.appseed.us/login) | [source code](https://github.com/app-generator/flask-black-dashboard) | **[PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)** 
@@ -72,6 +73,23 @@
 [Django Dashboard CoreUI](https://appseed.us/admin-dashboards/django-dashboard-coreui) | CoreUI | MIT | [LIVE demo](https://django-dashboard-coreui.appseed.us/login) | [source code](https://github.com/app-generator/django-dashboard-coreui) | - 
 
 > **Note**: Your preferred **open-source** design is not on this list? Feel free to **[submit your proposal](https://github.com/app-generator/admin-dashboards/issues/new)** using Github (open a new issue) or contact us directly on [Discord](https://discord.gg/fZC6hup) - AppSeed LIVE support channel.
+
+<br />
+
+## [Flask iDashboard Free](https://appseed.us/admin-dashboards/flask-idashboard-free) - [LIVE Demo](https://flask-idashboard-free.appseed.us/login)
+
+**Open-Source Admin Dashboard** coded in **Flask Framework** on top of **iDashboard** design (free version) - features: 
+
+- SQLite, PostgreSQL, SQLAlchemy ORM
+- Alembic (DB schema migrations)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**)
+- Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx
+
+<br />
+
+![Flask iDashboard Free - Open-Source admin panel coded in Flask.](https://raw.githubusercontent.com/app-generator/flask-idashboard-free/master/media/flask-idashboard-free-intro.gif)
 
 <br />
 
