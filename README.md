@@ -18,7 +18,6 @@
 - [Dark Admin Dashboards - Open-Source and Free](https://dev.to/sm0ke/dark-admin-dashboards-open-source-and-free-2me9)
 
 <br />
-<br />
 
 ## Want more? Go PRO!
 
@@ -28,7 +27,6 @@
 | --- | --- | --- |
 | [![Flask DattaAble Dark PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-dattaable-dark-pro/master/media/flask-dashboard-dattaable-dark-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-dark-pro) | [![Flask Atlantis Dark PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-atlantis-dark-pro/master/media/flask-dashboard-atlantis-dark-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark-pro) | [![Flask StarAdmin Dark PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-staradmin-black-pro/master/media/flask-dashboard-staradmin-black-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-black-pro)
 
-<br />
 <br />
 
 ### [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - Short List
