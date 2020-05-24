@@ -88,6 +88,23 @@
 
 <br />
 
+## [Flask Dashboard GradientAble](https://appseed.us/admin-dashboards/flask-dashboard-gradientable) - [LIVE Demo](https://flask-dashboard-gradientable.appseed.us/login)
+
+**Open-Source Admin Dashboard** coded in **Flask Framework** on top of **GradientAble** design (free version) - features: 
+
+- SQLite, PostgreSQL, SQLAlchemy ORM
+- Alembic (DB schema migrations)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**)
+- Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx
+
+<br />
+
+![Flask Dashboard GradientAble - Open-Source template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-gradientable/master/media/flask-dashboard-gradientable-screen.png)
+
+<br />
+
 ## [Flask iDashboard Free](https://appseed.us/admin-dashboards/flask-idashboard-free) - [LIVE Demo](https://flask-idashboard-free.appseed.us/login)
 
 **Open-Source Admin Dashboard** coded in **Flask Framework** on top of **iDashboard** design (free version) - features: 
