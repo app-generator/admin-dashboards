@@ -33,7 +33,8 @@
 
 | Item | Design | License | - | - | - |
 | --- | --- | --- | --- | --- | --- |
-[Flask iDashboard Free](https://appseed.us/admin-dashboards/flask-idashboard-free) | YooKits | MIT | [LIVE demo](https://flask-idashboard-free.appseed.us/login) | [source code](https://github.com/app-generator/flask-idashboard-free) | 
+[Flask Dashboard GradientAble](https://appseed.us/admin-dashboards/flask-dashboard-gradientable) | CodedThemes | MIT | [LIVE demo](https://flask-dashboard-gradientable.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-gradientable) | 
+[Flask iDashboard Free](https://appseed.us/admin-dashboards/flask-idashboard-free) | YooKits | MIT | [LIVE demo](https://flask-idashboard-free.appseed.us/login) | [source code](https://github.com/app-generator/flask-idashboard-free) | **[PRO Version](https://appseed.us/admin-dashboards/flask-idashboard-pro)** 
 [Flask Dashboard DattaAble](https://appseed.us/admin-dashboards/flask-dashboard-dattaable) | CodedThemes | MIT | [LIVE demo](https://flask-dashboard-dattaable.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-dattaable) | **[PRO Dark](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-dark-pro)** 
 [Flask Dashboard DattaAble](https://appseed.us/admin-dashboards/flask-dashboard-dattaable) | CodedThemes | MIT | [LIVE demo](https://flask-dashboard-dattaable.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-dattaable) | **[PRO Light](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro)** 
 [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) | Creative-Tim | MIT | [LIVE demo](https://flask-dashboard-black.appseed.us/login) | [source code](https://github.com/app-generator/flask-black-dashboard) | **[PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)** 
@@ -67,6 +68,7 @@
 
 | Item | Design | License | - | - | - |
 | --- | --- | --- | --- | --- | --- |
+[Django iDashboard Free](https://appseed.us/admin-dashboards/django-idashboard-free) | YooKits | MIT | [LIVE demo](https://django-idashboard-free.appseed.us/login) | [source code](https://github.com/app-generator/django-idashboard-free) | **[PRO Version](https://appseed.us/admin-dashboards/django-idashboard-pro)** 
 [Django Dashboard DattaAble](https://appseed.us/admin-dashboards/django-dashboard-dattaable) | CodedThemes | MIT | [LIVE demo](https://django-dashboard-dattaable.appseed.us/login) | [source code](https://github.com/app-generator/django-dashboard-dattaable) | **[PRO Dark](https://appseed.us/admin-dashboards/django-dashboard-dattaable-dark-pro)** 
 [Django Dashboard DattaAble](https://appseed.us/admin-dashboards/django-dashboard-dattaable) | CodedThemes | MIT | [LIVE demo](https://django-dashboard-dattaable.appseed.us/login) | [source code](https://github.com/app-generator/django-dashboard-dattaable) | **[PRO Light](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro)**
 [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) | Creative-Tim | MIT | [LIVE demo](https://django-dashboard-black.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-black) | **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-black-pro)** 
