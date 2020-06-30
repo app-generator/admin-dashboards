@@ -63,7 +63,7 @@
 | **CodedThemes** |  |  |  |  |  |
 [Django Dashboard DattaAble](https://appseed.us/admin-dashboards/django-dashboard-dattaable) | CodedThemes | MIT | [LIVE demo](https://django-dashboard-dattaable.appseed.us/login) | [source code](https://github.com/app-generator/django-dashboard-dattaable) | **[PRO Dark](https://appseed.us/admin-dashboards/django-dashboard-dattaable-dark-pro)** 
 [Django Dashboard DattaAble](https://appseed.us/admin-dashboards/django-dashboard-dattaable) | CodedThemes | MIT | [LIVE demo](https://django-dashboard-dattaable.appseed.us/login) | [source code](https://github.com/app-generator/django-dashboard-dattaable) | **[PRO Light](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro)**
-[Django Dashboard GradientAble](https://appseed.us/admin-dashboards/django-dashboard-gradientable) | CodedThemes | MIT | [LIVE demo](https://django-dashboard-gradientable.appseed.us/) | [source code](https://github.com/app-generator/-dashboard-gradientable) | **[PRO Version](https://appseed.us/admin-dashboards/django-dashboard-gradient-pro)**
+[Django Dashboard GradientAble](https://appseed.us/admin-dashboards/django-dashboard-gradientable) | CodedThemes | MIT | [LIVE demo](https://django-dashboard-gradientable.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-gradientable) | **[PRO Version](https://appseed.us/admin-dashboards/django-dashboard-gradient-pro)**
 [Django Dashboard GradientAble](https://appseed.us/admin-dashboards/django-dashboard-gradientable) | CodedThemes | MIT | [LIVE demo](https://django-dashboard-gradientable.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-gradientable) | **[PRO Dark](https://appseed.us/admin-dashboards/django-dashboard-gradient-dark-pro)**
 | **BootstrapDash** |  |  |  |  |  |
 [Django Corona Dark](https://appseed.us/admin-dashboards/django-dashboard-corona-dark) | BootsrapDash | MIT | [LIVE demo](https://django-dashboard-corona-dark.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-corona-dark)| **[PRO Version](https://appseed.us/admin-dashboards/django-dashboard-corona-dark-pro)**
@@ -258,7 +258,30 @@
 
 <br />
 
-![Django Dashboard Argon - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-black/master/media/django-dashboard-black-screen.png)
+![Django Dashboard Argon - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-argon/master/media/django-dashboard-argon-screen.png)
+
+<br />
+
+## [Django Dashboard GradientAble](https://appseed.us/admin-dashboards/django-dashboard-gradientable)
+
+> **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
+
+- UI Kit: **GradientAble Dashboard** (Lite Version) provided by **CodedThemes**
+- UI-Ready app, SQLite Database, Django Native ORM
+- Modular design, clean codebase
+- Session-Based Authentication, Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx
+- **MIT License**
+
+> Links
+
+- [Django Dashboard GradientAble](https://django-dashboard-gradientable.appseed.us/login/) - LIVE Demo
+- [Django Dashboard GradientAble](https://appseed.us/admin-dashboards/django-dashboard-gradientable) - Product page
+- [Django Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/django-dashboard/) - Codebase Documentation
+
+<br />
+
+![Django Dashboard GradientAble - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-gradientable/master/media/django-dashboard-gradientable-screen.png)
 
 <br />
 
@@ -282,6 +305,29 @@
 <br />
 
 ![Django Dashboard CoreUI - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-coreui/master/media/django-dashboard-coreui-screen.png)
+
+<br />
+
+## [Django Dashboard Atlantis](https://appseed.us/admin-dashboards/django-dashboard-coreui)
+
+> **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
+
+- UI Kit: **Django Dashboard Atlantis** (Free version) provided by **ThemeKita** agency
+- UI-Ready app, SQLite Database, Django Native ORM
+- Modular design, clean codebase
+- Session-Based Authentication, Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx
+- **MIT License**
+
+> Links
+
+- [Django Dashboard Atlantis](https://django-dashboard-atlantis.appseed.us/login/) - LIVE Demo
+- [Django Dashboard Atlantis](https://appseed.us/admin-dashboards/django-dashboard-atlantis) - Product page
+- [Django Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/django-dashboard/) - Codebase Documentation
+
+<br />
+
+![Django Dashboard Atlantis - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-atlantis/master/media/django-dashboard-atlantis-screen.png)
 
 <br />
 
