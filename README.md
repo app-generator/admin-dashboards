@@ -96,7 +96,7 @@
 
 <br />
 
-# [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black)
+## [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
 
@@ -120,7 +120,31 @@
 
 <br />
 
-# [Flask Dashboard DattaAble](https://appseed.us/admin-dashboards/flask-dashboard-dattaable)
+## [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon)
+
+> **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
+
+- UI Kit: **Argon Dashboard** (Free version) provided by **Creative-Tim**
+- Modular design with **Blueprints**
+- SQLite, PostgreSQL, SQLAlchemy ORM
+- Alembic (DB schema migrations)
+- Session-Based authentication (via **flask_login**)
+- Deployment scripts: Docker, Gunicorn/Nginx, Heroku
+- **MIT License**
+
+> Links
+
+- [Flask Dashboard Argon](https://flask-dashboard-argon.appseed.us/) - LIVE demo
+- [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - Product page
+- [Flask Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/flask-dashboard/) - Codebase Documentation
+
+<br />
+
+![Flask Dashboard Argon - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-boilerplate-dashboard-argon/master/media/flask-boilerplate-dashboard-argon-screen.png)
+
+<br />
+
+## [Flask Dashboard DattaAble](https://appseed.us/admin-dashboards/flask-dashboard-dattaable)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
 
@@ -144,7 +168,7 @@
 
 <br />
 
-# [Flask Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark)
+## [Flask Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
 
@@ -168,5 +192,29 @@
 
 <br />
 
+## [Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui)
+
+> **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
+
+- UI Kit: **CoreUI Dashboard** (Free Version) provided by **CoreUI** agency
+- Modular design with **Blueprints**
+- SQLite, PostgreSQL, SQLAlchemy ORM
+- Alembic (DB schema migrations)
+- Session-Based authentication (via **flask_login**)
+- Deployment scripts: Docker, Gunicorn/Nginx, Heroku
+- **MIT License**
+
+> Links
+
+- [Flask Dashboard CoreUI](https://flask-dashboard-coreui.appseed.us/) - LIVE Demo
+- [Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui) - Product page
+- [Flask Dashboard CoreUI](https://docs.appseed.us/boilerplate-code/flask-dashboard/) - Codebase Documentation
+
+<br />
+
+![Flask Dashboard CoreUI - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-coreui/master/media/flask-dashboard-coreui-screen.png)
+
+<br />
+
 ---
-# [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
