@@ -4,31 +4,6 @@
 
 <br />
 
-> Enjoy this project? **Join our efforts** to actively support the open-source ecosystem via a **[PayPal.me donation](https://paypal.me/appseed)**. Thank you!
-
-<br />
-
-## About this bundle
-
-> All web apps presented on this page are generated with **automation devTools** by the [AppSeed](https://appseed.us/) platform. Curious minds may read more about this new concept by accessing:  
-
-- [How I’ve built 100+ open-source apps with automation tools](https://dev.to/sm0ke/100-open-source-apps-built-with-automation-tools-3jmj)
-- [Admin Dashboards - 20 Open-Source Admin Panels built with automation tools](https://dev.to/sm0ke/admin-dashboards-20-open-source-admin-panels-built-with-automation-tools-ckb)
-- [Open-Source Web Apps - Grouped by UI Kits](https://dev.to/sm0ke/open-source-web-apps-grouped-by-ui-kits-389g)
-- [Dark Admin Dashboards - Open-Source and Free](https://dev.to/sm0ke/dark-admin-dashboards-open-source-and-free-2me9)
-
-<br />
-
-## Want more? Go PRO!
-
-**Flask PRO versions** include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup))
-
-| [Flask DattaAble Dark PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-dark-pro) | [Flask Atlantis Dark PRO](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark-pro) | [Flask StarAdmin Dark PRO](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-black-pro) |
-| --- | --- | --- |
-| [![Flask DattaAble Dark PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-dattaable-dark-pro/master/media/flask-dashboard-dattaable-dark-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-dark-pro) | [![Flask Atlantis Dark PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-atlantis-dark-pro/master/media/flask-dashboard-atlantis-dark-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark-pro) | [![Flask StarAdmin Dark PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-staradmin-black-pro/master/media/flask-dashboard-staradmin-black-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-black-pro)
-
-<br />
-
 ## [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - sorted by UI Kit provider
 
 ### Creative-Tim dashboards
