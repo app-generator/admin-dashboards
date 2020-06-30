@@ -1,4 +1,4 @@
-# [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) 
+# [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source)
 
 [Open-source Admin Panels](https://appseed.us/admin-dashboards/open-source) coded / generated on top of various frameworks: [Flask](https://appseed.us/admin-dashboards/flask), [Django](https://appseed.us/admin-dashboards/django) and released under permissive licenses: MIT, LGPL - Provided by **AppSeed - [Web App Generator](https://appseed.us/app-generator)**.
 
@@ -14,7 +14,7 @@ A dashboard is a set of pages that are easy to read and offer information to the
 
 <br />
 
-> PRO Admin Dashboard - coded on top of Premium UI Kits and supported 24/7 LIVE via [Discord](https://discord.gg/fZC6hup)
+> PRO Flask Admin Dashboard - coded on top of Premium UI Kits and supported 24/7 LIVE via [Discord](https://discord.gg/fZC6hup)
 
 | [Flask DattaAble PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro) | [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) | [Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro) |
 | --- | --- | --- |
@@ -25,7 +25,7 @@ A dashboard is a set of pages that are easy to read and offer information to the
 | Item | UI Provider | License |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | **Creative-Tim** |  |  |  |  |  |
-[Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) | Creative-Tim | MIT | [LIVE demo](https://flask-dashboard-black.appseed.us/login) | [source code](https://github.com/app-generator/flask-black-dashboard) | **[PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)** 
+[Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) | Creative-Tim | MIT | [LIVE demo](https://flask-dashboard-black.appseed.us/login) | [source code](https://github.com/app-generator/flask-black-dashboard) | **[PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)**
 [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design) | Creative-Tim | MIT | [LIVE demo](https://flask-dashboard-material.appseed.us/login) | [source code](https://github.com/app-generator/flask-material-dashboard) | **[PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)**
 [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) | Creative-Tim | MIT | [LIVE demo](https://flask-dashboard-argon.appseed.us/login) | [source code](https://github.com/app-generator/flask-boilerplate-dashboard-argon) | **[PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)**
 [Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) | Creative-Tim | MIT | [LIVE demo](https://flask-now-ui-dashboard.appseed.us/login.html) | [source code](https://github.com/app-generator/flask-now-ui-dashboard) | **[PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-now-ui-pro)**
@@ -33,7 +33,7 @@ A dashboard is a set of pages that are easy to read and offer information to the
 [Flask Dashboard Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark) | Creative-Tim | MIT | [LIVE demo](https://flask-dashboard-material-dark.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-material-dark) | -
 | **CodedThemes** |  |  |  |  |  |
 [Flask Dashboard DattaAble](https://appseed.us/admin-dashboards/flask-dashboard-dattaable) | CodedThemes | MIT | [LIVE demo](https://flask-dashboard-dattaable.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-dattaable) | **[PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro)**
-[Flask Dashboard DattaAble](https://appseed.us/admin-dashboards/flask-dashboard-dattaable) | CodedThemes | MIT | [LIVE demo](https://flask-dashboard-dattaable.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-dattaable) | **[PRO Dark](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-dark-pro)** 
+[Flask Dashboard DattaAble](https://appseed.us/admin-dashboards/flask-dashboard-dattaable) | CodedThemes | MIT | [LIVE demo](https://flask-dashboard-dattaable.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-dattaable) | **[PRO Dark](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-dark-pro)**
 [Flask Dashboard GradientAble](https://appseed.us/admin-dashboards/flask-dashboard-gradientable) | CodedThemes | MIT | [LIVE demo](https://flask-dashboard-gradientable.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-gradientable) | **[PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-gradient-pro)**
 [Flask Dashboard GradientAble](https://appseed.us/admin-dashboards/flask-dashboard-gradientable) | CodedThemes | MIT | [LIVE demo](https://flask-dashboard-gradientable.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-gradientable) | **[PRO Dark](https://appseed.us/admin-dashboards/flask-dashboard-gradient-dark-pro)**
 | **BootstrapDash** |  |  |  |  |  |
@@ -43,22 +43,22 @@ A dashboard is a set of pages that are easy to read and offer information to the
 [Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) | BootsrapDash | MIT | [LIVE demo](https://flask-dashboard-staradmin.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-staradmin)| **[PRO Black](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-black-pro)**
 [Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) | BootsrapDash | MIT | [LIVE demo](https://flask-dashboard-staradmin.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-staradmin)| **[PRO Boxed](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-boxed-pro)**
 [Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin) | BootsrapDash | MIT | [LIVE demo](https://flask-dashboard-purpleadmin.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-purpleadmin)| -
-[Flask Dashboard Admin Material](https://appseed.us/admin-dashboards/flask-dashboard-admin-material) | BootsrapDash | MIT | [LIVE demo](https://flask-dashboard-material-admin.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-material-admin) | - 
+[Flask Dashboard Admin Material](https://appseed.us/admin-dashboards/flask-dashboard-admin-material) | BootsrapDash | MIT | [LIVE demo](https://flask-dashboard-material-admin.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-material-admin) | -
 | **ThemeKita** |  |  |  |  |  |
 [Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis) | ThemeKita | MIT | [LIVE demo](https://flask-dashboard-atlantis.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-atlantis) | **[PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-pro)**
 [Flask Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) | ThemeKita | MIT | [LIVE demo](https://flask-dashboard-atlantis-dark.appseed.us/login.html) | [source code](https://github.com/app-generator/flask-dashboard-atlantis-dark) | **[PRO Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark-pro)**
 | **ColorLib** |  |  |  |  |  |
-[Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) | ColorLib | MIT | [LIVE demo](https://flask-dashboard-adminlte.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-adminlte) | - 
-[Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) | ColorLib | MIT | [LIVE demo](https://flask-dashboard-adminator.appseed.us/login.html) | [source code](https://github.com/app-generator/flask-dashboard-adminator) | - 
+[Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) | ColorLib | MIT | [LIVE demo](https://flask-dashboard-adminlte.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-adminlte) | -
+[Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) | ColorLib | MIT | [LIVE demo](https://flask-dashboard-adminator.appseed.us/login.html) | [source code](https://github.com/app-generator/flask-dashboard-adminator) | -
 [Flask Dashboard SRTdash](https://appseed.us/admin-dashboards/flask-dashboard-srtdash) | ColorLib | MIT | [LIVE demo](https://flask-dashboard-srtdash.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-srtdash) | -
 | **Other Vendors** |  |  |  |  |  |
-[Flask iDashboard Free](https://appseed.us/admin-dashboards/flask-idashboard-free) | YooKits | [CC BY 4.0](https://github.com/app-generator/flask-idashboard-free/blob/master/LICENSE.md) | [LIVE demo](https://flask-idashboard-free.appseed.us/login) | [source code](https://github.com/app-generator/flask-idashboard-free) | **[PRO Version](https://appseed.us/admin-dashboards/flask-idashboard-pro)** 
-[Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui) | CoreUI | MIT | [LIVE demo](https://flask-dashboard-coreui.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-coreui) | - 
-[Flask Dashboard Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue) | FlatLogic | MIT | [LIVE demo](https://flask-dashboard-light-blue.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-light-blue) | - 
-[Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler) | CodeCalm | MIT | [LIVE demo](https://flask-dashboard-tabler.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-tabler) | - 
-[Flask Dashboard Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) | ModularCode | MIT | [LIVE demo](https://flask-dashboard-modular-admin.appseed.us/login.html) | [source code](https://github.com/app-generator/flask-dashboard-modular-admin) | - 
-[Flask Dashboard Shards](https://appseed.us/admin-dashboards/flask-dashboard-shards) | DesignRevision | MIT | [LIVE demo](https://flask-dashboard-shards.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-shards)| - 
-[Flask Dashboard Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek) | TafCoder | MIT | [LIVE demo](https://flask-dashboard-sleek.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-sleek) | - 
+[Flask iDashboard Free](https://appseed.us/admin-dashboards/flask-idashboard-free) | YooKits | [CC BY 4.0](https://github.com/app-generator/flask-idashboard-free/blob/master/LICENSE.md) | [LIVE demo](https://flask-idashboard-free.appseed.us/login) | [source code](https://github.com/app-generator/flask-idashboard-free) | **[PRO Version](https://appseed.us/admin-dashboards/flask-idashboard-pro)**
+[Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui) | CoreUI | MIT | [LIVE demo](https://flask-dashboard-coreui.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-coreui) | -
+[Flask Dashboard Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue) | FlatLogic | MIT | [LIVE demo](https://flask-dashboard-light-blue.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-light-blue) | -
+[Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler) | CodeCalm | MIT | [LIVE demo](https://flask-dashboard-tabler.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-tabler) | -
+[Flask Dashboard Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) | ModularCode | MIT | [LIVE demo](https://flask-dashboard-modular-admin.appseed.us/login.html) | [source code](https://github.com/app-generator/flask-dashboard-modular-admin) | -
+[Flask Dashboard Shards](https://appseed.us/admin-dashboards/flask-dashboard-shards) | DesignRevision | MIT | [LIVE demo](https://flask-dashboard-shards.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-shards)| -
+[Flask Dashboard Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek) | TafCoder | MIT | [LIVE demo](https://flask-dashboard-sleek.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-sleek) | -
 
 <br />
 
@@ -66,16 +66,24 @@ A dashboard is a set of pages that are easy to read and offer information to the
 
 <br />
 
+> PRO Django Admin Dashboard - coded on top of Premium UI Kits and supported 24/7 LIVE via [Discord](https://discord.gg/fZC6hup)
+
+| [Django DattaAble DattaAble PRO](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro) | [Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro) | [Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro) |
+| --- | --- | --- |
+| [![Django DattaAble PRO](https://raw.githubusercontent.com/app-generator/django-dashboard-dattaable-pro/master/media/django-dashboard-dattaable-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro) | [![Django Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/django-dashboard-black-pro/master/media/django-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-black-pro) | [![Django Dashboard Argon PRO](https://raw.githubusercontent.com/app-generator/django-dashboard-argon-pro/master/media/django-dashboard-argon-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)
+
+<br />
+
 | Item | UI Provider | License |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | **Creative-Tim** |  |  |  |  |  |
-[Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) | Creative-Tim | MIT | [LIVE demo](https://django-dashboard-black.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-black) | **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-black-pro)** 
+[Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) | Creative-Tim | MIT | [LIVE demo](https://django-dashboard-black.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-black) | **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-black-pro)**
 [Django Dashboard Material](https://appseed.us/admin-dashboards/django-dashboard-material) | Creative-Tim | MIT | [LIVE demo](https://django-dashboard-material.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-material) | **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-material-pro)**
 [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon) | Creative-Tim | MIT | [LIVE demo](https://django-dashboard-argon.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-argon) | **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)**
 [Django Dashboard NowUI](https://appseed.us/admin-dashboards/django-dashboard-nowui) | Creative-Tim | MIT | [LIVE demo](https://django-dashboard-nowui.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-nowui) | **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-nowui-pro)**
 [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light) | Creative-Tim | MIT | [LIVE demo](https://django-dashboard-light.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-light) | **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-light-pro)**
 | **CodedThemes** |  |  |  |  |  |
-[Django Dashboard DattaAble](https://appseed.us/admin-dashboards/django-dashboard-dattaable) | CodedThemes | MIT | [LIVE demo](https://django-dashboard-dattaable.appseed.us/login) | [source code](https://github.com/app-generator/django-dashboard-dattaable) | **[PRO Dark](https://appseed.us/admin-dashboards/django-dashboard-dattaable-dark-pro)** 
+[Django Dashboard DattaAble](https://appseed.us/admin-dashboards/django-dashboard-dattaable) | CodedThemes | MIT | [LIVE demo](https://django-dashboard-dattaable.appseed.us/login) | [source code](https://github.com/app-generator/django-dashboard-dattaable) | **[PRO Dark](https://appseed.us/admin-dashboards/django-dashboard-dattaable-dark-pro)**
 [Django Dashboard DattaAble](https://appseed.us/admin-dashboards/django-dashboard-dattaable) | CodedThemes | MIT | [LIVE demo](https://django-dashboard-dattaable.appseed.us/login) | [source code](https://github.com/app-generator/django-dashboard-dattaable) | **[PRO Light](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro)**
 [Django Dashboard GradientAble](https://appseed.us/admin-dashboards/django-dashboard-gradientable) | CodedThemes | MIT | [LIVE demo](https://django-dashboard-gradientable.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-gradientable) | **[PRO Version](https://appseed.us/admin-dashboards/django-dashboard-gradient-pro)**
 [Django Dashboard GradientAble](https://appseed.us/admin-dashboards/django-dashboard-gradientable) | CodedThemes | MIT | [LIVE demo](https://django-dashboard-gradientable.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-gradientable) | **[PRO Dark](https://appseed.us/admin-dashboards/django-dashboard-gradient-dark-pro)**
@@ -91,8 +99,8 @@ A dashboard is a set of pages that are easy to read and offer information to the
 | **ColorLib** |  |  |  |  |  |
 [Django Dashboard Adminator](https://appseed.us/admin-dashboards/django-dashboard-adminator) | ColorLib | MIT | [LIVE demo](https://django-dashboard-adminator.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-adminator) | -
 | **Other Vendors** |  |  |  |  |  |
-[Django iDashboard Free](https://appseed.us/admin-dashboards/django-idashboard-free) | YooKits | [CC BY 4.0](https://github.com/app-generator/flask-idashboard-free/blob/master/LICENSE.md) | [LIVE demo](https://django-idashboard-free.appseed.us/login) | [source code](https://github.com/app-generator/django-idashboard-free) | **[PRO Version](https://appseed.us/admin-dashboards/django-idashboard-pro)** 
-[Django Dashboard CoreUI](https://appseed.us/admin-dashboards/django-dashboard-coreui) | CoreUI | MIT | [LIVE demo](https://django-dashboard-coreui.appseed.us/login) | [source code](https://github.com/app-generator/django-dashboard-coreui) | - 
+[Django iDashboard Free](https://appseed.us/admin-dashboards/django-idashboard-free) | YooKits | [CC BY 4.0](https://github.com/app-generator/flask-idashboard-free/blob/master/LICENSE.md) | [LIVE demo](https://django-idashboard-free.appseed.us/login) | [source code](https://github.com/app-generator/django-idashboard-free) | **[PRO Version](https://appseed.us/admin-dashboards/django-idashboard-pro)**
+[Django Dashboard CoreUI](https://appseed.us/admin-dashboards/django-dashboard-coreui) | CoreUI | MIT | [LIVE demo](https://django-dashboard-coreui.appseed.us/login) | [source code](https://github.com/app-generator/django-dashboard-coreui) | -
 [Django Dashboard Light Blue](https://appseed.us/admin-dashboards/django-dashboard-light-blue) | FlatLogic | MIT | [LIVE demo](https://django-dashboard-light-blue.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-light-blue) | -
 [Django Dashboard Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler) | CodeCalm | MIT | [LIVE demo](https://django-dashboard-tabler.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-tabler) | -
 [Django Dashboard Shards](https://appseed.us/admin-dashboards/django-dashboard-shards) | DesignRevision | MIT | [LIVE demo](https://django-dashboard-shards.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-shards) | -
@@ -101,7 +109,7 @@ A dashboard is a set of pages that are easy to read and offer information to the
 
 ## Latest (10) items
 
-> For the full list please access the links: 
+> For the full list please access the links
 
 - [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - Index hosted by AppSeed
 - [Flask Admin Dashboards](https://github.com/app-generator/flask-admin-dashboards) - Index hosted on Github
