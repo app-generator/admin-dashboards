@@ -72,8 +72,8 @@
 [Django Dashboard Star Admin](https://appseed.us/admin-dashboards/django-dashboard-staradmin) | BootsrapDash | MIT | [LIVE demo](https://django-dashboard-staradmin.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-staradmin)| **[PRO Black](https://appseed.us/admin-dashboards/django-dashboard-staradmin-black-pro)**
 [Django Dashboard Star Admin](https://appseed.us/admin-dashboards/django-dashboard-staradmin) | BootsrapDash | MIT | [LIVE demo](https://django-dashboard-staradmin.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-staradmin)| **[PRO Boxed](https://appseed.us/admin-dashboards/django-dashboard-staradmin-boxed-pro)**
 | **ThemeKita** |  |  |  |  |  |
-[Django Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) | ThemeKita | MIT | [LIVE demo](https://django-dashboard-atlantis-dark.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-atlantis-dark) | -
 [Django Dashboard Atlantis](https://appseed.us/admin-dashboards/django-dashboard-atlantis) | ThemeKita | MIT | [LIVE demo](https://django-dashboard-atlantis.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-atlantis) | -
+[Django Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) | ThemeKita | MIT | [LIVE demo](https://django-dashboard-atlantis-dark.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-atlantis-dark) | **[PRO Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark-pro)**
 | **ColorLib** |  |  |  |  |  |
 [Django Dashboard Adminator](https://appseed.us/admin-dashboards/django-dashboard-adminator) | ColorLib | MIT | [LIVE demo](https://django-dashboard-adminator.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-adminator) | -
 | **Other Vendors** |  |  |  |  |  |
