@@ -216,5 +216,74 @@
 
 <br />
 
+## [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black)
+
+> **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
+
+- UI Kit: **Black Dashboard** (Free version) provided by **Creative-Tim**
+- UI-Ready app, SQLite Database, Django Native ORM
+- Modular design, clean codebase
+- Session-Based Authentication, Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx
+- **MIT License**
+
+> Links
+
+- [Django Dashboard Black](https://django-dashboard-black.appseed.us/login/) - LIVE Demo
+- [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - Product page
+- [Django Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/django-dashboard/) - Codebase Documentation
+
+<br />
+
+![Flask Dashboard CoreUI - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-black/master/media/django-dashboard-black-screen.png)
+
+<br />
+
+## [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon)
+
+> **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
+
+- UI Kit: **Argon Dashboard** (Free version) provided by **Creative-Tim**
+- UI-Ready app, SQLite Database, Django Native ORM
+- Modular design, clean codebase
+- Session-Based Authentication, Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx
+- **MIT License**
+
+> Links
+
+- [Django Dashboard Argon](https://django-dashboard-argon.appseed.us/login/) - LIVE Demo
+- [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon) - Product page
+- [Django Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/django-dashboard/) - Codebase Documentation
+
+<br />
+
+![Django Dashboard Argon - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-black/master/media/django-dashboard-black-screen.png)
+
+<br />
+
+## [Django Dashboard CoreUI](https://appseed.us/admin-dashboards/django-dashboard-coreui)
+
+> **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
+
+- UI Kit: **CoreUI Dashboard** (Free version) provided by **CoreUI** agency
+- UI-Ready app, SQLite Database, Django Native ORM
+- Modular design, clean codebase
+- Session-Based Authentication, Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx
+- **MIT License**
+
+> Links
+
+- [Django Dashboard CoreUI](https://django-dashboard-coreui.appseed.us/login/) - LIVE Demo
+- [Django Dashboard CoreUI](https://appseed.us/admin-dashboards/django-dashboard-coreui) - Product page
+- [Django Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/django-dashboard/) - Codebase Documentation
+
+<br />
+
+![Django Dashboard CoreUI - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-coreui/master/media/django-dashboard-coreui-screen.png)
+
+<br />
+
 ---
 [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
