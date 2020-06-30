@@ -10,62 +10,38 @@
 
 | Item | UI Provider | License |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| **Creative-Tim dashboards** |  |  |  |  |  |
+| **Creative-Tim ** |  |  |  |  |  |
 [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) | Creative-Tim | MIT | [LIVE demo](https://flask-dashboard-black.appseed.us/login) | [source code](https://github.com/app-generator/flask-black-dashboard) | **[PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)** 
 [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design) | Creative-Tim | MIT | [LIVE demo](https://flask-dashboard-material.appseed.us/login) | [source code](https://github.com/app-generator/flask-material-dashboard) | **[PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)**
 [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) | Creative-Tim | MIT | [LIVE demo](https://flask-dashboard-argon.appseed.us/login) | [source code](https://github.com/app-generator/flask-boilerplate-dashboard-argon) | **[PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)**
 [Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) | Creative-Tim | MIT | [LIVE demo](https://flask-now-ui-dashboard.appseed.us/login.html) | [source code](https://github.com/app-generator/flask-now-ui-dashboard) | **[PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-now-ui-pro)**
 [Flask Dashboard Light](https://appseed.us/admin-dashboards/flask-dashboard-light-bootstrap) | Creative-Tim | MIT | [LIVE demo](https://flask-dashboard-light.appseed.us/login.html) | [source code](https://github.com/app-generator/flask-dashboard-light-bootstrap) | **[PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-light-pro)**
 [Flask Dashboard Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark) | Creative-Tim | MIT | [LIVE demo](https://flask-dashboard-material-dark.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-material-dark) | -
-| **CodedThemes dashboards** |  |  |  |  |  |
+| **CodedThemes** |  |  |  |  |  |
 [Flask Dashboard GradientAble](https://appseed.us/admin-dashboards/flask-dashboard-gradientable) | CodedThemes | MIT | [LIVE demo](https://flask-dashboard-gradientable.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-gradientable) | 
 [Flask Dashboard DattaAble](https://appseed.us/admin-dashboards/flask-dashboard-dattaable) | CodedThemes | MIT | [LIVE demo](https://flask-dashboard-dattaable.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-dattaable) | **[PRO Dark](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-dark-pro)** 
 [Flask Dashboard DattaAble](https://appseed.us/admin-dashboards/flask-dashboard-dattaable) | CodedThemes | MIT | [LIVE demo](https://flask-dashboard-dattaable.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-dattaable) | **[PRO Light](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro)** 
-
-<br />
-
-### BootstrapDash dashboards
-
-| Item | Design | License | - | - | - |
-| --- | --- | --- | --- | --- | --- |
+| **BootstrapDash** |  |  |  |  |  |
 [Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin) | BootsrapDash | MIT | [LIVE demo](https://flask-dashboard-purpleadmin.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-purpleadmin)| -
 [Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) | BootsrapDash | MIT | [LIVE demo](https://flask-dashboard-staradmin.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-staradmin)| **[PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-pro)**
 [Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) | BootsrapDash | MIT | [LIVE demo](https://flask-dashboard-staradmin.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-staradmin)| **[PRO Black](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-black-pro)**
 [Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) | BootsrapDash | MIT | [LIVE demo](https://flask-dashboard-staradmin.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-staradmin)| **[PRO Boxed](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-boxed-pro)**
 [Flask Dashboard Admin Material](https://appseed.us/admin-dashboards/flask-dashboard-admin-material) | BootsrapDash | MIT | [LIVE demo](https://flask-dashboard-material-admin.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-material-admin) | - 
-
-<br />
-
-### ThemeKita dashboards
-
-| Item | Design | License | - | - | - |
-| --- | --- | --- | --- | --- | --- |
+| **ThemeKita** |  |  |  |  |  |
 [Flask Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) | ThemeKita | MIT | [LIVE demo](https://flask-dashboard-atlantis-dark.appseed.us/login.html) | [source code](https://github.com/app-generator/flask-dashboard-atlantis-dark) | **[PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark-pro)**
 [Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis) | ThemeKita | MIT | [LIVE demo](https://flask-dashboard-atlantis.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-atlantis) | **[PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-pro)**
-[Flask Dashboard Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek) | TafCoder | MIT | [LIVE demo](https://flask-dashboard-sleek.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-sleek) | - 
-
-<br />
-
-### ColorLib dashboards
-
-| Item | Design | License | - | - | - |
-| --- | --- | --- | --- | --- | --- |
+| **ColorLib** |  |  |  |  |  |
 [Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) | ColorLib | MIT | [LIVE demo](https://flask-dashboard-adminlte.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-adminlte) | - 
 [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) | ColorLib | MIT | [LIVE demo](https://flask-dashboard-adminator.appseed.us/login.html) | [source code](https://github.com/app-generator/flask-dashboard-adminator) | - 
 [Flask Dashboard SRTdash](https://appseed.us/admin-dashboards/flask-dashboard-srtdash) | ColorLib | MIT | [LIVE demo](https://flask-dashboard-srtdash.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-srtdash) | -
-
-### Other vendors
-
-| Item | Design | License | - | - | - |
-| --- | --- | --- | --- | --- | --- |
+| **Other Vendors** |  |  |  |  |  |
+[Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui) | CoreUI | MIT | [LIVE demo](https://flask-dashboard-coreui.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-coreui) | - 
 [Flask iDashboard Free](https://appseed.us/admin-dashboards/flask-idashboard-free) | YooKits | MIT | [LIVE demo](https://flask-idashboard-free.appseed.us/login) | [source code](https://github.com/app-generator/flask-idashboard-free) | **[PRO Version](https://appseed.us/admin-dashboards/flask-idashboard-pro)** 
 [Flask Dashboard Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue) | FlatLogic | MIT | [LIVE demo](https://flask-dashboard-light-blue.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-light-blue) | - 
-[Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui) | CoreUI | MIT | [LIVE demo](https://flask-dashboard-coreui.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-coreui) | - 
 [Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler) | CodeCalm | MIT | [LIVE demo](https://flask-dashboard-tabler.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-tabler) | - 
 [Flask Dashboard Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) | ModularCode | MIT | [LIVE demo](https://flask-dashboard-modular-admin.appseed.us/login.html) | [source code](https://github.com/app-generator/flask-dashboard-modular-admin) | - 
 [Flask Dashboard Shards](https://appseed.us/admin-dashboards/flask-dashboard-shards) | DesignRevision | MIT | [LIVE demo](https://flask-dashboard-shards.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-shards)| - 
-
-> **Note**: Your preferred **open-source** design is not on this list? Feel free to **[submit your proposal](https://github.com/app-generator/admin-dashboards/issues/new)** using Github (open a new issue) or contact us directly on [Discord](https://discord.gg/fZC6hup) - AppSeed LIVE support channel.
+[Flask Dashboard Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek) | TafCoder | MIT | [LIVE demo](https://flask-dashboard-sleek.appseed.us/login) | [source code](https://github.com/app-generator/flask-dashboard-sleek) | - 
 
 <br />
 
