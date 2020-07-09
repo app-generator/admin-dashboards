@@ -354,4 +354,4 @@ A dashboard is a set of pages that are easy to read and offer information to the
 <br />
 
 ---
-# Open-Source [Admin Dashboards](https://appseed.us/admin-dashboards/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+Open-Source [Admin Dashboards](https://appseed.us/admin-dashboards/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
