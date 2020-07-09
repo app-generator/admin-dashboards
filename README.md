@@ -1,4 +1,4 @@
-# [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source)
+# Open-Source [Admin Dashboards](https://appseed.us/admin-dashboards/)
 
 [Open-source Admin Panels](https://appseed.us/admin-dashboards/open-source) coded / generated on top of various frameworks: [Flask](https://appseed.us/admin-dashboards/flask), [Django](https://appseed.us/admin-dashboards/django) and released under permissive licenses: MIT, LGPL - Provided by **AppSeed - [Web App Generator](https://appseed.us/app-generator)**.
 
@@ -10,7 +10,7 @@ A dashboard is a set of pages that are easy to read and offer information to the
 
 <br />
 
-## [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - sorted by UI Kit provider
+## [Flask Dashboards](https://appseed.us/admin-dashboards/flask) - sorted by UI Kit provider
 
 <br />
 
@@ -62,7 +62,7 @@ A dashboard is a set of pages that are easy to read and offer information to the
 
 <br />
 
-## [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - sorted by UI Kit provider
+## [Django Dashboards](https://appseed.us/admin-dashboards/django) - sorted by UI Kit provider
 
 <br />
 
@@ -354,4 +354,4 @@ A dashboard is a set of pages that are easy to read and offer information to the
 <br />
 
 ---
-[Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+# Open-Source [Admin Dashboards](https://appseed.us/admin-dashboards/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
