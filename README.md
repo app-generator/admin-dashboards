@@ -118,7 +118,7 @@ A dashboard is a set of pages that are easy to read and offer information to the
 
 <br />
 
-## [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black)
+## [Flask Dashboard - Black Design](https://appseed.us/admin-dashboards/flask-dashboard-black)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
 
@@ -142,7 +142,7 @@ A dashboard is a set of pages that are easy to read and offer information to the
 
 <br />
 
-## [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon)
+## [Flask Dashboard - Argon Design](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
 
@@ -166,7 +166,7 @@ A dashboard is a set of pages that are easy to read and offer information to the
 
 <br />
 
-## [Flask Dashboard DattaAble](https://appseed.us/admin-dashboards/flask-dashboard-dattaable)
+## [Flask Dashboard - DattaAble Design](https://appseed.us/admin-dashboards/flask-dashboard-dattaable)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
 
@@ -190,7 +190,7 @@ A dashboard is a set of pages that are easy to read and offer information to the
 
 <br />
 
-## [Flask Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark)
+## [Flask Dashboard - Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
 
@@ -214,7 +214,7 @@ A dashboard is a set of pages that are easy to read and offer information to the
 
 <br />
 
-## [Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui)
+## [Flask Dashboard - CoreUI Design](https://appseed.us/admin-dashboards/flask-dashboard-coreui)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
 
@@ -238,7 +238,7 @@ A dashboard is a set of pages that are easy to read and offer information to the
 
 <br />
 
-## [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black)
+## [Django Dashboard - Black Design](https://appseed.us/admin-dashboards/django-dashboard-black)
 
 > **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
 
@@ -261,7 +261,7 @@ A dashboard is a set of pages that are easy to read and offer information to the
 
 <br />
 
-## [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon)
+## [Django Dashboard - Argon Design](https://appseed.us/admin-dashboards/django-dashboard-argon)
 
 > **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
 
@@ -284,7 +284,7 @@ A dashboard is a set of pages that are easy to read and offer information to the
 
 <br />
 
-## [Django Dashboard GradientAble](https://appseed.us/admin-dashboards/django-dashboard-gradientable)
+## [Django Dashboard - GradientAble Design](https://appseed.us/admin-dashboards/django-dashboard-gradientable)
 
 > **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
 
@@ -307,7 +307,7 @@ A dashboard is a set of pages that are easy to read and offer information to the
 
 <br />
 
-## [Django Dashboard CoreUI](https://appseed.us/admin-dashboards/django-dashboard-coreui)
+## [Django Dashboard - CoreUI Design](https://appseed.us/admin-dashboards/django-dashboard-coreui)
 
 > **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
 
@@ -330,7 +330,7 @@ A dashboard is a set of pages that are easy to read and offer information to the
 
 <br />
 
-## [Django Dashboard Atlantis](https://appseed.us/admin-dashboards/django-dashboard-coreui)
+## [Django Dashboard - Atlantis Design](https://appseed.us/admin-dashboards/django-dashboard-coreui)
 
 > **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
 
