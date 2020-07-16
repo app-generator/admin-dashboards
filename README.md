@@ -8,6 +8,22 @@
 
 A dashboard is a set of pages that are easy to read and offer information to the user in real-time regarding his business. A dashboard usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides - *definition provided by [Creative-Tim - Free Dashboard Templates](https://www.creative-tim.com/blog/web-design/free-dashboard-templates/?ref=appseed)*.
 
+
+<br />
+
+## Latest product - [Django AdminLTE](https://appseed.us/admin-dashboards/django-dashboard-adminlte?ref=gh-ad-dash)
+
+**AdminLTE** Dashboard, the well-known design provided by ColorLib is now available in Django. The app is released as a free product, and based on the permissive license (MIT), can be used for unlimited hobby and commercial projects.
+
+> Links
+
+- [Django Dashboard - AdminLTE Design](https://appseed.us/admin-dashboards/django-dashboard-adminlte) - Product page
+- [Django Dashboard AdminLTE Demo](https://django-dashboard-adminlte.appseed.us/) - LIVE App
+
+<br />
+
+![Django Dashboard AdminLTE - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-adminlte/master/media/django-dashboard-adminlte-screen.png)
+
 <br />
 
 ## [Flask Dashboards](https://appseed.us/admin-dashboards/flask) - sorted by UI Kit provider
@@ -115,6 +131,28 @@ A dashboard is a set of pages that are easy to read and offer information to the
 - [Flask Admin Dashboards](https://github.com/app-generator/flask-admin-dashboards) - Index hosted on Github
 - [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - Index hosted by AppSeed
 - [Django Admin Dashboards](https://github.com/app-generator/django-admin-dashboards) - Index hosted on Github
+
+<br />
+
+## [Django Dashboard - AdminLTE](https://appseed.us/admin-dashboards/django-dashboard-adminlte)
+
+> **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
+
+- UI Kit: **AdminLTE** provided by **ColorLib**
+- UI-Ready app, SQLite Database, Django Native ORM
+- Modular design, clean code-base
+- Session-Based Authentication, Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx
+- **[MIT License](https://github.com/app-generator/license-mit)**
+
+> Links
+
+- [Django Dashboard - AdminLTE Design](https://appseed.us/admin-dashboards/django-dashboard-adminlte) - Product page
+- [Django Dashboard AdminLTE Demo](https://django-dashboard-adminlte.appseed.us/) - LIVE App
+
+<br />
+
+![Django Dashboard AdminLTE - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-adminlte/master/media/django-dashboard-adminlte-screen.png)
 
 <br />
 
