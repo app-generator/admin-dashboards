@@ -6,11 +6,11 @@
 
 ## Latest Dashboards 
 
-### [Flask Argon Design](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon?ref=gh-ad-dash)
+### [Flask Argon Design](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon?ref=gh)
 
 [Argon](https://appseed.us/ui-kit/argon-design-system?ref=gh) Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
 
-> Links: [Flask Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) product page, [LIVE Demo](https://flask-dashboard-argon.appseed.us/)
+> Links: [Flask Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon?ref=gh) product page, [LIVE Demo](https://flask-dashboard-argon.appseed.us/)
 
 <br />
 
@@ -18,11 +18,11 @@
 
 <br />
 
-### [Django Black Dashboard](https://appseed.us/admin-dashboards/django-dashboard-black?ref=gh-ad-dash)
+### [Django Black Dashboard](https://appseed.us/admin-dashboards/django-dashboard-black?ref=gh)
 
 **Black Dashboard** is a beautiful dark-themed Bootstrap 4 Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.Black Dashboard comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
 
-> Links: [Django Black Dashboard](https://appseed.us/admin-dashboards/django-dashboard-black) product page, [LIVE Demo](https://django-dashboard-black.appseed.us/)
+> Links: [Django Black Dashboard](https://appseed.us/admin-dashboards/django-dashboard-black?ref=gh) product page, [LIVE Demo](https://django-dashboard-black.appseed.us/)
 
 <br />
 
