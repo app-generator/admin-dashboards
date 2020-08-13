@@ -1,6 +1,6 @@
-# Open-Source [Admin Dashboards](https://appseed.us/admin-dashboards/)
+# Open-Source [Admin Dashboards](https://appseed.us/admin-dashboards?ref=gh)
 
-[Open-source Admin Panels](https://appseed.us/admin-dashboards/open-source) coded / generated on top of various frameworks: [Flask](https://appseed.us/admin-dashboards/flask), [Django](https://appseed.us/admin-dashboards/django) and released under permissive licenses: MIT, LGPL - Provided by **AppSeed - [Web App Generator](https://appseed.us/app-generator)**.
+[Open-source Admin Panels](https://appseed.us/admin-dashboards/open-source?ref=gh) coded/generated on top of various frameworks: [Flask](https://appseed.us/admin-dashboards/flask?ref=gh), [Django](https://appseed.us/admin-dashboards/django?ref=gh) and released under permissive licenses: MIT, LGPL - Provided by **AppSeed - [Web App Generator](https://appseed.us/app-generator)**.
 
 <br />
 
