@@ -30,11 +30,7 @@
 
 <br />
 
-## [Flask Dashboards](https://appseed.us/admin-dashboards/flask) - sorted by UI Kit provider
-
-<br />
-
-## [Flask Dashboards](https://appseed.us/admin-dashboards/flask) - sorted by UI Kit provider
+## [Admin Dashboards - Flask](https://appseed.us/admin-dashboards/flask) - sorted by UI Kit provider
 
 <br />
 
@@ -86,7 +82,7 @@
 
 <br />
 
-## [Django Dashboards](https://appseed.us/admin-dashboards/django) - sorted by UI Kit provider
+## [Admin Dashboards - Django](https://appseed.us/admin-dashboards/django) - sorted by UI Kit provider
 
 <br />
 
