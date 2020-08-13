@@ -4,25 +4,33 @@
 
 <br />
 
-## What is a [dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
+## Latest Dashboards 
 
-A dashboard is a set of pages that are easy to read and offer information to the user in real-time regarding his business. A dashboard usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides - *definition provided by [Creative-Tim - Free Dashboard Templates](https://www.creative-tim.com/blog/web-design/free-dashboard-templates/?ref=appseed)*.
+### [Flask Argon Design](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon?ref=gh-ad-dash)
 
+[Argon](https://appseed.us/ui-kit/argon-design-system?ref=gh) Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
 
-<br />
-
-## Latest product - [Django AdminLTE](https://appseed.us/admin-dashboards/django-dashboard-adminlte?ref=gh-ad-dash)
-
-**AdminLTE** Dashboard, the well-known design provided by ColorLib is now available in Django. The app is released as a free product, and based on the permissive license (MIT), can be used for unlimited hobby and commercial projects.
-
-> Links
-
-- [Django Dashboard - AdminLTE Design](https://appseed.us/admin-dashboards/django-dashboard-adminlte) - Product page
-- [Django Dashboard AdminLTE Demo](https://django-dashboard-adminlte.appseed.us/) - LIVE App
+> Links: [Flask Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) product page, [LIVE Demo](https://flask-dashboard-argon.appseed.us/)
 
 <br />
 
-![Django Dashboard AdminLTE - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-adminlte/master/media/django-dashboard-adminlte-screen.png)
+![Admin Dashboard - Coded in Flask with Argon Design.](https://raw.githubusercontent.com/app-generator/flask-boilerplate-dashboard-argon/master/media/flask-boilerplate-dashboard-argon-screen.png)
+
+<br />
+
+### [Django Black Dashboard](https://appseed.us/admin-dashboards/django-dashboard-black?ref=gh-ad-dash)
+
+**Black Dashboard** is a beautiful dark-themed Bootstrap 4 Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.Black Dashboard comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
+
+> Links: [Django Black Dashboard](https://appseed.us/admin-dashboards/django-dashboard-black) product page, [LIVE Demo](https://django-dashboard-black.appseed.us/)
+
+<br />
+
+![Admin Dashboard - Coded in Django with Black Design.](https://raw.githubusercontent.com/app-generator/django-dashboard-black/master/media/django-dashboard-black-screen.png)
+
+<br />
+
+## [Flask Dashboards](https://appseed.us/admin-dashboards/flask) - sorted by UI Kit provider
 
 <br />
 
