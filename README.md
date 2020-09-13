@@ -409,13 +409,13 @@ Black Dashboard is a beautiful Bootstrap 4 Admin Dashboard with a huge number of
 
 <br />
 
-## [Django Dashboard - GradientAble Design](https://appseed.us/admin-dashboards/django-dashboard-gradientable)
+## [Django Dashboard - Sb Admin](https://appseed.us/admin-dashboards/django-dashboard-sb-admin)
 
-Gradient Able Free Bootstrap 4 Free/Lite Admin Template is a complete solution for your dashboard creation. The default layout version comes with limited options like Google optimized, font integration, high speed, mature & sophisticated, and extremely well-organized code which makes free Gradient Able a fully flexible solution for any backend application project.
+SB Admin is a free, open source, Bootstrap 4 based admin theme perfect for quickly creating dashboards and web applications. It's modern design style with subtle shadows and a card-based layout could be described as flat material, and is inspired by the principles of material design along with a simple, attractive color system.
 
 > App Features
 
-- UI Kit: **Gradient Able** (Free version) provided by **CodedThemes** agency
+- UI Kit: **Sb Admin** (Free version) provided by **Start Bootstrap** agency
 - SQLite Database, Django Native ORM
 - Modular design, clean codebase
 - Session-Based Authentication, Forms validation
@@ -424,13 +424,12 @@ Gradient Able Free Bootstrap 4 Free/Lite Admin Template is a complete solution f
 
 > Links
 
-- [Django Dashboard Atlantis](https://django-dashboard-atlantis.appseed.us/login/) - LIVE Demo
-- [Django Dashboard Atlantis](https://appseed.us/admin-dashboards/django-dashboard-atlantis) - Product page
-- [Django Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/django-dashboard/) - Codebase Documentation
+- [Django Dashboard - Sb Admin](https://appseed.us/admin-dashboards/django-dashboard-sb-admin) - Official product page
+- [Django Dashboard Sb Admin Demo](https://django-dashboard-sb-admin.appseed.us/) - LIVE App
 
 <br />
 
-![Django Dashboard GradientAble - Open-Source template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-gradientable/master/media/django-dashboard-gradientable-screen.png)
+![Django Dashboard - SB Admin Design.](https://raw.githubusercontent.com/app-generator/django-dashboard-sb-admin/master/media/django-dashboard-sb-admin-screen.png)
 
 <br />
 
