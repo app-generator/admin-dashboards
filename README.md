@@ -6,27 +6,27 @@
 
 ## Latest Dashboards 
 
-### [Flask Argon Design](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon?ref=gh)
+### [Flask Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark)
 
-[Argon](https://appseed.us/ui-kit/argon-design-system?ref=gh) Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+Atlantis Lite is a free bootstrap 4 admin dashboard that is beautifully and elegantly designed to display various metrics, numbers or data visualization. Atlantis Lite admin dashboard has 2 layouts, many plugins and UI components to help developers create dashboards quickly and effectively so they can save development time and also help users to make the right and fast decisions based on existing data.
 
-> Links: [Flask Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon?ref=gh) product page, [LIVE Demo](https://flask-dashboard-argon.appseed.us/)
-
-<br />
-
-![Admin Dashboard - Coded in Flask with Argon Design.](https://raw.githubusercontent.com/app-generator/flask-boilerplate-dashboard-argon/master/media/flask-boilerplate-dashboard-argon-screen.png)
+> Links: [Flask Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) product page, [LIVE Demo](https://flask-dashboard-atlantis-dark.appseed.us/)
 
 <br />
 
-### [Django Black Dashboard](https://appseed.us/admin-dashboards/django-dashboard-black?ref=gh)
-
-**Black Dashboard** is a beautiful dark-themed Bootstrap 4 Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.Black Dashboard comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
-
-> Links: [Django Black Dashboard](https://appseed.us/admin-dashboards/django-dashboard-black?ref=gh) product page, [LIVE Demo](https://django-dashboard-black.appseed.us/)
+![Flask Dashboard Atlantis - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-atlantis-dark/master/media/flask-dashboard-atlantis-dark-intro.gif)
 
 <br />
 
-![Admin Dashboard - Coded in Django with Black Design.](https://raw.githubusercontent.com/app-generator/django-dashboard-black/master/media/django-dashboard-black-screen.png)
+### [Django Dashboard GradientAble](https://appseed.us/admin-dashboards/django-dashboard-gradientable)
+
+Gradient Able Free Bootstrap 4 Free/Lite Admin Template is a complete solution for your dashboard creation. The default layout version comes with limited options like Google optimized, font integration, high speed, mature & sophisticated, and extremely well-organized code which makes free Gradient Able a fully flexible solution for any backend application project
+
+> Links: [Django Dashboard GradientAble](https://appseed.us/admin-dashboards/django-dashboard-gradientable) product page, [LIVE Demo](https://django-dashboard-gradientable.appseed.us/)
+
+<br />
+
+![Django Dashboard GradientAble - Open-Source template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-gradientable/master/media/django-dashboard-gradientable-screen.png)
 
 <br />
 
