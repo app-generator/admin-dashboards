@@ -6,31 +6,30 @@
 
 ## Latest Dashboards 
 
+### [Flask Dashboard Volt](https://appseed.us/admin-dashboards/flask-dashboard-volt)
+
+Open-Source **Flask Dashboard** coded with basic modules, database, ORM and deployment scripts on top of Volt (free version), a modern Bootstrap dashboard design. Volt is a free and open source Bootstrap 5 Admin Dashboard featuring over 100 components, 11 example pages and 3 customized plugins. **Volt does not require jQuery** as a dependency meaning that every library and script's are jQuery free.
+
+- [Flask Dashboard Volt](https://appseed.us/admin-dashboards/flask-dashboard-volt) - product page
+- [Flask Dashboard Volt - Demo](https://flask-dashboard-volt.appseed.us/) - LIVE deployment
+
+<br />
+
+![Flask Dashboard Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-volt/master/media/flask-dashboard-volt-intro.gif)
+
+<br />
+
+
 ### [Flask Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark)
 
 Atlantis Lite is a free bootstrap 4 admin dashboard that is beautifully and elegantly designed to display various metrics, numbers or data visualization. Atlantis Lite admin dashboard has 2 layouts, many plugins and UI components to help developers create dashboards quickly and effectively so they can save development time and also help users to make the right and fast decisions based on existing data.
 
-> Links: [Flask Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) product page, [LIVE Demo](https://flask-dashboard-atlantis-dark.appseed.us/)
+- [Flask Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) - product page
+- [Flask Dashboard Atlantis Dark - Demo](https://flask-dashboard-atlantis-dark.appseed.us/) - LIVE Deployment
 
 <br />
 
-![Flask Dashboard Atlantis - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-atlantis-dark/master/media/flask-dashboard-atlantis-dark-intro.gif)
-
-<br />
-
-### [Django Dashboard GradientAble](https://appseed.us/admin-dashboards/django-dashboard-gradientable)
-
-Gradient Able Free Bootstrap 4 Free/Lite Admin Template is a complete solution for your dashboard creation. The default layout version comes with limited options like Google optimized, font integration, high speed, mature & sophisticated, and extremely well-organized code which makes free Gradient Able a fully flexible solution for any backend application project
-
-> Links: [Django Dashboard GradientAble](https://appseed.us/admin-dashboards/django-dashboard-gradientable) product page, [LIVE Demo](https://django-dashboard-gradientable.appseed.us/)
-
-<br />
-
-![Django Dashboard GradientAble - Open-Source template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-gradientable/master/media/django-dashboard-gradientable-screen.png)
-
-<br />
-
-## [Admin Dashboards - Flask](https://appseed.us/admin-dashboards/flask) - sorted by UI Kit provider
+![Flask Dashboard Atlantis - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-atlantis-dark/master/media/flask-dashboard-atlantis-dark-screen.png)
 
 <br />
 
