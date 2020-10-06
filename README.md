@@ -6,6 +6,19 @@
 
 ## Latest Dashboards 
 
+### [Django Dashboard Volt](https://appseed.us/admin-dashboards/django-dashboard-volt)
+
+Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of Volt (free version), a modern Bootstrap dashboard design. Volt is a free and open source Bootstrap 5 Admin Dashboard featuring over 100 components, 11 example pages and 3 customized plugins. **Volt does not require jQuery** as a dependency meaning that every library and script's are jQuery free.
+
+- [Django Dashboard Volt](https://appseed.us/admin-dashboards/django-dashboard-volt) - product page
+- [Django Dashboard Volt - Demo](https://django-dashboard-volt.appseed.us/) - LIVE deployment
+
+<br />
+
+![Django Dashboard Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-volt/master/media/django-dashboard-volt-intro.gif)
+
+<br />
+
 ### [Flask Material Lite](https://appseed.us/admin-dashboards/flask-dashboard-material-lite)
 
 Open-Source **Flask Dashboard** coded with basic modules, database, ORM and deployment scripts on top of MaterialPro Bootstrap Lite, a modern Bootstrap dashboard design. [WrapPixel](https://appseed.us/agency/wrappixel)'s **MaterialPro Bootstrap Lite** is one of the best Bootstrap templates for admin dashboards and control admin panels. This powerful and competent Bootstrap 4 admin template is based on HTML and is built with the CSS framework. 
@@ -15,20 +28,7 @@ Open-Source **Flask Dashboard** coded with basic modules, database, ORM and depl
 
 <br />
 
-![Flask Material Lite - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-material-lite/master/media/flask-dashboard-material-lite-intro.gif)
-
-<br />
-
-### [Flask Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark)
-
-Atlantis Lite is a free bootstrap 4 admin dashboard that is beautifully and elegantly designed to display various metrics, numbers or data visualization. Atlantis Lite admin dashboard has 2 layouts, many plugins and UI components to help developers create dashboards quickly and effectively so they can save development time and also help users to make the right and fast decisions based on existing data.
-
-- [Flask Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) - product page
-- [Flask Dashboard Atlantis Dark - Demo](https://flask-dashboard-atlantis-dark.appseed.us/) - LIVE Deployment
-
-<br />
-
-![Flask Dashboard Atlantis - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-atlantis-dark/master/media/flask-dashboard-atlantis-dark-screen.png)
+![Flask Material Lite - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-material-lite/master/media/flask-dashboard-material-lite-screen.png)
 
 <br />
 
