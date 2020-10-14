@@ -4,31 +4,42 @@
 
 <br />
 
+## What is a [dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
+
+A **dashboard** is a set of pages that are easy to read and offer information to the user in real-time regarding his business. A dashboard usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides - *definition provided by [Creative-Tim - Free Dashboard Templates](https://www.creative-tim.com/blog/web-design/free-dashboard-templates/?ref=appseed)*.
+
+<br />
+
 ## Latest Dashboards 
 
-### [Django Dashboard Volt](https://appseed.us/admin-dashboards/django-dashboard-volt)
+### [Django Black Dashboard](https://appseed.us/admin-dashboards/django-dashboard-black?ref=gh)
 
-Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of Volt (free version), a modern Bootstrap dashboard design. Volt is a free and open source Bootstrap 5 Admin Dashboard featuring over 100 components, 11 example pages and 3 customized plugins. **Volt does not require jQuery** as a dependency meaning that every library and script's are jQuery free.
+Black Dashboard is a beautiful Bootstrap 4 Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
+Black Dashboard comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
 
-- [Django Dashboard Volt](https://appseed.us/admin-dashboards/django-dashboard-volt) - product page
-- [Django Dashboard Volt - Demo](https://django-dashboard-volt.appseed.us/) - LIVE deployment
-
-<br />
-
-![Django Dashboard Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-volt/master/media/django-dashboard-volt-intro.gif)
+- [Django Black Dashboard](https://appseed.us/admin-dashboards/django-dashboard-black?ref=gh) - Product page
+- [Django Black Dashboard Demo](https://django-dashboard-black.appseed.us/login/) - LIVE App
+- **[Django Black Dashboard PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro?ref=gh)** - Premium Version
 
 <br />
 
-### [Flask Material Lite](https://appseed.us/admin-dashboards/flask-dashboard-material-lite)
-
-Open-Source **Flask Dashboard** coded with basic modules, database, ORM and deployment scripts on top of MaterialPro Bootstrap Lite, a modern Bootstrap dashboard design. [WrapPixel](https://appseed.us/agency/wrappixel)'s **MaterialPro Bootstrap Lite** is one of the best Bootstrap templates for admin dashboards and control admin panels. This powerful and competent Bootstrap 4 admin template is based on HTML and is built with the CSS framework. 
-
-- [Flask Material Lite](https://appseed.us/admin-dashboards/flask-dashboard-material-lite) - product page
-- [Flask Material Lite - Demo](https://flask-dashboard-material-lite.appseed.us/) - LIVE deployment
+![Django Black Dashboard - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-black/master/media/django-dashboard-black-screen.png)
 
 <br />
 
-![Flask Material Lite - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-material-lite/master/media/flask-dashboard-material-lite-screen.png)
+### [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon?ref=gh)
+
+Argon Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done. 
+
+> Links
+
+- [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon?ref=gh) - Product page
+- [Flask Dashboard Argon Demo](https://flask-dashboard-argon.appseed.us/) - LIVE app
+- [Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro?ref=gh)** - Premium Version
+
+<br />
+
+![Flask Dashboard Argon - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-boilerplate-dashboard-argon/master/media/flask-boilerplate-dashboard-argon-screen.png)
 
 <br />
 
