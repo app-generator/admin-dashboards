@@ -90,6 +90,7 @@ Argon Dashboard is built with over 100 individual components, giving you the fre
 [Flask Dashboard - Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek) | MIT | [LIVE demo](https://flask-dashboard-sleek.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-sleek) | -
 [Flask iDashboard Free](https://appseed.us/admin-dashboards/flask-idashboard-free) | [CC BY 4.0](https://github.com/app-generator/flask-idashboard-free/blob/master/LICENSE.md) | [LIVE demo](https://flask-idashboard-free.appseed.us/) | [source code](https://github.com/app-generator/flask-idashboard-free) | **[PRO Version](https://appseed.us/admin-dashboards/flask-idashboard-pro)**
 [Flask Dashboard Sb Admin](https://appseed.us/admin-dashboards/flask-dashboard-sb-admin) | MIT | [LIVE demo](https://flask-dashboard-sb-admin.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-sb-admin) | - 
+[Flask Dashboard Volt](https://appseed.us/admin-dashboards/flask-dashboard-volt) | MIT | [LIVE demo](https://flask-dashboard-volt.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-volt) | [PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-volt-pro)
 
 <br />
 
@@ -137,6 +138,7 @@ Argon Dashboard is built with over 100 individual components, giving you the fre
 [Django Dashboard - Shards](https://appseed.us/admin-dashboards/django-dashboard-shards) | MIT | [LIVE demo](https://django-dashboard-shards.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-shards) | -
 [Django iDashboard Free](https://appseed.us/admin-dashboards/django-idashboard-free) | [CC BY 4.0](https://github.com/app-generator/flask-idashboard-free/blob/master/LICENSE.md) | [LIVE demo](https://django-idashboard-free.appseed.us/) | [source code](https://github.com/app-generator/django-idashboard-free) | **[PRO Version](https://appseed.us/admin-dashboards/django-idashboard-pro)**
 [Django Dashboard Sb Admin](https://appseed.us/admin-dashboards/django-dashboard-sb-admin) | MIT | [LIVE demo](https://django-dashboard-sb-admin.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-sb-admin) | - 
+[Django Dashboard Volt](https://appseed.us/admin-dashboards/django-dashboard-volt) | MIT | [LIVE demo](https://django-dashboard-volt.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-volt) | - 
 
 <br />
 
@@ -194,7 +196,7 @@ AdminLTE is an iconic dashboard design crafted by ColorLib and actively supporte
 
 <br />
 
-## [Flask Dashboard - Black Design](https://appseed.us/admin-dashboards/flask-dashboard-black)
+## [Flask Black Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-black)
 
 Black Dashboard is a beautiful Bootstrap 4 Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
 Black Dashboard comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
@@ -221,7 +223,7 @@ Black Dashboard comes packed with all plugins that you might need inside a proje
 
 <br />
 
-## [Flask Dashboard - Argon Design](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon)
+## [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon)
 
 Argon Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done. 
 
