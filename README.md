@@ -43,7 +43,9 @@ Argon Dashboard is built with over 100 individual components, giving you the fre
 
 <br />
 
-> PRO Flask Admin Dashboard - coded on top of Premium UI Kits and supported 24/7 LIVE via [Discord](https://discord.gg/fZC6hup)
+### Want more? Go PRO! 
+
+> Premium UI Kits, LIFETIME updates and 24/7 LIVE Support provided by experts via [Discord](https://discord.gg/fZC6hup).
 
 | [Flask DattaAble PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro) | [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) | [Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro) |
 | --- | --- | --- |
