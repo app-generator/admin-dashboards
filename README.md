@@ -35,7 +35,7 @@ Argon Dashboard is built with over 100 individual components, giving you the fre
 
 - [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon?ref=gh) - Product page
 - [Flask Dashboard Argon Demo](https://flask-dashboard-argon.appseed.us/) - LIVE app
-- [Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro?ref=gh)** - Premium Version
+- **[Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro?ref=gh)** - Premium Version
 
 <br />
 
