@@ -10,36 +10,36 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 <br />
 
-### Latest Django product - [Black Dashboard](https://appseed.us/admin-dashboards/django-dashboard-black?ref=gh)
+### Latest Flask product - [Black Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-black?ref=gh)
 ---
 
 Black Dashboard is a beautiful Bootstrap 4 Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
 Black Dashboard comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
 
-- [Django Black Dashboard](https://appseed.us/admin-dashboards/django-dashboard-black?ref=gh) - Product page
-- [Django Black Dashboard Demo](https://django-dashboard-black.appseed.us/login/) - LIVE App
-- **[Django Black Dashboard PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro?ref=gh)** - Premium Version
+- [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - product page
+- [Flask Dashboard Black - Demo](https://flask-dashboard-black.appseed.us/) - LIVE App deployment
+- **[Flask Black Dashboard PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro?ref=gh)** - Premium Version
 
 <br />
 
-![Django Black Dashboard - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-black/master/media/django-dashboard-black-screen.png)
+![Flask Black Dashboard - Template project provided by AppSeed.](https://raw.githubusercontent.com/admin-dashboards/flask-black-dashboard/master/media/flask-black-dashboard-intro.gif)
 
 <br />
 
-### Latest Flask product - [Argon Dashboard](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon?ref=gh)
+### Latest Django product - [Argon Dashboard](https://appseed.us/admin-dashboards/django-dashboard-argon?ref=gh)
 ---
 
 Argon Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done. 
 
 > Links
 
-- [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon?ref=gh) - Product page
-- [Flask Dashboard Argon Demo](https://flask-dashboard-argon.appseed.us/) - LIVE app
-- **[Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro?ref=gh)** - Premium Version
+- [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon?ref=gh) - Product page
+- [Django Dashboard Argon Demo](https://django-dashboard-argon.appseed.us/) - LIVE app
+- **[Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro?ref=gh)** - Premium Version
 
 <br />
 
-![Flask Dashboard Argon - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-boilerplate-dashboard-argon/master/media/flask-boilerplate-dashboard-argon-screen.png)
+![Django Dashboard Argon - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-argon/master/media/django-dashboard-argon-screen.png)
 
 <br />
 
