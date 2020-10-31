@@ -10,36 +10,19 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 <br />
 
-### Latest Flask product - [Black Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-black?ref=gh)
+### Latest Product - [Django Datta Able](https://appseed.us/admin-dashboards/django-dashboard-dattaable?ref=gh)
 ---
 
 Black Dashboard is a beautiful Bootstrap 4 Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
 Black Dashboard comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
 
-- [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - product page
-- [Flask Dashboard Black - Demo](https://flask-dashboard-black.appseed.us/) - LIVE App deployment
-- **[Flask Black Dashboard PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro?ref=gh)** - Premium Version
+- [Django Datta Able](https://appseed.us/admin-dashboards/django-dashboard-dattaable) - Product page
+- [Django Datta Able - Demo](https://django-dashboard-dattaable.appseed.us/) - LIVE Deployment
+- **[Django Datta Able PRO](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro?ref=gh)** - Premium Version
 
 <br />
 
-![Flask Black Dashboard - Template project provided by AppSeed.](https://raw.githubusercontent.com/admin-dashboards/flask-black-dashboard/master/media/flask-black-dashboard-intro.gif)
-
-<br />
-
-### Latest Django product - [Argon Dashboard](https://appseed.us/admin-dashboards/django-dashboard-argon?ref=gh)
----
-
-Argon Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done. 
-
-> Links
-
-- [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon?ref=gh) - Product page
-- [Django Dashboard Argon Demo](https://django-dashboard-argon.appseed.us/) - LIVE app
-- **[Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro?ref=gh)** - Premium Version
-
-<br />
-
-![Django Dashboard Argon - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-argon/master/media/django-dashboard-argon-screen.png)
+![Django Datta Able - Open-Source Admin Panel Coded in Django.](https://raw.githubusercontent.com/app-generator/static/master/django-dashboard-dattaable/django-dashboard-dattaable-intro.gif)
 
 <br />
 
