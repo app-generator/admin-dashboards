@@ -6,15 +6,14 @@
 
 ## What is a [dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
 
-A **dashboard** is a set of pages that are easy to read and offer information to the user in real-time regarding his business. A dashboard usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides - *definition provided by [Creative-Tim - Free Dashboard Templates](https://www.creative-tim.com/blog/web-design/free-dashboard-templates/?ref=appseed)*.
+A **dashboard** is a set of pages that are easy to read and offer information to the user in real-time regarding his business. A dashboard usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides.
 
 <br />
 
 ### Latest Product - [Django Datta Able](https://appseed.us/admin-dashboards/django-dashboard-dattaable?ref=gh)
 ---
 
-Black Dashboard is a beautiful Bootstrap 4 Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
-Black Dashboard comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
+**Datta Able** Bootstrap Lite is the most stylised Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. Before developing Datta Able our key points were performance and design. While developing we have gone through various testing & code optimization process, for making this performance and design-centric backend application.
 
 - [Django Datta Able](https://appseed.us/admin-dashboards/django-dashboard-dattaable) - Product page
 - [Django Datta Able - Demo](https://django-dashboard-dattaable.appseed.us/) - LIVE Deployment
