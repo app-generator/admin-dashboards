@@ -72,6 +72,7 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 [Flask iDashboard Free](https://appseed.us/admin-dashboards/flask-idashboard-free) | [CC BY 4.0](https://github.com/app-generator/flask-idashboard-free/blob/master/LICENSE.md) | [LIVE demo](https://flask-idashboard-free.appseed.us/) | [source code](https://github.com/app-generator/flask-idashboard-free) | **[PRO Version](https://appseed.us/admin-dashboards/flask-idashboard-pro)**
 [Flask Dashboard Sb Admin](https://appseed.us/admin-dashboards/flask-dashboard-sb-admin) | MIT | [LIVE demo](https://flask-dashboard-sb-admin.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-sb-admin) | - 
 [Flask Dashboard Volt](https://appseed.us/admin-dashboards/flask-dashboard-volt) | MIT | [LIVE demo](https://flask-dashboard-volt.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-volt) | **[PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-volt-pro)**
+Flask AdminKit | MIT | [LIVE demo](https://flask-adminkit.appseed-srv1.com/) | [source code](https://github.com/app-generator/flask-adminkit) | -
 
 <br />
 
@@ -120,6 +121,7 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 [Django iDashboard Free](https://appseed.us/admin-dashboards/django-idashboard-free) | [CC BY 4.0](https://github.com/app-generator/flask-idashboard-free/blob/master/LICENSE.md) | [LIVE demo](https://django-idashboard-free.appseed.us/) | [source code](https://github.com/app-generator/django-idashboard-free) | **[PRO Version](https://appseed.us/admin-dashboards/django-idashboard-pro)**
 [Django Dashboard Sb Admin](https://appseed.us/admin-dashboards/django-dashboard-sb-admin) | MIT | [LIVE demo](https://django-dashboard-sb-admin.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-sb-admin) | - 
 [Django Dashboard Volt](https://appseed.us/admin-dashboards/django-dashboard-volt) | MIT | [LIVE demo](https://django-dashboard-volt.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-volt) | **[PRO Version](https://appseed.us/admin-dashboards/django-dashboard-volt-pro)**  
+Django AdminKit | MIT | [LIVE demo](https://django-adminkit.appseed-srv1.com/) | [source code](https://github.com/app-generator/django-adminkit) | -
 
 <br />
 
