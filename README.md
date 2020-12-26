@@ -430,4 +430,4 @@ SB Admin is a free, open source, Bootstrap 4 based admin theme perfect for quick
 <br />
 
 ---
-Open-Source [Admin Dashboards](https://appseed.us/admin-dashboards/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+Open-Source [Admin Dashboards](https://appseed.us/admin-dashboards/) - Provided by **AppSeed [App Generator](https://appseed.us/app-generator)**.
