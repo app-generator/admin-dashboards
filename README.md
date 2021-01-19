@@ -113,7 +113,7 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 [Django Dashboard - Atlantis Lite](https://appseed.us/admin-dashboards/django-dashboard-atlantis) | MIT | [LIVE demo](https://django-dashboard-atlantis.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-atlantis) | -
 [Django Dashboard - Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) | MIT | [LIVE demo](https://django-dashboard-atlantis-dark.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-atlantis-dark) | **[PRO Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark-pro)**
 | **Themesberg** |  |  |  |  |
-**[Django Dashboard Volt](https://appseed.us/admin-dashboards/django-dashboard-volt)** | MIT | [LIVE demo](https://django-volt-dashboard.appseed-srv1.com/login/) | [source code](https://github.com/app-generator/django-dashboard-volt) | **[PRO Version](https://appseed.us/admin-dashboards/django-dashboard-volt-pro)** 
+**[Django Dashboard Volt](https://appseed.us/admin-dashboards/django-dashboard-volt)** | MIT | [LIVE demo](https://django-volt-dashboard.appseed-srv1.com/) | [source code](https://github.com/app-generator/django-dashboard-volt) | **[PRO Version](https://appseed.us/admin-dashboards/django-dashboard-volt-pro)** 
 | **Adminkit.io** |  |  |  |  |
 **Django AdminKit** | MIT | [LIVE demo](https://django-adminkit.appseed-srv1.com/) | [source code](https://github.com/app-generator/django-adminkit) | -
 | **ColorLib** |  |  |  |  |
