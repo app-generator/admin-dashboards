@@ -60,7 +60,7 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 | **Adminkit.io** |  |  |  |  |
 **Flask AdminKit** | MIT | [LIVE demo](https://flask-adminkit.appseed-srv1.com/) | [source code](https://github.com/app-generator/flask-adminkit) | -
 | **ColorLib** |  |  |  |  |
-[Flask Dashboard - AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) | MIT | [LIVE demo](https://flask-dashboard-adminlte.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-adminlte) | -
+**[Flask Dashboard - AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte)** | [EULA](https://github.com/app-generator/license-eula) | [LIVE demo](https://flask-dashboard-adminlte.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-adminlte) | -
 [Flask Dashboard - Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) | MIT | [LIVE demo](https://flask-dashboard-adminator.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-adminator) | -
 [Flask Dashboard - SRTdash](https://appseed.us/admin-dashboards/flask-dashboard-srtdash) | MIT | [LIVE demo](https://flask-dashboard-srtdash.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-srtdash) | -
 | **Other Vendors** |  |  |  |  |
@@ -117,7 +117,7 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 | **Adminkit.io** |  |  |  |  |
 **Django AdminKit** | MIT | [LIVE demo](https://django-adminkit.appseed-srv1.com/) | [source code](https://github.com/app-generator/django-adminkit) | -
 | **ColorLib** |  |  |  |  |
-[Django Dashboard - AdminLTE](https://appseed.us/admin-dashboards/django-dashboard-adminlte) | MIT | [LIVE demo](https://django-dashboard-adminlte.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-adminlte) | -
+**[Django Dashboard - AdminLTE](https://appseed.us/admin-dashboards/django-dashboard-adminlte)** | [EULA](https://github.com/app-generator/license-eula) | [LIVE demo](https://django-dashboard-adminlte.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-adminlte) | -
 [Django Dashboard - Adminator](https://appseed.us/admin-dashboards/django-dashboard-adminator) | MIT | [LIVE demo](https://django-dashboard-adminator.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-adminator) | -
 | **Other Vendors** |  |  |  |  |  |
 [Django Dashboard - CoreUI](https://appseed.us/admin-dashboards/django-dashboard-coreui) | MIT | [LIVE demo](https://django-dashboard-coreui.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-coreui) | -
