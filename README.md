@@ -50,7 +50,7 @@ Volt Dashboard is a free and open source **[Bootstrap 5](https://appseed.us/admi
 | --- | --- | --- | --- | --- |
 | **Creative-Tim** |  |  |  |  |
 [**Flask Dashboard - Black Design**](https://appseed.us/admin-dashboards/flask-dashboard-black) | MIT | [LIVE demo](https://flask-black-dashboard.appseed-srv1.com/) | [source code](https://github.com/app-generator/flask-black-dashboard) | **[Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)**
-[**Flask Dashboard - Material Design**](https://appseed.us/admin-dashboards/flask-dashboard-material-design) | MIT | [LIVE demo](https://flask-material-dashboard.appseed-srv1.com//) | [source code](https://github.com/app-generator/flask-material-dashboard) | **[Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)**
+[**Flask Dashboard - Material Design**](https://appseed.us/admin-dashboards/flask-dashboard-material-design) | MIT | [LIVE demo](https://flask-material-dashboard.appseed-srv1.com) | [source code](https://github.com/app-generator/flask-material-dashboard) | **[Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)**
 [**Flask Dashboard - Argon Design**](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) | MIT | [LIVE demo](https://flask-argon-dashboard.appseed-srv1.com/) | [source code](https://github.com/app-generator/flask-boilerplate-dashboard-argon) | **[Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)**
 **[Flask Dashboard - Soft Dashboard](https://appseed.us/product/flask-soft-ui-dashboard)** | MIT | [LIVE demo](https://flask-soft-ui-dashboard.appseed-srv1.com) | [source code](https://github.com/app-generator/flask-soft-ui-dashboard) | **[Soft PRO](https://appseed.us/product/flask-soft-ui-dashboard-pro)**
 | **Themesberg** |  |  |  |  |
@@ -71,18 +71,17 @@ Volt Dashboard is a free and open source **[Bootstrap 5](https://appseed.us/admi
 | **Adminkit.io** |  |  |  |  |
 **Flask AdminKit** | MIT | [LIVE demo](https://flask-adminkit.appseed-srv1.com/) | [source code](https://github.com/app-generator/flask-adminkit) | -
 | **ColorLib** |  |  |  |  |
-**[Flask Dashboard - AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte)** | [EULA](https://github.com/app-generator/license-eula) | [LIVE demo](https://flask-dashboard-adminlte.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-adminlte) | -
-[Flask Dashboard - Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) | MIT | [LIVE demo](https://flask-dashboard-adminator.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-adminator) | -
+**[Flask Dashboard - AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte)** | MIT | [LIVE demo](https://adminlte-flask.appseed-srv1.com/) | [source code](https://github.com/app-generator/flask-dashboard-adminlte) | -
+[Flask Dashboard - Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) | MIT | [LIVE demo](https://flask-adminator.appseed-srv1.com/) | [source code](https://github.com/app-generator/flask-dashboard-adminator) | -
 [Flask Dashboard - SRTdash](https://appseed.us/admin-dashboards/flask-dashboard-srtdash) | MIT | [LIVE demo](https://flask-dashboard-srtdash.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-srtdash) | -
 | **Other Vendors** |  |  |  |  |
-[Flask Dashboard - CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui) | MIT | [LIVE demo](https://flask-dashboard-coreui.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-coreui) | -
+[Flask Dashboard - CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui) | MIT | [LIVE demo](https://flask-coreui.appseed-srv1.com/) | [source code](https://github.com/app-generator/flask-dashboard-coreui) | -
 [Flask Dashboard Sb Admin](https://appseed.us/admin-dashboards/flask-dashboard-sb-admin) | MIT | [LIVE demo](https://flask-dashboard-sb-admin.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-sb-admin) | - 
 [Flask Dashboard - Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue) | MIT | [LIVE demo](https://flask-dashboard-light-blue.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-light-blue) | -
 [Flask Dashboard - Tabler Design](https://appseed.us/admin-dashboards/flask-dashboard-tabler) | MIT | [LIVE demo](https://flask-dashboard-tabler.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-tabler) | -
 [Flask Dashboard - Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) | MIT | [LIVE demo](https://flask-dashboard-modular-admin.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-modular-admin) | -
 [Flask Dashboard - Shards](https://appseed.us/admin-dashboards/flask-dashboard-shards) | MIT | [LIVE demo](https://flask-dashboard-shards.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-shards)| -
 [Flask Dashboard - Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek) | MIT | [LIVE demo](https://flask-dashboard-sleek.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-sleek) | -
-[Flask iDashboard Free](https://appseed.us/admin-dashboards/flask-idashboard-free) | [CC BY 4.0](https://github.com/app-generator/flask-idashboard-free/blob/master/LICENSE.md) | [LIVE demo](https://flask-idashboard-free.appseed.us/) | [source code](https://github.com/app-generator/flask-idashboard-free) | **[iDashboard PRO](https://appseed.us/admin-dashboards/flask-idashboard-pro)**
 [Flask Dashboard - Now UI Design](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) | MIT | [LIVE demo](https://flask-now-ui-dashboard.appseed.us/) | [source code](https://github.com/app-generator/flask-now-ui-dashboard) | **[Now UI PRO](https://appseed.us/admin-dashboards/flask-dashboard-now-ui-pro)**
 [Flask Dashboard - Light Design](https://appseed.us/admin-dashboards/flask-dashboard-light-bootstrap) | MIT | [LIVE demo](https://flask-dashboard-light.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-light-bootstrap) | **[Light PRO](https://appseed.us/admin-dashboards/flask-dashboard-light-pro)**
 [Flask Dashboard - Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin) | MIT | [LIVE demo](https://flask-dashboard-purpleadmin.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-purpleadmin)| -
@@ -127,14 +126,13 @@ Volt Dashboard is a free and open source **[Bootstrap 5](https://appseed.us/admi
 | **Adminkit.io** |  |  |  |  |
 **Django AdminKit** | MIT | [LIVE demo](https://django-adminkit.appseed-srv1.com/) | [source code](https://github.com/app-generator/django-adminkit) | -
 | **ColorLib** |  |  |  |  |
-**[Django Dashboard - AdminLTE](https://appseed.us/admin-dashboards/django-dashboard-adminlte)** | [EULA](https://github.com/app-generator/license-eula) | [LIVE demo](https://django-dashboard-adminlte.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-adminlte) | -
+**[Django Dashboard - AdminLTE](https://appseed.us/admin-dashboards/django-dashboard-adminlte)** | MIT | [LIVE demo](https://django-dashboard-adminlte.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-adminlte) | -
 [Django Dashboard - Adminator](https://appseed.us/admin-dashboards/django-dashboard-adminator) | MIT | [LIVE demo](https://django-dashboard-adminator.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-adminator) | -
 | **Other Vendors** |  |  |  |  |  |
-[Django Dashboard - CoreUI](https://appseed.us/admin-dashboards/django-dashboard-coreui) | MIT | [LIVE demo](https://django-dashboard-coreui.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-coreui) | -
+[Django Dashboard - CoreUI](https://appseed.us/admin-dashboards/django-dashboard-coreui) | MIT | [LIVE demo](https://django-coreui.appseed-srv1.com/) | [source code](https://github.com/app-generator/django-dashboard-coreui) | -
 [Django Dashboard - Light Blue](https://appseed.us/admin-dashboards/django-dashboard-light-blue) | MIT | [LIVE demo](https://django-dashboard-light-blue.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-light-blue) | -
 [Django Dashboard - Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler) | MIT | [LIVE demo](https://django-dashboard-tabler.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-tabler) | -
 [Django Dashboard - Shards](https://appseed.us/admin-dashboards/django-dashboard-shards) | MIT | [LIVE demo](https://django-dashboard-shards.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-shards) | -
-[Django iDashboard Free](https://appseed.us/admin-dashboards/django-idashboard-free) | [CC BY 4.0](https://github.com/app-generator/flask-idashboard-free/blob/master/LICENSE.md) | [LIVE demo](https://django-idashboard-free.appseed.us/) | [source code](https://github.com/app-generator/django-idashboard-free) | **[iDashboard PRO](https://appseed.us/admin-dashboards/django-idashboard-pro)**
 [Django Dashboard Sb Admin](https://appseed.us/admin-dashboards/django-dashboard-sb-admin) | MIT | [LIVE demo](https://django-dashboard-sb-admin.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-sb-admin) | - 
 [Django Dashboard - Now UI](https://appseed.us/admin-dashboards/django-dashboard-nowui) | MIT | [LIVE demo](https://django-dashboard-nowui.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-nowui) | **[Now UI PRO](https://appseed.us/admin-dashboards/django-dashboard-nowui-pro)**
 [Django Dashboard - Light Design](https://appseed.us/admin-dashboards/django-dashboard-light) | MIT | [LIVE demo](https://django-dashboard-light-bootstrap.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-light-bootstrap) | **[Light PRO](https://appseed.us/admin-dashboards/django-dashboard-light-pro)**
@@ -167,12 +165,6 @@ Black Dashboard comes packed with all plugins that you might need inside a proje
 - Deployment scripts: Docker, Gunicorn / Nginx, Heroku
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
-> Links
-
-- [Flask Dashboard Black](https://flask-dashboard-black.appseed.us/) - LIVE demo
-- [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - Product page
-- [Flask Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/flask-dashboard/) - Codebase Documentation
-
 <br />
 
 ![Flask Dashboard Black - Open-Source Admin Dashboard coded in Flask by AppSeed.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-screen.png)
@@ -192,12 +184,6 @@ Argon Dashboard is built with over 100 individual components, giving you the fre
 - Session-Based authentication (via **flask_login**), Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx, Heroku
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
-
-> Links
-
-- [Flask Dashboard Argon](https://flask-dashboard-argon.appseed.us/) - LIVE demo
-- [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - Product page
-- [Flask Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/flask-dashboard/) - Codebase Documentation
 
 <br />
 
@@ -219,12 +205,6 @@ Atlantis Lite Dark is a free bootstrap 4 admin dashboard that is beautifully and
 - Deployment scripts: Docker, Gunicorn / Nginx, Heroku
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
-> Links
-
-- [Flask Atlantis Dark](https://flask-dashboard-atlantis-dark.appseed.us/) - LIVE Demo
-- [Flask Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) - Product page
-- [Flask Atlantis Dark](https://docs.appseed.us/boilerplate-code/flask-dashboard/) - Codebase Documentation
-
 <br />
 
 ![Flask Dashboard Atlantis Dark - Starter project coded in Flask.](https://raw.githubusercontent.com/app-generator/flask-dashboard-atlantis-dark/master/media/flask-dashboard-atlantis-dark-screen.png)
@@ -244,12 +224,6 @@ Black Dashboard is a beautiful Bootstrap 4 Admin Dashboard with a huge number of
 - Deployment scripts: Docker, Gunicorn / Nginx
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
-> Links
-
-- [Django Dashboard Black](https://django-dashboard-black.appseed.us/login/) - LIVE Demo
-- [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - Product page
-- [Django Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/django-dashboard/) - Codebase Documentation
-
 <br />
 
 ![Flask Dashboard CoreUI - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-black/master/media/django-dashboard-black-screen.png)
@@ -261,11 +235,6 @@ Black Dashboard is a beautiful Bootstrap 4 Admin Dashboard with a huge number of
 [Admin dashboard](https://appseed.us/admin-dashboards) generated by AppSeed in **Django** Framework.
 
 Azia Dashboard is a beautifully designed admin template featuring a fine selection of useful Bootstrap components and elements. The pre-built pages of the templates are intuitive and very well-designed.
-
-<br />
-
-- [Django Azia Dashboard](https://appseed.us/admin-dashboards/django-dashboard-azia) - Official product page
-- [Django Azia Dashboard Demo](https://django-dashboard-azia.appseed-srv1.com/) - LIVE App
 
 <br />
 
@@ -284,12 +253,6 @@ Azia Dashboard is a beautifully designed admin template featuring a fine selecti
 - Deployment scripts: Docker, Gunicorn / Nginx
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
-> Links
-
-- [Django Dashboard Argon](https://django-dashboard-argon.appseed.us/login/) - LIVE Demo
-- [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon) - Product page
-- [Django Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/django-dashboard/) - Codebase Documentation
-
 <br />
 
 ![Django Dashboard Argon - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-argon/master/media/django-dashboard-argon-screen.png)
@@ -306,11 +269,6 @@ Azia Dashboard is a beautifully designed admin template featuring a fine selecti
 - Session-Based Authentication, Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
-
-> Links
-
-- [Django Gradient Able](https://appseed.us/admin-dashboards/django-gradient-able) - product page
-- [Django Gradient Able - Demo](https://django-gradient-able.appseed-srv1.com/) - LIVE Deployment 
 
 <br />
 
