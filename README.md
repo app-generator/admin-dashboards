@@ -11,7 +11,8 @@
 
 <br />
 
-> **[Datta Able Django](https://appseed.us/admin-dashboards/django-datta-able) - product page** (contains DEMO & sources)
+- **[Datta Able Django](https://appseed.us/admin-dashboards/django-datta-able) - product page**
+- [Datta Able Django](https://django-datta-able.appseed-srv1.com/) - LIVE Demo
 
 <br />
 
@@ -26,8 +27,9 @@ Volt Dashboard is a free and open source **[Bootstrap 5](https://appseed.us/admi
 
 <br />
 
-> **[Flask Bootstrap 5 Volt](https://appseed.us/admin-dashboards/flask-dashboard-volt) - product page** (contains DEMO & sources)
-> 
+- **[Flask Bootstrap 5 Volt](https://appseed.us/admin-dashboards/flask-dashboard-volt) - product page**
+- [Flask Bootstrap 5 Volt](https://flask-volt-dashboard.appseed-srv1.com/) - LIVE Demo
+ 
 <br />
 
 ![Flask Bootstrap 5 Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-volt/master/media/flask-dashboard-volt-screen.png)
