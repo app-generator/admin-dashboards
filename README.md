@@ -52,6 +52,9 @@ Volt Dashboard is a free and open source **[Bootstrap 5](https://appseed.us/admi
 [**Flask Dashboard - Black Design**](https://appseed.us/admin-dashboards/flask-dashboard-black) | MIT | [LIVE demo](https://flask-black-dashboard.appseed-srv1.com/) | [source code](https://github.com/app-generator/flask-black-dashboard) | **[Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)**
 [**Flask Dashboard - Material Design**](https://appseed.us/admin-dashboards/flask-dashboard-material-design) | MIT | [LIVE demo](https://flask-material-dashboard.appseed-srv1.com//) | [source code](https://github.com/app-generator/flask-material-dashboard) | **[Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)**
 [**Flask Dashboard - Argon Design**](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) | MIT | [LIVE demo](https://flask-argon-dashboard.appseed-srv1.com/) | [source code](https://github.com/app-generator/flask-boilerplate-dashboard-argon) | **[Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)**
+[Flask Dashboard - Soft Dashboard](https://appseed.us/product/flask-soft-ui-dashboard) | MIT | [LIVE demo](https://flask-soft-ui-dashboard.appseed-srv1.com) | [source code](https://github.com/app-generator/flask-soft-ui-dashboard) | **[Soft PRO](https://appseed.us/product/flask-soft-ui-dashboard-pro)**
+| **Themesberg** |  |  |  |  |
+**[Flask Dashboard Volt](https://appseed.us/admin-dashboards/flask-dashboard-volt)** | MIT | [LIVE demo](https://flask-volt-dashboard.appseed-srv1.com/) | [source code](https://github.com/app-generator/flask-dashboard-volt) | **[Volt PRO](https://appseed.us/admin-dashboards/flask-dashboard-volt-pro)**
 | **CodedThemes** |  |  |  |  |
 [**Flask Dashboard - Datta Able**](https://appseed.us/admin-dashboards/flask-datta-able) | MIT | [LIVE demo](https://flask-datta-able.appseed-srv1.com/) | [source code](https://github.com/app-generator/flask-datta-able) | **[Datta Able PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro)**
 [**Flask Dashboard - Datta Able**](https://appseed.us/admin-dashboards/flask-datta-able) | MIT | [LIVE demo](https://flask-datta-able.appseed-srv1.com/) | [source code](https://github.com/app-generator/flask-datta-able) | **[Datta Dark PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-dark-pro)**
@@ -65,8 +68,6 @@ Volt Dashboard is a free and open source **[Bootstrap 5](https://appseed.us/admi
 | **ThemeKita** |  |  |  |  |
 **[Flask Atlantis Lite](https://appseed.us/admin-dashboards/flask-dashboard-atlantis)** | MIT | [LIVE demo](https://flask-atlantis-lite.appseed-srv1.com/) | [source code](https://github.com/app-generator/flask-dashboard-atlantis) | **[Atlantis PRO](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-pro)**
 **[Flask Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark)** | MIT | [LIVE demo](https://flask-atlantis-dark.appseed-srv1.com/) | [source code](https://github.com/app-generator/flask-dashboard-atlantis-dark) | **[Atlantis Dark PRO](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark-pro)**
-| **Themesberg** |  |  |  |  |
-**[Flask Dashboard Volt](https://appseed.us/admin-dashboards/flask-dashboard-volt)** | MIT | [LIVE demo](https://flask-volt-dashboard.appseed-srv1.com/) | [source code](https://github.com/app-generator/flask-dashboard-volt) | **[Volt PRO](https://appseed.us/admin-dashboards/flask-dashboard-volt-pro)**
 | **Adminkit.io** |  |  |  |  |
 **Flask AdminKit** | MIT | [LIVE demo](https://flask-adminkit.appseed-srv1.com/) | [source code](https://github.com/app-generator/flask-adminkit) | -
 | **ColorLib** |  |  |  |  |
