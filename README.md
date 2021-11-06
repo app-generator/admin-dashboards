@@ -20,19 +20,19 @@
 
 <br />
 
-### Latest Flask Product - [Volt Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-volt)
+### Latest Flask Product - [Material Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-material-design)
 ---
 
-Volt Dashboard is a free and open source **[Bootstrap 5](https://appseed.us/admin-dashboards/flask-dashboard-volt)** Admin Dashboard featuring over 100 components, 11 example pages and 3 plugins with Vanilla JS. There are more than 100 free Bootstrap 5 components included some of them being buttons, alerts, modals, datepickers and much more.
+Designed for those who like bold elements and beautiful websites, **Material Dashboard 2** is ready to help you create stunning websites and web apps. **Material Dashboard 2** is built with over 60 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
 
 <br />
 
-- **[Flask Bootstrap 5 Volt](https://appseed.us/admin-dashboards/flask-dashboard-volt) - product page**
-- [Flask Bootstrap 5 Volt](https://flask-volt-dashboard.appseed-srv1.com/) - LIVE Demo
+- [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design) - product page
+- [Flask Dashboard Material](https://flask-material-dashboard.appseed-srv1.com/) - LIVE deployment
  
 <br />
 
-![Flask Bootstrap 5 Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-volt/master/media/flask-dashboard-volt-screen.png)
+![Flask Dashboard Material - Open-source Seed Project.](https://user-images.githubusercontent.com/51070104/140611540-0887a00f-f64f-428f-a39f-366a4b555fd7.gif)
 
 <br />
 
