@@ -4,14 +4,6 @@
 
 <br />
 
-## [Black Friday 2022](https://appseed.us) - `75%OFF`
-
-> The campaign is active until `30.NOV` and applies to all products and licenses.
-
-[![AppSeed - Black Friday 2022 Campaign, 75% OFF Discount (all products).](https://user-images.githubusercontent.com/51070104/201829599-9fe6bdd7-3f19-46f3-9115-962eeb13bf29.jpg)](https://appseed.us)
-
-<br />
-
 ## ✨ [Datta Able Flask](https://appseed.us/product/datta-able/flask/)
 
 **Datta Able** Bootstrap Lite is the most stylised Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. Before developing Datta Able our key points were performance and design. 
