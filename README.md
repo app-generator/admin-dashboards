@@ -66,6 +66,7 @@ Designed for those who like bold elements and beautiful websites, **[Material Da
 
 - 👉 [Django Dashboard Material](https://appseed.us/product/material-dashboard/django/) - product page
 - 👉 [Django Dashboard Material](https://django-material-dashboard.appseed-srv1.com/) - LIVE App
+- 🚀 Built with [Material Dashboard Generator](https://appseed.us/generator/material-dashboard/) (free service)
 
 <br />
 
@@ -102,5 +103,5 @@ Gradient Able Free Bootstrap 4 Free/Lite Admin Template is a complete solution f
 <br />
 
 ---
-Admin Dashboards (a curated list with projects) - Provided by **AppSeed** [App Generator](https://appseed.us/generator/).
+[Admin Dashboards](https://appseed.us/admin-dashboards/)- A curated list with projects crafted by [AppSeed](https://appseed.us).
 
