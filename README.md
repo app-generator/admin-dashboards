@@ -6,9 +6,11 @@ An **admin dashboard** usually consists of graphical representations of the curr
 
 <br />
 
-## 🚀 [AppSeed](https://appseed.us/) `PROMO` 🔥50%OFF (all products)
+## 🎁 `PROMO` [Campaign Boost 2023](https://appseed.us/discounts/) `75%OFF` 
 
-[![Campaign Boost 2023 - AppSeed Winter PROMO](https://user-images.githubusercontent.com/51070104/207626921-2cd669fe-457f-47a3-83b3-b58d5ba7d46f.jpg)](https://appseed.us/discounts/)
+> This **Campaign** is active during `15.DEC-15.IAN` and applies to all `products & licenses`.
+
+[![Campaign Boost 2023 - AppSeed Winter PROMO, 75%OFF (all products & licenses)](https://user-images.githubusercontent.com/51070104/210043076-17cf8879-1644-4c49-8f18-e268b215bd7f.jpg)](https://appseed.us/discounts/)
 
 <br />
 
