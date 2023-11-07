@@ -4,9 +4,9 @@
 
 An **admin dashboard** usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides.    
 
-<br />
+---
 
-## 🚀 **[Black Friday Campaign](https://appseed.us/)** is LIVE: `70%Off`
+## 🚀 **[Black Friday Campaign](https://appseed.us/)** is LIVE: `65%Off`
 
 > `React`, `Django`, `Flask`, and `NodeJs` starters crafted and actively supported by **AppSeed**
  
