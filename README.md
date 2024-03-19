@@ -24,7 +24,6 @@ An **admin dashboard** usually consists of graphical representations of the curr
 | -                                     | ✅ `Private REPO Access`                                                               |  -                                   |
 | -                                     | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)                    |  -                                   |
 | -                                     | ✅ Deployment Assistance                                                               |  -                                   |
-| -                                     | -                                                                                       |  -                                   |
 | ------------------------------------  | ------------------------------------                                                    | ------------------------------------|
 | ✓ [LIVE Demo](https://django-datta-able.appseed-srv1.com/)  | 🚀 [LIVE Demo](https://django-datta-pro.onrender.com/) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |   
 
