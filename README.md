@@ -2,8 +2,11 @@
 
 **[Free Dashboards](https://app-generator.dev/admin-dashboards/open-source/)** crafted by the **App-Generator** platform with basic modules, database, ORM, modular codebase and deployment scripts on top of modern UI Kits. For newcomers, a **dashboard** is a set of pages that are easy to read and offer information to the user in real-time regarding his business.
 
-An admin dashboard usually consists of graphical representations of an organization's current status and trends. A well-designed dashboard allows you to act and make informed decisions based on your business's data.    
+> 👉 Build your starter with **[Django App Generator](https://app-generator.dev/tools/django-generator/)** and customize: `DB Tables`, `Auth`, `Async Tasks`, `Docker`, `CI/Cd Scripts`
 
+![Django App Generator - Select Design](https://github.com/user-attachments/assets/d94dd5bf-dc5e-46c5-a69f-997ec4b46209)
+![Django App Generator - Design Database](https://github.com/user-attachments/assets/330c6ba5-6066-46f0-9d0f-c7161410eb5a)
+   
 <br />
 
 ## [Django AdminLTE](https://app-generator.dev/product/adminlte/django/)
