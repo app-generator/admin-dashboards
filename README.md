@@ -24,8 +24,8 @@ The product is designed to deliver the best possible user experience with highly
 
 - Simple, Easy-to-Extend Codebase
 - Datta Able Design - Full Integration 
-- Dynamic Tables
-- Dynamic API
+- [Dynamic Tables](https://app-generator.dev/docs/developer-tools/dynamic-datatables.html)
+- [Dynamic API](https://app-generator.dev/docs/developer-tools/dynamic-api.html)
 - CLI for Coding Tasks
 - Bootstrap 5 Styling 
 - Session-based Authentication, Password recovery
@@ -169,9 +169,9 @@ A common set of features is provided out-of-the-box: **API, DataTables, Charts, 
 ### Features 
 ---
 
-- [OK] Dynamic DT
+- [OK] [Dynamic DataTables](https://app-generator.dev/docs/developer-tools/dynamic-datatables.html)
 - [OK] Dynamic Charts
-- [OK] Dynamic API via DRF
+- [OK] [Dynamic API](https://app-generator.dev/docs/developer-tools/dynamic-api.html) via DRF
 - [OK] Powerful `CLI` tools      
 
 ### Quick Start
