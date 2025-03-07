@@ -13,7 +13,7 @@
 - New DevTools
   - [Dynamic Django](https://dynamic-django.onrender.com/)
   - [Django App Generator](https://app-generator.dev/tools/django-generator/)
-  - [Flask App Generator](https://app-generator.dev/tools/django-generator/)  
+  - [Flask App Generator](https://app-generator.dev/tools/flask-generator/)  
 
 ## [1.0.2] 2024-03-14
 ### Changes
