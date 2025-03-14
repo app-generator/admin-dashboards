@@ -1,13 +1,6 @@
 # [Admin Dashboards](https://app-generator.dev/admin-dashboards/)
 
 **[Free Dashboards](https://app-generator.dev/admin-dashboards/open-source/)** crafted by the **App-Generator** platform with basic modules, database, ORM, modular codebase, and deployment scripts on top of modern UI Kits. For newcomers, a **dashboard** is a set of pages that are easy to read and offer information to the user in real-time regarding his business.
-
-> NOTE: Generate your starter on top of **Flask** and **Django** and customize: `DB Tables`, `Auth`, `Async Tasks` (Celery), `Docker`, `CI/Cd Scripts`
-
-- 👉 [Django App Generator](https://app-generator.dev/tools/django-generator/) - free service 
-- 👉 [Flask App Generator](https://app-generator.dev/tools/flask-generator/) - free service
-
-![Django App Generator - Free service provided by App-Generator](https://github.com/user-attachments/assets/d13c09d9-c8e6-4e99-bbe4-eb27bd2d7c31)
    
 <br />
 
@@ -19,14 +12,18 @@ The product is designed to deliver the best possible user experience with highly
 - 👉 [Django Datta Able](https://app-generator.dev/product/datta-able/django/) - `Product Page`
 - 👉 [Django Datta Able](https://django-datta.onrender.com) - `LIVE Demo`
 
-### Features
 ---
 
 - Simple, Easy-to-Extend Codebase
-- Datta Able Design - Full Integration 
+- [Datta Able](https://app-generator.dev/docs/templates/bootstrap/datta-able.html) Design Integration 
 - [Dynamic Tables](https://app-generator.dev/docs/developer-tools/dynamic-datatables.html)
 - [Dynamic API](https://app-generator.dev/docs/developer-tools/dynamic-api.html)
-- CLI for Coding Tasks
+- **CLI for Coding Tasks**
+  - `Commit/rollback Git Changes`
+  - `Backup & restore DB`
+  - `Interact with Django Core` via CLI
+  - `Update Environment variables`
+  - `Update Dependencies`  
 - Bootstrap 5 Styling 
 - Session-based Authentication, Password recovery
 - DB Persistence: SQLite (default), can be used with MySql, PgSql
@@ -44,12 +41,11 @@ Open-source **Django** project crafted on top of **[Material Dashboard](https://
 - 👉 [Django Material Dashboard](https://app-generator.dev/product/material-dashboard/django/) - `Product Page`
 - 👉 [Django Material Dashboard](https://django-material-dash2.onrender.com/) - `LIVE Demo`
 
-### Features
 ---
 
 - Simple, Easy-to-Extend Codebase
-- Material Dashboard Design - Full Integration 
-- Bootstrap 5 Styling 
+- [Material Dashboard](https://app-generator.dev/docs/templates/bootstrap/material-dashboard.html) Design Integration 
+- Bootstrap Styling 
 - Session-based Authentication, Password recovery
 - DB Persistence: SQLite (default), can be used with MySql, PgSql
 - Docker 
@@ -67,12 +63,11 @@ The product is designed to deliver the best possible user experience with highly
 - 👉 [Django Soft UI Dashboard](https://app-generator.dev/product/soft-ui-dashboard/django/) - `Product Page`
 - 👉 [Django Soft UI Dashboard](https://django-soft-dash.onrender.com/) - `LIVE Demo`
 
-### Features
 ---
 
 - Simple, Easy-to-Extend Codebase
-- Soft UI Dashboard Design - Full Integration 
-- Bootstrap 5 Styling 
+- [Soft UI Dashboard](https://app-generator.dev/docs/templates/bootstrap/soft-ui-dashboard.html) Design Integration 
+- Bootstrap Styling 
 - Session-based Authentication, Password recovery
 - DB Persistence: SQLite (default), can be used with MySql, PgSql
 - Docker 
@@ -90,11 +85,10 @@ The product is designed to deliver the best possible user experience with highly
 - 👉 [Django Berry Dashboard](https://app-generator.dev/product/berry-dashboard/django/) - `Product Page`
 - 👉 [Django Berry Dashboard](https://django-berry.onrender.com/) - `LIVE Demo`
 
-### Features
 ---
 
 - Simple, Easy-to-Extend Codebase
-- Black Dashboard Design - Full Integration 
+- [Berry Dashboard](https://app-generator.dev/docs/templates/bootstrap/berry-dashboard.html) Design Integration 
 - Bootstrap Styling 
 - Session-based Authentication, Password recovery
 - DB Persistence: SQLite (default), can be used with MySql, PgSql
@@ -112,12 +106,11 @@ Open-source **Django Starter with AdminLTE Design**, an open-source iconic `Boot
 - 👉 [Django AdminLTE](https://app-generator.dev/product/adminlte/django/) - `Product Page`
 - 👉 [Django AdminLTE](https://adminlte-django.appseed-srv1.com) - `LIVE Demo`
 
-### Features
 ---
 
 - Simple, Easy-to-Extend Codebase
-- AdminLTE Design - Full Integration 
-- Bootstrap 5 Styling 
+- [AdminLTE](https://app-generator.dev/docs/templates/bootstrap/adminlte.html) Design Integration 
+- Bootstrap Styling 
 - Session-based Authentication, Password recovery
 - DB Persistence: SQLite (default), can be used with MySql, PgSql
 - Docker 
@@ -136,7 +129,6 @@ A common set of features is provided out-of-the-box: **API, DataTables, Charts, 
 - 👉 [Django Rocket](https://app-generator.dev/product/rocket/django/) - `Product Page`
 - 👉 [Django Rocket](https://rocket-django.onrender.com) - `LIVE Demo`
 
-### Features
 ---
 
 - Styling: **Tailwind CSS/Flowbite**
@@ -150,86 +142,6 @@ A common set of features is provided out-of-the-box: **API, DataTables, Charts, 
 
 ![Django Rocket - Open-Source Django Starter styled with Tailwind](https://github.com/user-attachments/assets/d7527d5e-046c-4679-8f72-525290a5edd5)
   
-<br />
-
-## [Dynamic Django](https://dynamic-django.onrender.com/)
-
-**Dynamic Programming Patterns** applied in `Python/Django` - actively supported by `AppSeed`. 
-
-> LIVE DEMOs & [official documentation](https://app-generator.dev/docs/developer-tools/dynamic-django/index.html)
-
-- Dynamic DataTables: https://dynamic-django.onrender.com/dynamic-dt/sales/
-- Dynamic Charts: https://dynamic-django.onrender.com/dynamic-charts/sales/
-  - `PIE`: [DEMO](https://dynamic-django.onrender.com/dynamic-charts/sales/?chart_id=2), [EMBED](https://dynamic-django.onrender.com/dynamic-charts/embed/2/)
-  - `POLAR`: [DEMO](https://dynamic-django.onrender.com/dynamic-charts/sales/?chart_id=10), [EMBED](https://dynamic-django.onrender.com/dynamic-charts/embed/10/)
-  - `DONUT`: [DEMO](https://dynamic-django.onrender.com/dynamic-charts/sales/?chart_id=8), [EMBED](https://dynamic-django.onrender.com/dynamic-charts/embed/8/)
-
-![Dynamic Django - Dynamic Programming Patterns applied in Python/Django.](https://github.com/user-attachments/assets/2f9f6cef-23cb-4328-b12f-dcc448feaa96)
-
-### Features 
----
-
-- [OK] [Dynamic DataTables](https://app-generator.dev/docs/developer-tools/dynamic-datatables.html)
-- [OK] Dynamic Charts
-- [OK] [Dynamic API](https://app-generator.dev/docs/developer-tools/dynamic-api.html) via DRF
-- [OK] Powerful `CLI` tools      
-
-### Quick Start
----
-
-> NOTE: Requires a [purchase](https://appseed.gumroad.com/l/devtool-dynamic-django), secured by GUMROAD.
- 
-```
-# Clone Repo
-$ git clone https://github.com/app-generator/priv-dynamic-django.git
-```
-
-> Create VENV
-
-```bash
-$ virtualenv env
-$ source env/bin/activate
-$ pip install -r requirements.txt
-```
-
-> Set Up Database
-
-```bash
-$ python manage.py makemigrations
-$ python manage.py migrate
-```
-
-> Start the Project
-
-```bash
-$ python manage.py createsuperuser # create the admin
-$ python manage.py runserver       # start the project
-```
-
-### Update model 
----
-
-```bash
-$ python
->>> from cli import *
->>> add_model('home', 'Stats')
->>> # Syntax: model_add_field('APP_NAME_HERE', 'MODEL_NAME_HERE', 'FIELD_NAME',  'FIELD_TYPE') 
->>> add_model_field('home', 'Stats', 'aInt',  'int') 
->>> add_model_field('home', 'Stats', 'aChar', 'str')
->>> add_model_field('home', 'Stats', 'aText', 'text')
-```
-
-The file is automatically reformated using `black` and DB migrated.
-
-### DB Backup / RESET / Restore
----
-
-```bash
-$ python manage.py dbbackup  -o 20240930-001.dump  # backup 
-$ python manage.py reset_db                        # RESET_DB [ Danger, all tables wipped ]
-$ python manage.py dbrestore -i 20240930-001.dump  # restore 
-```
-
 <br />
 
 ---
