@@ -1,6 +1,6 @@
 # [Admin Dashboards](https://app-generator.dev/admin-dashboards/)
 
-**[Free Dashboards](https://app-generator.dev/admin-dashboards/open-source/)** crafted by the **[App-Generator](https://app-generator.dev/)** platform with basic modules, database, ORM, modular codebase, and deployment scripts on top of modern UI Kits. For newcomers, a **dashboard** is a set of pages that are easy to read and offer information to the user in real-time regarding his business.
+**[Free Admin Dashboards](https://app-generator.dev/admin-dashboards/open-source/)** crafted by the **[App-Generator](https://app-generator.dev/)** platform with basic modules, database, ORM, modular codebase, and deployment scripts on top of modern UI Kits. For newcomers, a **dashboard** is a set of pages that are easy to read and offer information to the user in real-time regarding his business.
    
 <br />
 
