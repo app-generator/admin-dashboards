@@ -15,9 +15,9 @@ The product is designed to deliver the best possible user experience with highly
 ---
 
 - Simple, Easy-to-Extend Codebase
-- [Datta Able](https://app-generator.dev/docs/templates/bootstrap/datta-able.html) Design Integration 
-- [Dynamic Tables](https://app-generator.dev/docs/developer-tools/dynamic-datatables.html)
-- [Dynamic API](https://app-generator.dev/docs/developer-tools/dynamic-api.html)
+- **Datta Able** Design Integration 
+- **Dynamic Tables** - generate data tables without coding 
+- **Dynamic API** - expose secure APIs without coding
 - **CLI for Coding Tasks**
   - `Commit/rollback Git Changes`
   - `Backup & restore DB`
@@ -32,6 +32,30 @@ The product is designed to deliver the best possible user experience with highly
 
 ![Django Datta Able - Open-Source Django Starter](https://user-images.githubusercontent.com/51070104/176118649-7233ffbc-6118-4f56-8cda-baa81d256877.png)
 
+<br />
+
+## [Django Rocket](https://app-generator.dev/product/rocket/django/)
+
+Open-source **[Django Template styled with Tailwind CSS and Flowbite](https://app-generator.dev/product/rocket/django/)**.The product is designed to deliver the best possible developer experience with highly customizable feature-rich pages. 
+
+A common set of features is provided out-of-the-box: **API, DataTables, Charts, Extended User Model, and Docker Support** under a permissive MIT License (**unrestricted usage in hobby or commercial projects**).
+
+- 👉 [Django Rocket](https://app-generator.dev/product/rocket/django/) - `Product Page`
+- 👉 [Django Rocket](https://rocket-django.onrender.com) - `LIVE Demo`
+
+---
+
+- Styling: **Tailwind CSS/Flowbite**
+- **Extended User Model**
+- **Charts** via ApexJS
+- **Dynamic Tables** - generate data tables without coding 
+- **Dynamic API** - expose secure APIs without coding
+- Can be used with **SQLite**, **MySql**, **PostgreSQL**, **MsSql**
+- **Docker**
+- **CI/CD Integration** with Render 
+
+![Django Rocket - Open-Source Django Starter styled with Tailwind](https://github.com/user-attachments/assets/d7527d5e-046c-4679-8f72-525290a5edd5)
+  
 <br />
 
 ## [Django Material Dashboard](https://app-generator.dev/product/material-dashboard/django/)
