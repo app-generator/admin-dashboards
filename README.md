@@ -34,6 +34,32 @@ The product is designed to deliver the best possible user experience with highly
 
 <br />
 
+## [Flask Datta Able](https://app-generator.dev/product/datta-able/flask/)
+
+Open-source **Flask** project crafted on top of **Datta Able Dashboard**, an open-source `Bootstrap` design.
+The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
+
+- 👉 [Flask Datta Able](https://app-generator.dev/product/datta-able/flask/) - `Product Page`
+- 👉 [Flask Datta Able](https://flask-datta-demo.onrender.com) - `LIVE Demo` 
+
+---
+
+- Simple, Easy-to-Extend codebase, [Blueprint Pattern](https://app-generator.dev/blog/flask-blueprints-a-developers-guide/)
+- Up-to-date Dependencies
+- [Datta Able](https://app-generator.dev/docs/templates/bootstrap/datta-able.html) Full Integration
+- [Bootstrap](https://app-generator.dev/docs/templates/bootstrap/index.html) 5 Styling
+- Auth: Session Based, GitHub, Google
+- Celery Beat 
+- DB Persistence: SQLite (default), 
+  - Easy switch to MySql/MariaDB, PgSql
+- [Dynamic DataTables](https://flask-datta-demo.onrender.com/dynamic-dt) - manage data without coding
+- CI/CD integration for [Render](https://app-generator.dev/docs/deployment/render/index.html)
+- Deployment: Docker, Flask-Minify
+
+![Flask Datta Able - Open-Source Flask Starter](https://user-images.githubusercontent.com/51070104/176118649-7233ffbc-6118-4f56-8cda-baa81d256877.png)
+
+<br />
+
 ## [Django Rocket](https://app-generator.dev/product/rocket/django/)
 
 Open-source **[Django Template styled with Tailwind CSS and Flowbite](https://app-generator.dev/product/rocket/django/)**.The product is designed to deliver the best possible developer experience with highly customizable feature-rich pages. 
@@ -56,6 +82,27 @@ A common set of features is provided out-of-the-box: **API, DataTables, Charts, 
 
 ![Django Rocket - Open-Source Django Starter styled with Tailwind](https://github.com/user-attachments/assets/d7527d5e-046c-4679-8f72-525290a5edd5)
   
+<br />
+
+# [Flask Rocket](https://app-generator.dev/product/rocket/flask/)
+
+Open-source **[Flask Template styled with Tailwind CSS and Flowbite](https://app-generator.dev/product/rocket/flask/)**.The product is designed to deliver the best possible developer experience with highly customizable feature-rich pages. 
+A common set of features is provided out-of-the-box: **API, DataTables, Charts, Extended User Model, and Docker Support** under a permissive MIT License (**unrestricted usage in hobby or commercial projects**).
+
+- 👉 [Flask Rocket](https://app-generator.dev/product/rocket/flask/) - `Product Page`
+- 👉 [Flask Rocket](https://rocket-flask.onrender.com) - `LIVE Demo` 
+
+---
+
+- Styling: **Tailwind CSS/Flowbite**
+- **Extended User Model**
+- **Charts** via ApexJS
+- **DataTables** 
+- **API**
+- Can be used with **SQLite**, **MySql**, **PostgreSQL**, **MsSql**
+- **Docker**
+- **CI/CD Integration** with Render 
+ 
 <br />
 
 ## [Django Material Dashboard](https://app-generator.dev/product/material-dashboard/django/)
