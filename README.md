@@ -6,7 +6,7 @@ A curated list with **[Admin Dashboards](https://app-generator.dev/admin-dashboa
  
 <br />
 
-## [Django Rocket](https://app-generator.dev/product/rocket/django/)
+## [Django Rocket](https://app-generator.dev/product/rocket/django/) 
 
 A modern, modular Django boilerplate styled entirely with Rocket Design using Tailwind CSS and the Flowbite component library. This starter combines a utility-first frontend with an advanced Django backend setup, complete with Docker support and a custom CLI, allowing you to build and deploy highly optimized interfaces quickly.
 
